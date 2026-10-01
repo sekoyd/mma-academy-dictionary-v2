@@ -1,0 +1,444 @@
+[
+ {
+  "term": "AISO (AI Search Optimization)",
+  "short_definition": "AISO is the practice of making content discoverable, extractable and citable by AI-powered search and answer systems such as ChatGPT and Perplexity.",
+  "long_explanation": "Several agencies frame AISO as an umbrella term that sits above SEO, AEO, GEO and LLMO, covering the general work of getting content read and cited by AI search tools. It is one of the more widely used umbrella labels in 2025 to 2026 trade coverage, alongside GEO and AEO. Marketers need a working label for the shift from ranking pages to being cited inside AI answers, and AISO is one option teams reach for.",
+  "usage_context": "NAV43 and MentionWell both published 2025 to 2026 guides on AISO as the practice of optimizing for AI Overviews, ChatGPT and Perplexity answers.",
+  "related_terms": "GEO, AEO, LLMO, AIO",
+  "tr_equivalent": null,
+  "tr_definition": "AISO, içeriğin ChatGPT ve Perplexity gibi yapay zeka destekli arama ve yanıt sistemleri tarafından bulunmasını, işlenmesini ve kaynak olarak gösterilmesini sağlayan çalışmaları kapsar.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://nav43.com/blog/aiso-how-to-optimize-for-ai-search-in-2025/",
+   "https://searchengineland.com/seo-geo-aso-new-era-brand-visibility-ai-research-464936"
+  ],
+  "notes": "Distinct from AISEO which was already rejected for this dictionary. AISO is used both as AI Search Optimization and occasionally interchangeably with AISEO by some publishers, but the more common current usage is the shorter AISO form. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AIVO (AI Visibility Optimization)",
+  "short_definition": "AIVO is a framework for keeping a brand visible, consistent and accurate across AI-driven answer systems, tracked as a measurable outcome rather than a click count.",
+  "long_explanation": "Some agencies use AIVO instead of AEO or GEO because it centers on visibility and accuracy across large language models rather than on click-through traffic. The term positions itself as going beyond citation seeding toward measurable brand representation, and it has been used as a 2025 to 2026 positioning term by multiple firms. It gives marketing teams a metric-minded alternative that ties AI presence directly to brand and revenue risk.",
+  "usage_context": "Four Dots' piece on the industry's competing acronyms names AIVO as the author's preferred term over GEO, AIO, AEO and LLMO, and Goodie published an \"AI Visibility Optimization (AIVO) 2026 Guide.\"",
+  "related_terms": "GEO, AEO, LLMO, AIO",
+  "tr_equivalent": null,
+  "tr_definition": "AIVO, bir markanın ChatGPT gibi yapay zeka sistemlerinde ne sıklıkla ve ne doğrulukla göründüğünü ölçmeye ve iyileştirmeye odaklanan bir çalışma alanıdır.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://fourdots.com/blog/the-naming-wars-of-an-industry-that-doesnt-know-what-to-call-itself-11979",
+   "https://higoodie.com/blog/ai-visibility-optimization-2026/",
+   "https://riseopp.com/ai-marketing/ai-visibility-optimization-aivo"
+  ],
+  "notes": "Some vendor blogs (Medium/Tim de Rosen) attach a proprietary measurement stack (PSOS, AIVB, RaR) to AIVO; those sub-metrics are single-source and were not added as separate dictionary items. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "SAIO (Search AI Optimization)",
+  "short_definition": "SAIO is optimizing a website and its content for AI-powered answer engines such as ChatGPT, Gemini, Perplexity, Claude and Copilot, as opposed to ranking in classic search results.",
+  "long_explanation": "Agencies trace the term back to 2023, after Google's Project Magi announcement, though marketer awareness of it grew mainly through 2025 and into 2026. It is one of the earlier alternative labels to AEO and GEO, and some agencies still use it as a client-facing service name. Marketers who encounter SAIO in a vendor pitch are looking at one of the older entries in this same family of terms.",
+  "usage_context": "Digital Brand Expressions runs an ongoing \"SAIO/SEO Glossary of Acronyms\" series and offers SAIO as a named service line.",
+  "related_terms": "GEO, AEO, AIO",
+  "tr_equivalent": null,
+  "tr_definition": "SAIO, bir web sitesini klasik arama sıralamasından ayrı olarak ChatGPT, Gemini, Perplexity, Claude ve Copilot gibi yapay zeka destekli yanıt motorlarına göre optimize etmeyi ifade eder.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.digitalbrandexpressions.com/2023/08/14/what-is-search-artificial-intelligence-optimization-saio/",
+   "https://www.dualmedia.fr/en/what-is-saio/",
+   "https://xponent21.com/insights/the-alphabet-soup-of-seo-what-aeo-aio-geo-and-aiseo-mean-for-your-strategy/"
+  ],
+  "notes": "Coined slightly before the Sept 2024 window but its marketer mainstreaming and repeated 2025 to 2026 coverage puts current relevance inside the requested window. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "GSO (Generative Search Optimization)",
+  "short_definition": "GSO is optimizing content so generative AI search results, including Google AI Overviews, ChatGPT and Gemini, select, quote and cite it.",
+  "long_explanation": "WPP Media, formerly GroupM, and other holding-company units use GSO as their house term, largely interchangeably with GEO and AEO. Marketers dealing with large agencies will meet this label sitting alongside the other two, since Digiday and others report that most practitioners treat the three as synonyms with no settled taxonomy as of 2026.",
+  "usage_context": "WPP Media's \"Beyond Keywords: Generative Search Optimization Is Your Brand's New Best Friend\" and Digiday's explainer both use GSO as part of a synonym cluster with GEO and AEO.",
+  "related_terms": "GEO, AEO, AIO",
+  "tr_equivalent": null,
+  "tr_definition": "GSO, Google AI Overviews, ChatGPT ve Gemini gibi üretken yapay zeka arama sonuçlarının içeriği seçmesini, alıntılamasını ve kaynak göstermesini sağlayan çalışmaları kapsar.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.wppmedia.com/news/Beyond-keywords-why-generative-search-optimization-is-your-brands-new-best-friend",
+   "https://digiday.com/media/wtf-are-geo-and-aeo-and-how-they-differ-from-seo/",
+   "https://www.superlines.io/articles/what-is-gso-future-of-ai-search-generative-search-optimisation/"
+  ],
+  "notes": "Digiday and others explicitly state GEO, AEO and GSO are treated as synonyms by most practitioners; no settled taxonomy exists as of 2026. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AAIO (Agentic AI Optimization)",
+  "short_definition": "AAIO is optimizing content and product data so autonomous shopping or task agents, not human searchers, can find, evaluate and select a brand when acting on a user's behalf.",
+  "long_explanation": "2026 trade coverage positions AAIO as the step after AEO and GEO, tied directly to agentic commerce, where an AI agent rather than a person completes the purchase or booking. Adobe's Q1 2026 data cited AI-referred shoppers converting 42 percent better than human shoppers, which gives marketers a concrete reason to track the term. Coverage so far is mostly single-vendor blog content, so it should be treated as an emerging term to watch rather than an established industry standard.",
+  "usage_context": "AI Magicx published \"AAIO: How to Optimize Your Content for AI Agents (Not Just AI Search) in 2026.\"",
+  "related_terms": "GEO, AEO, AAO, ACO",
+  "tr_equivalent": null,
+  "tr_definition": "AAIO, satın alma veya rezervasyon işlemini bir kullanıcı adına tamamlayan yapay zeka ajanlarının markayı bulup değerlendirebilmesi için içerik ve ürün verisini optimize etmeyi ifade eder.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.aimagicx.com/blog/aaio-agentic-ai-optimization-guide-2026",
+   "https://invisibletech.ai/blog/agentic-commerce-2026"
+  ],
+  "notes": "Very recent, mostly single-vendor blog coverage as of Sept 2026; include as an emerging term to watch rather than an established industry standard. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "SXO (Search Experience Optimization)",
+  "short_definition": "SXO blends SEO, user experience and conversion rate optimization so a visitor not only finds a page but gets a real answer, stays engaged and converts.",
+  "long_explanation": "The term predates 2024, but 2025 to 2026 coverage reframed it as a necessary companion to AI Overviews and GEO. Agencies position SXO as the human-facing counterpart to AI-facing GEO and AEO work: being cited or ranked is not enough if the page itself fails to satisfy the visitor who clicks through. It remains distinct from the AI-citation acronyms because its focus stays on the person reading the page, not the AI system summarizing it.",
+  "usage_context": "imageX Media published \"AIO, GEO, AEO and SXO: The New SEO Acronyms Marketers Need to Know\" (2025), and CAKE Commerce published \"What Is Search Experience Optimization (SXO) in 2025.\"",
+  "related_terms": "SEO, GEO, AEO, CVR",
+  "tr_equivalent": null,
+  "tr_definition": "SXO, bir ziyaretçinin sayfayı sadece bulmasını değil gerçek bir yanıt alıp etkileşimde kalmasını ve dönüşüm göstermesini sağlayacak şekilde SEO, kullanıcı deneyimi ve dönüşüm optimizasyonunu birleştirir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://imagexmedia.com/blog/aio-geo-aeo-sxo-guide",
+   "https://cakecommerce.com/blogs/resources/adopting-search-experience-optimization-sxo",
+   "https://www.dflovett.com/the-machine/seo-sxo-aio-aiso-geo-etc"
+  ],
+  "notes": "Older UX/CRO term; flagged because the research brief explicitly asked about it as part of the AEO/GEO family, and it is being actively re-mainstreamed in 2025 to 2026 AI search content. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "SoM (Share of Model)",
+  "short_definition": "Share of Model is an AI visibility metric that measures how often a brand is mentioned or cited by one or more LLMs as a share of total category brand mentions.",
+  "long_explanation": "The metric is credited to Jack Smyth and Tom Roach and is positioned as the AI-era successor to Share of Voice. It is calculated as brand mentions divided by total category mentions, multiplied by 100, using a fixed set of prompts run across ChatGPT, Gemini and Perplexity. Several vendors, including Profound, Conductor and Semrush, now automate this calculation, giving marketing teams a direct KPI for AI answer presence.",
+  "usage_context": "NameSilo published \"What is Share of Model: A KPI for 2026,\" and Symphonic Digital published \"Share of Model: The Essential Marketing Metric for the AI Era.\"",
+  "related_terms": "Share of Voice (SOV), LLM Share of Voice",
+  "tr_equivalent": null,
+  "tr_definition": "Share of Model, bir markanın kategori içindeki toplam yapay zeka yanıt anımlarına oranla ChatGPT, Gemini ve Perplexity gibi büyük dil modellerinde ne sıklıkla anıldığını ölçer.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.symphonicdigital.com/blog/understanding-share-of-model",
+   "https://www.namesilo.com/blog/en/seo/share-of-model-a-kpi-for-2026-to-measure-ai-mentions-citations-and-competitive-coverage",
+   "https://cdp.com/glossary/share-of-model/"
+  ],
+  "notes": "Distinct from the existing dictionary entry \"LLM Share of Voice\"; SoM is presented by sources as the more standardized, commonly cited 2026 term, so both can coexist with a cross reference. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "SoA (Share of Answer)",
+  "short_definition": "Share of Answer is a visibility metric that measures how consistently a brand is mentioned or cited inside AI-generated answers, most often tied to Google AI Overviews specifically.",
+  "long_explanation": "Unlike Share of Model, which is measured across open-ended chat with multiple LLMs, SoA is tied to the AI Overviews and synthesized-answer surface rather than a general LLM conversation. It gives marketers a benchmark distinct from classic Share of Voice.",
+  "usage_context": "LoudFace published \"Share of Answer: The New Ranking Metric,\" and Relixir published \"Measuring Share of Answer: Build a Real-Time SoA Dashboard.\"",
+  "related_terms": "Share of Voice (SOV), SoM",
+  "tr_equivalent": null,
+  "tr_definition": "Share of Answer, bir markanın özellikle Google AI Overviews gibi yapay zeka yanıt yüzeylerinde ne kadar tutarlı biçimde anıldığını veya kaynak gösterildiğini ölçen bir görünürlük metriğidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.loudface.co/blog/share-of-answer",
+   "https://lseo.com/answer-engine-optimization-services/share-of-answer-vs-share-of-voice-a-2026-measurement-guide/"
+  ],
+  "notes": "Closely related to SoM; sources distinguish SoA as answer-surface specific (AI Overviews) versus SoM as cross-LLM. Kept as a separate entry because both acronyms are in active independent use. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "ACR (AI Citation Rate)",
+  "short_definition": "AI Citation Rate is the share of a fixed set of target queries whose AI-generated answers cite or mention a given brand, usually split into cited, mentioned and recommended levels.",
+  "long_explanation": "Few marketing teams track AI visibility systematically yet, so ACR gives early movers a concrete way to measure it. An open GitHub project, acr-tracker, publishes a daily public ACR measurement for a single brand across Perplexity as a working example. Sources explicitly state that there is no industry-wide standard for AI citation rate yet, so the term should be treated as an emerging, still-informal metric name.",
+  "usage_context": "mlytics published \"What Is AI Citation Rate? The New AI Visibility Metric\" (2025 to 2026), alongside the open acr-tracker project on GitHub.",
+  "related_terms": "SoM, SoA, LLM Share of Voice",
+  "tr_equivalent": null,
+  "tr_definition": "AI Citation Rate, belirlenen bir sorgu setinin yapay zeka yanıtlarında bir markanın kaç oranda anıldığını veya kaynak olarak gösterildiğini ölçer.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.mlytics.com/blog/ai-citation-rate/",
+   "https://github.com/arturayupov/acr-tracker"
+  ],
+  "notes": "Sources explicitly state there is no industry-wide standard for AI citation rate yet, so treat as an emerging, still-informal metric name rather than a settled term. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AIGC (AI-Generated Content)",
+  "short_definition": "AIGC is any text, image, video, audio or code produced mainly by generative AI models, with a human guiding the process through prompts, parameters and curation.",
+  "long_explanation": "The term originated in China's tech ecosystem, in use since around 2022 to 2023, and has since become a global shorthand. It now sits in the standard glossary of marketing and martech vendors, used across product descriptions, social copy and video scripts to distinguish AI-made content from human-made or AI-assisted content. It became a standard marketing glossary term across 2024 to 2026.",
+  "usage_context": "Davies Meyer's marketing glossary carries an entry for \"AI-Generated Content (AIGC),\" and QuickCreator published \"What is AI-Generated Content (AIGC)? AIGC Definition and SEO Explained.\"",
+  "related_terms": "CGC, GenAI",
+  "tr_equivalent": null,
+  "tr_definition": "AIGC, bir insanın prompt, parametre ve seçim yoluyla yönlendirdiği, ana üretimi üretken yapay zeka modellerinin yaptığı metin, görsel, video, ses veya kod içeriktir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://daviesmeyer.com/en/glossary/ai-generated-content-aigc",
+   "https://quickcreator.io/blogs/ai-generated-content-what-is-and-future-look",
+   "https://ppl.studio/blog/what-is-aigc-complete-guide"
+  ],
+  "notes": "Requested explicitly in the brief as part of the generative content acronym family. Already-added CGC (Consumer Generated Content) is a distinct, human authored counterpart. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "llms.txt",
+  "short_definition": "llms.txt is a proposed plain-text file, similar in spirit to robots.txt or an XML sitemap, meant to help large language models find and prioritize a site's most important content.",
+  "long_explanation": "Jeremy Howard of fast.ai and Answer.AI proposed the file in September 2024, and SEO trade press, including Search Engine Land and Ahrefs, has discussed it since as a low-effort AI-readiness step. Adoption stays low even so, at about 10 percent of a 300,000-domain sample cited by Ahrefs, and Google's Gary Illyes stated in July 2025 that Google does not support or plan to support it. Large empirical studies cited by these sources found no measurable AI-citation uplift from adding the file as of 2025 to 2026.",
+  "usage_context": "Search Engine Land published \"Meet llms.txt, a proposed standard for AI website content crawling\" (2024), and Ahrefs published \"What Is llms.txt, and Should You Care About It?\"",
+  "related_terms": "NLWeb, ACO",
+  "tr_equivalent": null,
+  "tr_definition": "llms.txt, büyük dil modellerinin bir sitenin en önemli içeriğini bulup önceliklendirmesine yardımcı olması amaçlanan, robots.txt benzeri bir düz metin dosyası önerisidir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://searchengineland.com/llms-txt-proposed-standard-453676",
+   "https://ahrefs.com/blog/what-is-llms-txt/",
+   "https://seranking.com/blog/llms-txt/"
+  ],
+  "notes": "Not a classic acronym (it is a filename), included because the brief explicitly asked for it. Large empirical studies cited by sources find no measurable AI-citation uplift from adding the file as of 2025 to 2026, so it is presented with that caveat. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)",
+  "short_definition": "E-E-A-T is Google's content quality framework, used in its Search Quality Rater Guidelines, that now also functions as a de facto AI-citation quality signal.",
+  "long_explanation": "Google added the second \"E,\" for Experience, to the older E-A-T framework on December 15, 2022. A BrightEdge study cited in 2025 to 2026 coverage found that 58 percent of pages that lost traffic in 2024 lacked strong E-E-A-T elements, especially clear authorship. Google's September 11, 2025 Search Quality Rater Guidelines update refined YMYL evaluation and reinforced the framework's weight, and marketers now treat it as relevant to both classic SEO and AI Overview or LLM citation eligibility.",
+  "usage_context": "WebProNews published \"Google's 2025 Search Guidelines Update Boosts YMYL, E-A-T for SEO,\" and multiple agencies published 2025 to 2026 guides on applying E-E-A-T.",
+  "related_terms": "SEO, AEO, GEO",
+  "tr_equivalent": null,
+  "tr_definition": "E-E-A-T, Google'ın içerik kalitesini değerlendirdiği ve artık yapay zeka yanıtlarında kaynak gösterilme olasılığını da etkileyen deneyim, uzmanlık, otorite ve güvenilirlik çerçevesidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.webpronews.com/googles-2025-search-guidelines-update-boosts-ymyl-e-a-t-for-seo/",
+   "https://www.v9digital.com/insights/e-e-a-t-in-2025-how-googles-updated-guidelines-affect-your-seo-strategy/",
+   "https://theguidex.com/insights/google-quality-rater-guidelines"
+  ],
+  "notes": "Included per the brief's explicit example list, flagged as newly relevant rather than brand new; predates September 2024 but its 2025 guideline updates and AI-search tie-in fall inside the window. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "ZCS (Zero-Click Search)",
+  "short_definition": "Zero-click search is user behavior where a searcher gets an answer directly on the results page, through a featured snippet, AI Overview or knowledge panel, without clicking through to any website.",
+  "long_explanation": "The strategic marketing response to this behavior is sometimes labeled Zero-Click Marketing (ZCM). The concept predates 2024, but the framing and its scale became a mainstream marketer talking point through 2025 to 2026 as AI Overviews and AI Mode expanded. Similarweb-cited 2026 data shows more than half of Google searches now end without a click, and inside Google's AI Mode the zero-click rate reaches roughly 93 percent, pushing marketers to redefine success around in-platform visibility and brand recall rather than click-through. ZCS and ZCM are used inconsistently as formal abbreviations, and most trade press still writes out the full phrase.",
+  "usage_context": "Similarweb published \"Zero-Click Searches in 2026,\" and Omnibound published \"Zero-Click Search Statistics (2026): 52+ Data Points.\"",
+  "related_terms": "SERP, View-Through Conversion",
+  "tr_equivalent": null,
+  "tr_definition": "Zero-click search, kullanıcının bir öne çıkan snippet, AI Overview veya bilgi paneli aracılığıyla yanıtı doğrudan sonuç sayfasında alıp hiçbir siteye tıklamadığı arama davranışıdır.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.similarweb.com/blog/marketing/seo/zero-click-searches/",
+   "https://www.omnibound.ai/blog/zero-click-search-statistics",
+   "https://oatmarketing.com/business-marketing-tips/zero-click-search-in-2026-what-it-means-and-how-to-stay-visible/"
+  ],
+  "notes": "ZCS/ZCM are used inconsistently as formal acronyms; most trade press writes out \"zero-click search/marketing\" in full, with the abbreviations appearing mainly in a subset of 2025 to 2026 articles. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AX (Agent Experience)",
+  "short_definition": "Agent Experience is the discipline of designing a brand's site, docs, product feeds, pricing and schema so AI agents, not only human users, can discover, read and act on them accurately.",
+  "long_explanation": "It is framed as the agent-era counterpart to UX, and the concept was articulated through 2025 before going mainstream in marketing and CMO commentary through 2026, including a February 2026 Forbes piece. As AI agents from ChatGPT, Perplexity, Gemini and Copilot increasingly research and even buy on a consumer's behalf, brands that are hard for an agent to parse risk becoming invisible in agent-mediated discovery and purchase decisions. Note that AX has a separate, unrelated expansion in customer-service tooling, where it refers to the human contact-center agent's own experience; the marketing-relevant sense here is about AI agents, and the two should be distinguished by context.",
+  "usage_context": "Forbes reported companies adding AX ownership to a Director of Web Strategy role, with a dedicated AX lead hired within 6 to 12 months.",
+  "related_terms": "GEO, AIO, LLMO, AEO",
+  "tr_equivalent": null,
+  "tr_definition": "Agent Experience (AX), bir markanın site, doküman, ürün akışı, fiyatlandırma ve şema verisini yalnızca insan kullanıcılar için değil AI ajanlarının doğru okuyup işlem yapabilmesi için tasarlama disiplinidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.forbes.com/sites/joetoscano1/2026/02/10/in-the-b2ai-era-agent-experience-is-rewriting-the-marketing-playbook/",
+   "https://www.aiacceleratorinstitute.com/the-rise-of-agent-experience-ax/",
+   "https://www.pixelmojo.io/blogs/what-is-ax-design-complete-guide-agentic-experience-2026"
+  ],
+  "notes": "AX has a competing, unrelated expansion in customer-service tooling (Five9's 'Agent Experience' = human contact-center agent experience). The marketing-relevant expansion is about AI agents, not human call-center agents; distinguish by context. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "KYA (Know Your Agent)",
+  "short_definition": "Know Your Agent is a verification framework, modeled on Know Your Customer, for confirming an AI agent's identity, the business it acts for, its permissions and its behavioral track record before it is trusted to browse, negotiate or transact on a brand's site.",
+  "long_explanation": "The term was coined and popularized in payments and identity press through late 2025 into 2026. As agentic checkout and agent-driven site traffic grow, marketing and fraud or trust teams need a way to tell a legitimate purchasing agent apart from a bot or a malicious scraper, and to decide which agents get preferential access to product feeds or pricing. It is adjacent to but distinct from \"Know Your Human,\" a reverse-direction verification term surfacing in the same press cycle.",
+  "usage_context": "PYMNTS introduced a \"Know Your Agent\" framework for agentic commerce, and Nuvei announced a KYA registry and agent risk-scoring service targeting H2 2026 availability.",
+  "related_terms": "AAMP, x402, TAP",
+  "tr_equivalent": null,
+  "tr_definition": "KYA, bir AI ajanının kimliğini, hangi işletme adına hareket ettiğini, yetkilerini ve geçmiş davranışını, siteye erişip işlem yapmasına izin vermeden önce doğrulayan bir çerçevedir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.pymnts.com/digital-identity/2026/introducing-the-know-your-agent-framework-for-the-age-of-agentic-commerce/",
+   "https://www.nuvei.com/posts/know-your-agent-kya-agentic-commerce",
+   "https://www.experian.com/blogs/insights/what-is-know-your-agent-kya/"
+  ],
+  "notes": "Adjacent but distinct from 'Know Your Human,' a reverse-direction verification term surfacing in the same press cycle (PYMNTS). Fact-checked 2026-09-23."
+ },
+ {
+  "term": "TAP (Trusted Agent Protocol)",
+  "short_definition": "Trusted Agent Protocol is an open specification, co-developed by Visa and Cloudflare, that attaches cryptographically signed identity headers to AI agent web requests so a merchant can verify the request comes from a known, accountable shopping agent rather than an anonymous bot.",
+  "long_explanation": "Visa and Cloudflare launched TAP on October 14, 2025, with 12 launch partners including Shopify, Stripe, Microsoft and Coinbase, and by early 2026 the protocol had more than 100 partners with a commercial launch targeted for Q1 2026. Marketers and e-commerce teams need to stop blocking legitimate AI shopping agents as bot traffic while still filtering out scrapers and fraud, and TAP is becoming the plumbing that lets agent-driven traffic reach checkout without being firewalled.",
+  "usage_context": "Visa and Cloudflare launched TAP on October 14, 2025 with 12 launch partners, scaling to 100+ partners by early 2026 with commercial launch targeted for Q1 2026.",
+  "related_terms": "AP2, ACP, UCP, KYA",
+  "tr_equivalent": null,
+  "tr_definition": "TAP, bir AI ajanının web isteğine kriptografik olarak imzalanmış kimlik başlıkları ekleyerek satıcının bu isteğin gerçek ve hesap verebilir bir alışveriş ajanından geldiğini doğrulamasını sağlayan bir protokoldür.",
+  "category": "Retail Media",
+  "sources": [
+   "https://investor.visa.com/news/news-details/2025/Visa-Introduces-Trusted-Agent-Protocol-An-Ecosystem-Led-Framework-for-AI-Commerce/default.aspx",
+   "https://developer.visa.com/capabilities/trusted-agent-protocol/trusted-agent-protocol-specifications",
+   "https://github.com/visa/trusted-agent-protocol/blob/main/tap-agent/README.md"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "LAM (Large Action Model)",
+  "short_definition": "A Large Action Model is an AI model built to convert intent into a sequence of executed actions, such as clicking, filling forms, calling APIs or completing purchases, rather than only generating text.",
+  "long_explanation": "The term circulated in AI research from 2024 before becoming a marketing and vendor buzzword through 2025 and 2026. Marketing teams are starting to use LAM-style systems to autonomously schedule and publish content, run campaign workflows and act on customer requests without a person executing each step; Salesforce markets LAM capability directly to marketing and CRM buyers. Some sources flag LAM as an overused label applied to systems that are really a large language model plus tool-calling, so a vendor's claim of a \"true LAM\" is worth checking closely.",
+  "usage_context": "Salesforce's Agentforce documentation frames Large Action Models as the mechanism letting agents autonomously perform multi-step business tasks rather than just suggest them.",
+  "related_terms": "CUA, AgentOps, SLM",
+  "tr_equivalent": null,
+  "tr_definition": "LAM, metin üretmenin ötesinde tıklama, form doldurma, API çağırma veya satın alma gibi bir dizi eylemi gerçekleştirmek üzere tasarlanmış bir yapay zeka modelidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.salesforce.com/agentforce/large-action-models/",
+   "https://www.superannotate.com/blog/large-action-models",
+   "https://aimultiple.com/large-action-models"
+  ],
+  "notes": "Some sources flag LAM as an overused marketing label applied to systems that are really an LLM plus tool-calling; treat vendor claims of 'true LAM' with skepticism. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "HITL (Human in the Loop)",
+  "short_definition": "Human in the Loop is an operating principle where a trained person reviews or approves higher-risk AI agent actions, such as sends, payments, deletions or published content, before they execute.",
+  "long_explanation": "It is an established machine-learning term that became a mainstream marketing-ops governance pattern through 2025 to 2026 as agentic marketing scaled. As marketing teams deploy AI agents for content, campaigns and even spend decisions, HITL separates safe \"read\" actions an agent can do freely from \"write\" actions that need sign-off, and it also works as a trust signal to consumers wary of unlabeled AI content. In marketing it usually means a person reviews and edits AI-generated campaigns, copy or assets before they are published.",
+  "usage_context": "A content team lets AI draft email variants but requires an editor to approve every version before it is sent.",
+  "related_terms": "AgentOps, AI TRiSM",
+  "tr_equivalent": null,
+  "tr_definition": "HITL, gönderim, ödeme, silme veya yayınlama gibi riskli AI ajan eylemlerinin gerçekleşmeden önce eğitimli bir kişi tarafından incelenip onaylanmasını öngören bir çalışma ilkesidir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://knak.com/blog/human-in-the-loop-marketing/",
+   "https://improvado.io/blog/human-in-the-loop-ai",
+   "https://birdeye.com/blog/human-in-the-loop-ai-marketing/"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AgentOps (Agentic Marketing Operations)",
+  "short_definition": "AgentOps is a marketing operating model in which autonomous AI agents plan, execute, optimize and coordinate campaigns in real time, while marketing-ops staff shift toward designing, monitoring and governing those agents.",
+  "long_explanation": "The term has circulated through marketing-ops vendor and analyst content in 2025 to 2026. It reframes the marketing operations role: instead of manually executing campaign steps, teams build and supervise fleets of agents, which directly changes headcount, skill requirements and tooling budgets inside marketing organizations. AgentOps is also used more generically in AI engineering to mean operating AI agents in production outside marketing, so the narrower marketing sense described here is the newer usage; sourcing comes mainly from marketing-agency and vendor blogs rather than a single canonical definer.",
+  "usage_context": "Oracle CX's blog argues agentic marketing does not eliminate marketing ops but changes the job into agent design and governance.",
+  "related_terms": "MOSTT, HITL",
+  "tr_equivalent": null,
+  "tr_definition": "AgentOps, kampanya planlama, yürütme ve optimizasyonunu otonom AI ajanlarının üstlendiği, pazarlama operasyon ekibinin ise bu ajanları tasarlayıp denetlediği bir çalışma modelidir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://blogs.oracle.com/cx/agentic-marketing-does-not-mean-marketing-ops-goes-away-but-the-job-changes",
+   "https://dotndot.com/agentic-marketing-operations/",
+   "https://ciberspring.com/articles/what-is-agentic-marketing-operations/"
+  ],
+  "notes": "AgentOps is also used generically in AI engineering to mean 'operating AI agents in production' outside marketing (monitoring, evaluation, deployment); the marketing-specific expansion above is the newer, narrower usage. Sourcing is from marketing-agency and vendor blogs rather than a single canonical definer, hence medium confidence. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AIMS (AI Management System)",
+  "short_definition": "AI Management System is the formal governance framework defined by ISO/IEC 42001, the first international standard for managing how an organization develops, provides or uses AI responsibly.",
+  "long_explanation": "The standard covers policies, risk controls and auditability, and it was published in December 2023. AIMS terminology reached mainstream enterprise governance conversations through 2025 to 2026, including in marketing. Marketing organizations that use third-party LLMs or AI tools for content, personalization or targeting fall inside an AIMS scope, and procurement and legal teams increasingly ask vendors and agencies for ISO 42001 or AIMS compliance the way they once asked for SOC 2.",
+  "usage_context": "KPMG Switzerland and Microsoft both published guidance framing AIMS as the operational core of ISO/IEC 42001:2023, including for companies using AI in marketing materials.",
+  "related_terms": "AI TRiSM, GPAI, AI RMF",
+  "tr_equivalent": null,
+  "tr_definition": "AIMS, bir kuruluşun yapay zekayı nasıl geliştirdiğini, sağladığını veya kullandığını sorumlu biçimde yönetmesini tanımlayan ISO/IEC 42001 standardına dayalı bir yönetişim çerçevesidir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.iso.org/standard/42001",
+   "https://kpmg.com/ch/en/insights/artificial-intelligence/iso-iec-42001.html",
+   "https://www.isms.online/iso-42001/"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "LLMOps (Large Language Model Operations)",
+  "short_definition": "LLMOps is the MLOps-derived discipline of deploying, monitoring, evaluating and fine-tuning large language model applications in production, addressing LLM-specific issues such as non-deterministic output, prompt management and token cost control.",
+  "long_explanation": "It has been an engineering term since 2023 and has crossed into marketing-ops vocabulary through 2025 to 2026 as marketing teams take ownership of more AI production systems. Teams running always-on AI content, chat or personalization systems increasingly need LLMOps-style monitoring of quality drift, cost and hallucination rate, even though the practice originated in engineering. LLMOps is distinct from LLMO, or LLM Optimization, an already-listed SEO-adjacent content term; LLMOps is an operations and engineering discipline, and marketer-specific framing for it is still thinner than its pure-engineering sourcing.",
+  "usage_context": "orq.ai and TrueFoundry both published 2026 guides framing LLMOps as the production-readiness layer for any team, including marketing, running customer-facing LLM features.",
+  "related_terms": "LLMO, AgentOps",
+  "tr_equivalent": null,
+  "tr_definition": "LLMOps, büyük dil modeli uygulamalarının canlı ortamda dağıtılması, izlenmesi, değerlendirilmesi ve ince ayarının yapılmasını kapsayan, MLOps'tan türeyen bir disiplindir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://orq.ai/blog/what-is-llmops",
+   "https://www.truefoundry.com/blog/what-is-llmops",
+   "https://www.ultralytics.com/glossary/llmops"
+  ],
+  "notes": "Do not confuse with LLMO (LLM Optimization), which is already in the dictionary and is a different, SEO/content-facing concept; LLMOps is an operations/engineering discipline. Marketer-specific framing is thinner than the pure-engineering sourcing, hence medium confidence. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "CUA (Computer-Use Agent)",
+  "short_definition": "A Computer-Use Agent is an AI agent that operates a digital interface the way a person would, by reading the screen and clicking, typing and navigating, rather than relying on API integrations.",
+  "long_explanation": "The term comes from 2024 to 2025 model releases, including Anthropic's and OpenAI's computer-use agents, and it has entered broader business and marketing vocabulary through 2026. CUAs are the technical basis for AI \"shopping assistants\" and browser agents that can execute marketing or purchase tasks on legacy sites without APIs, so marketers assessing agent-readiness need to know a CUA can interact with a site even without an agent-specific integration. Marketing-specific usage is inferred from adjacent \"agentic coworker\" framing rather than from marketing trade press directly, though the core technical definition is well documented by Microsoft and enterprise glossaries.",
+  "usage_context": "Microsoft's Azure AI Foundry blog and Anthropic and OpenAI computer-use agent releases are cited as the production reference points for CUA capability as of 2026.",
+  "related_terms": "LAM, HITL",
+  "tr_equivalent": null,
+  "tr_definition": "CUA, ekranı algılayıp tıklama, yazma ve gezinme gibi işlemleri bir insan gibi gerçekleştiren, API entegrasyonuna değil arayüze dayanan bir AI ajanıdır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/the-future-of-ai-computer-use-agents-have-arrived/4401025",
+   "https://www.thehackettgroup.com/glossary/computer-using-agent-model/"
+  ],
+  "notes": "Marketing-specific usage is inferred from adjacent 'agentic coworker' framing rather than a marketing-trade-press definition; core definition itself is well sourced from Microsoft and enterprise glossaries. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AI TRiSM (AI Trust, Risk and Security Management)",
+  "short_definition": "AI TRiSM is a Gartner-defined framework covering AI governance, runtime inspection and enforcement, information governance and infrastructure controls, meant to keep AI systems trustworthy, fair and secure.",
+  "long_explanation": "Gartner coined the term around 2022 to 2023, and it has been cited increasingly in enterprise and marketing governance contexts through 2025 to 2026. Gartner's 2025 Market Guide for AI TRiSM and its August 2025 Hype Cycle placed the framework at the peak of inflated expectations, with mainstream adoption expected within roughly five years. CMOs and marketing leaders increasingly answer to AI TRiSM-style requirements from legal, security and compliance functions before deploying customer-facing AI, such as chatbots, personalization or content generation, though direct marketer-specific framing in the sources found is still thin and mostly aimed at a security or CISO audience.",
+  "usage_context": "Gartner's 2025 Market Guide for AI TRiSM and its August 2025 Hype Cycle placed AI TRiSM at the peak of inflated expectations with mainstream adoption expected within roughly five years.",
+  "related_terms": "AIMS, AI RMF, PETs",
+  "tr_equivalent": null,
+  "tr_definition": "AI TRiSM, yapay zeka sistemlerinin güvenilir, adil ve güvenli kalmasını sağlamak için yönetişim, çalışma zamanı denetimi ve altyapı kontrollerini kapsayan Gartner tanımlı bir çerçevedir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.gartner.com/en/newsroom/press-releases/2025-08-05-gartner-hype-cycle-identifies-top-ai-innovations-in-2025",
+   "https://www.cyera.com/glossary/what-is-ai-trism",
+   "https://resilienceforward.com/gartner-expects-ai-trust-risk-and-security-management-trism-to-reach-mainstream-adoption-within-the-next-5-years/"
+  ],
+  "notes": "Direct marketer-specific framing is thin in the sources found (mostly security/CISO audience); included because Gartner terms of this kind routinely flow into CMO and marketing-governance conversations, but flagged for verification of marketer-specific usage. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AdCP (Ad Context Protocol)",
+  "short_definition": "Ad Context Protocol is an open-source protocol, built on Anthropic's Model Context Protocol, that standardizes how AI agents exchange structured data about audiences, ad inventory and campaign objectives so they can negotiate and transact media directly.",
+  "long_explanation": "AdCP launched in October 2025 with founding members Optable, PubMatic, Scope3, Swivel, Triton Digital and Yahoo, and a nonprofit governance body is planned. Its founders position it as \"OpenRTB for the agentic AI era,\" meaning a media buyer could eventually brief an AI agent in plain language and have it negotiate directly with publisher systems, changing how campaign briefs and programmatic buying work. AdCP is a separate, competing initiative from IAB Tech Lab's AAMP, and Digiday reports friction between the two efforts rather than full alignment.",
+  "usage_context": "Digiday's WTF explainer confirms AdCP launched October 2025 with founding members Optable, PubMatic, Scope3, Swivel, Triton Digital, and Yahoo, with a nonprofit governance body planned.",
+  "related_terms": "AAMP, MCP, RMN, DSP",
+  "tr_equivalent": null,
+  "tr_definition": "AdCP, AI ajanlarının hedef kitle, envanter ve kampanya verilerini standart biçimde paylaşarak medya alımını doğrudan müzakere edebilmesini sağlayan, Model Context Protocol üzerine kurulu açık bir protokoldür.",
+  "category": "Retail Media",
+  "sources": [
+   "https://digiday.com/media-buying/wtf-ad-context-protocol/",
+   "https://digiday.com/media-buying/inside-the-debate-over-agentic-advertising-and-standards/"
+  ],
+  "notes": "AdCP is a separate, competing initiative from IAB Tech Lab's AAMP (already in the dictionary); Digiday reports friction between the two efforts rather than full alignment. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "GPAI (General-Purpose AI)",
+  "short_definition": "General-Purpose AI is a regulatory category under the EU AI Act for models trained on very large compute, over 10 to the 23rd power FLOPs, that can perform a wide range of tasks and be integrated into many downstream products.",
+  "long_explanation": "GPT-4-class and Gemini-class models fall under this category. The EU AI Act passed in 2024, and GPAI provider obligations took effect on August 2, 2025, including transparency requirements; providers can demonstrate compliance by voluntarily signing the General-Purpose AI Code of Practice. Marketers in the EU and MEA markets who route through EU-regulated vendors need to know whether their AI marketing tools sit on a GPAI model, since that affects vendor selection and disclosure requirements. Sourcing on this term is legal and regulatory rather than marketing trade press, so its marketer relevance is inferred from vendor-compliance obligations rather than direct marketing coverage.",
+  "usage_context": "The EU AI Act's GPAI provider obligations entered into application on 2 August 2025; providers can demonstrate compliance by voluntarily signing the General-Purpose AI Code of Practice.",
+  "related_terms": "AIMS, AI RMF",
+  "tr_equivalent": null,
+  "tr_definition": "GPAI, AB Yapay Zeka Yasası kapsamında çok büyük hesaplama gücüyle eğitilmiş, GPT-4 ve Gemini sınıfı modeller gibi geniş görev yelpazesine sahip yapay zeka modellerini tanımlayan bir düzenleyici kategoridir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+   "https://cdt.org/insights/eu-ai-act-brief-pt-5-general-purpose-ai-models/",
+   "https://artificialintelligenceact.eu/gpai-guidelines-overview/"
+  ],
+  "notes": "Sourcing is legal/regulatory rather than marketing-trade-press; relevance to marketers is inferred from vendor-compliance obligations rather than a marketing publication using the term directly. Flagged for further marketer-specific verification, but directly relevant to Turkiye/MEA marketers working with EU-regulated AI vendors. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AI RMF (AI Risk Management Framework)",
+  "short_definition": "AI Risk Management Framework is a voluntary framework published by the U.S. National Institute of Standards and Technology, structured around four functions, Govern, Map, Measure and Manage, for handling AI risk across a system's lifecycle.",
+  "long_explanation": "NIST released AI RMF 1.0 in January 2023, and it has been referenced increasingly in enterprise AI governance conversations through 2025 to 2026. Marketing teams using AI for targeting, pricing or content increasingly see legal and compliance teams request AI RMF-aligned risk assessments before a campaign launches. Like GPAI, direct marketing-trade-press usage of the term was not found in sourcing; it is included as the most-cited US AI governance acronym that marketing compliance teams now reference, and its marketing-specific mainstreaming, as opposed to general enterprise risk usage, still needs verification.",
+  "usage_context": "NIST released AI RMF 1.0 in January 2023, and legal and compliance teams increasingly use it as a checklist for reviewing AI use in campaigns.",
+  "related_terms": "AIMS, AI TRiSM, GPAI",
+  "tr_equivalent": null,
+  "tr_definition": "AI RMF, NIST tarafından yayımlanan ve yapay zeka riskini Govern, Map, Measure ve Manage işlevleri etrafında yöneten gönüllü bir çerçevedir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.nist.gov/itl/ai-risk-management-framework",
+   "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf",
+   "https://securiti.ai/nist-ai-risk-management-framework/"
+  ],
+  "notes": "Like GPAI, direct marketing-trade-press usage was not found; included because it is the most-cited US AI governance acronym that marketing compliance teams now reference. Verify marketer-specific usage before treating as fully mainstream in marketing (vs. general enterprise risk) contexts. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "ACS (Agentic Commerce Suite)",
+  "short_definition": "Agentic Commerce Suite is a Stripe product suite that lets a merchant integrate once to make products discoverable to AI shopping agents, accept agentic payments through Shared Payment Tokens, and support checkout across multiple agentic commerce protocols.",
+  "long_explanation": "Stripe launched ACS in December 2025, rolling it out through the Stripe Dashboard, its APIs, and partner platforms including Wix, WooCommerce, BigCommerce and Squarespace, with adoption expanding through 2026. It lowers the technical bar for e-commerce and DTC marketers to take part in agent-driven shopping, such as through ChatGPT or other AI assistants, without building a custom integration for each protocol, which directly affects how product catalogs and checkout flows need to be structured.",
+  "usage_context": "Stripe launched the Agentic Commerce Suite in December 2025, rolling out through the Stripe Dashboard, APIs, and partner platforms including Wix, WooCommerce, BigCommerce, and Squarespace.",
+  "related_terms": "ACP, AP2, TAP, UCP",
+  "tr_equivalent": null,
+  "tr_definition": "ACS, satıcıların ürünlerini AI alışveriş ajanlarının bulabilmesini, Shared Payment Tokens ile ajan ödemesi kabul edebilmesini ve birden fazla ajan bazlı ticaret protokolünde ödeme alabilmesini sağlayan bir Stripe ürün paketidir.",
+  "category": "Retail Media",
+  "sources": [
+   "https://stripe.com/blog/agentic-commerce-suite",
+   "https://stripe.com/newsroom/news/agentic-commerce-suite",
+   "https://www.aicerts.ai/news/stripes-acp-and-acs-push-agentic-commerce-into-mainstream-retail/"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "RAI (Responsible AI)",
+  "short_definition": "Responsible AI is the set of practices and governance mechanisms covering fairness, safety, transparency and privacy, meant to keep AI systems performing as intended without causing harm.",
+  "long_explanation": "It is an established governance term from the early 2020s that took on a marketing-specific, brand-safety meaning through 2025 to 2026 as generative AI incidents accumulated, now tracked by many enterprises as a formal maturity discipline. AI incidents in advertising, such as hallucinations, bias or off-brand content, make RAI a direct brand-safety and reputational concern rather than only a legal or IT issue.",
+  "usage_context": null,
+  "related_terms": "AI TRiSM, AIMS, PETs",
+  "tr_equivalent": null,
+  "tr_definition": "Responsible AI (RAI), yapay zeka sistemlerinin adil, güvenli, şeffaf ve gizliliğe saygılı biçimde çalışmasını sağlayan uygulama ve yönetişim mekanizmalarını kapsar.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/state-of-ai-trust-in-2026-shifting-to-the-agentic-era",
+   "https://artificialintelligencemarketers.com/2026/08/25/ai-governance-trends-2026-brand-marketing-teams/",
+   "https://www.iab.com/insights/ai-adoption-is-surging-in-advertising-but-is-the-industry-prepared-for-responsible-ai/"
+  ],
+  "notes": "RAI is a well-established term predating the Sept 2024 window; included because its marketing-specific, brand-safety framing (vs. general AI ethics) appears to have become newly mainstream for marketers in 2025-2026. Borderline on the 'newly mainstream' criterion, flagged accordingly. Fact-checked 2026-09-23."
+ }
+]

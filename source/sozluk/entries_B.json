@@ -1,0 +1,122 @@
+[
+ {
+  "term": "Conversational AI Commerce",
+  "folder": "Conversional AI Commerce",
+  "short_definition": "Commerce conducted through conversational AI tools like chatbots and voice assistants instead of traditional click-based shopping.",
+  "long_explanation": "Conversational AI Commerce uses chatbots, voice assistants, and AI-powered messaging to enable real-time, personalized shopping experiences. This model shifts from traditional e-commerce workflows to natural dialogue-based transactions. Marketers benefit from higher conversion rates, reduced cart abandonment, and richer behavioral data through ongoing conversations that build lasting customer relationships.",
+  "usage_context": "Users can order through Alexa or Google Assistant by voice, receive personalized product recommendations in real time, and have sales, support, and marketing unified into a single conversation flow.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "Chatbot ve sesli asistan gibi konuşma tabanlı yapay zeka araçlarıyla gerçekleştirilen ticaret modelidir.",
+  "blog_language": "EN/TR",
+  "notes": "Folder name typo corrected: 'Conversional' to 'Conversational'. Blog features both Turkish and English sections."
+ },
+ {
+  "term": "Creative Intelligence",
+  "folder": "Creative Intelligence",
+  "short_definition": "Using AI to score and predict creative asset performance before campaign launch rather than after.",
+  "long_explanation": "Creative Intelligence applies machine learning models trained on historical campaign performance to rate creative assets across metrics like brand recall, attention duration, emotional intensity, and purchase intent. Unlike traditional copy testing, it operates at scale and within the planning workflow. It marks a move from post-mortem reporting to pre-flight prediction, in line with WARC's Future of Measurement 2026 report, which identifies it as a defining shift in measurement.",
+  "usage_context": "A marketer scores multiple video and visual variants before launch, each receiving a 0-100 performance prediction for different audience segments, enabling data-backed creative selection.",
+  "related_terms": "Brand as Performance (BaP), MOSTT, ALTT, CAP",
+  "tr_equivalent": null,
+  "tr_definition": "Yaratıcı içeriklerin kampanya yayına girmeden önceki performansını yapay zeka modelleriyle tahmin etme yöntemidir.",
+  "blog_language": "EN/TR",
+  "notes": "Blog extensively discusses MMA Global frameworks (BaP, MOSTT, ALTT, CAP); warns of model bias in non-Western contexts and sameness risk."
+ },
+ {
+  "term": "Gibberlink",
+  "folder": "Gibberlink",
+  "short_definition": "A machine-optimized communication protocol allowing AI systems to exchange data through audio signals incomprehensible to humans.",
+  "long_explanation": "Gibberlink emerged around 2023 when researchers discovered that AI systems generate structured patterns in 'gibberish' audio that enable direct machine-to-machine communication. Unlike human-readable language, this protocol is optimized for speed, precision, and privacy. In marketing, it enables real-time personalization, unified customer experiences across AI systems, autonomous decision-making automation, and natural security through non-human-readable data exchanges.",
+  "usage_context": "A website visitor receives personalized offers generated from instant CRM data shared via Gibberlink; social media campaigns update automatically across segments based on AI-to-AI signals.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "Yapay zeka sistemlerinin insanların anlayamayacağı ses sinyalleriyle birbiriyle iletişim kurmasını sağlayan makine-optimize protokoldür.",
+  "blog_language": "EN/TR",
+  "notes": "No MMA framework connections mentioned. Blog emphasizes privacy advantage of non-human-readable signals."
+ },
+ {
+  "term": "Hypertail",
+  "folder": "Hypertail",
+  "short_definition": "A new class of modular, configurable SaaS tools that integrate with AI agents to reduce IT dependency and enable rapid experimentation.",
+  "long_explanation": "Hypertail is a new class of SaaS tools evolving toward flexibility and AI integration, reducing marketing teams' reliance on IT approval. The term was introduced by Riza Doruk Ercan at MMA NEXT! Conference. It addresses three needs: AI's growing power, business unit independence, and dynamic consumer expectations. Marketers gain faster campaign launches, smarter data-driven decisions via AI optimization, reduced acquisition costs, and faster adaptation to market changes.",
+  "usage_context": "A marketing team uses a Hypertail platform to auto-segment customers, AI agents generate branded content variations, and the system tests and recommends the best performer in real time without IT tickets.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "Esnek, özelleştirilebilir ve yapay zeka ajanlarıyla bağlanabilen yeni nesil SaaS araçlarını tanımlayan terimdir.",
+  "blog_language": "EN/TR",
+  "notes": "Concept introduced at MMA NEXT! Conference by Riza Doruk Ercan. No related MMA frameworks explicitly mentioned."
+ },
+ {
+  "term": "LLM Share of Voice",
+  "folder": "LLM SOV",
+  "short_definition": "A brand's visibility and favorability within responses generated by large language models like ChatGPT and Claude.",
+  "long_explanation": "LLM SOV measures how often and favorably a brand appears in AI-generated answers to consumer questions. As users increasingly consult LLMs instead of search engines, brand presence in these systems becomes strategically critical. This is not about clicks but about becoming part of the AI recommendation loop. First placement in an LLM response can establish default choice status across an entire category.",
+  "usage_context": "When a consumer asks 'What's the best moisturizer for sensitive skin?' or 'Recommend a quality coffee maker,' your brand's frequency and position in the LLM response determines your LLM SOV.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "Bir markanın ChatGPT ve Claude gibi büyük dil modellerinin yanıtlarında ne sıklıkla ve ne kadar olumlu yer aldığını gösteren ölçüttür.",
+  "blog_language": "EN/TR",
+  "notes": "Blog describes this as 'the new SEO.' Emphasizes shift from search engine ranking to AI model visibility."
+ },
+ {
+  "term": "Learning Architect",
+  "folder": "Learning Architect",
+  "short_definition": "A professional who designs learning or experience environments rather than simply transmitting information.",
+  "long_explanation": "The Learning Architect concept originated from education initiatives in Estonia and Singapore, redefining teachers as designers of learning experiences rather than content deliverers. The same logic applies to marketing, where leaders must become Marketing Architects designing end-to-end customer experiences. Success depends on intentional, empathetic design rather than information transmission. This shift reflects broader MMA Global initiatives in CAP and MMGF frameworks.",
+  "usage_context": "A learning architect curates an environment where learners construct knowledge through guided discovery. Similarly, a marketing architect orchestrates touchpoints that guide customers through personalized, adaptive journeys.",
+  "related_terms": "CAP (Consortium for AI Personalization), MMGF (Movable Middles Growth Framework)",
+  "tr_equivalent": "Öğrenme Mimarı",
+  "tr_definition": "Bilgi aktarmak yerine öğrenme ya da deneyim ortamları tasarlayan profesyoneldir.",
+  "blog_language": "EN/TR",
+  "notes": "Concept claims Estonia and Singapore granted teachers this title but blog states official government confirmation does not exist. References Estonia's AI Leap 2025 program and Zillow SVP Ravi Kandikonda on Building Better CMOs Podcast."
+ },
+ {
+  "term": "Neural Storytelling",
+  "folder": "Neural Storytelling",
+  "short_definition": "Using AI and neural networks to create emotionally resonant narratives tailored to trigger specific audience responses.",
+  "long_explanation": "Neural Storytelling applies artificial neural networks and advanced language models to craft stories that evoke targeted emotional responses and influence behavior. Rather than automating narrative generation, it creates adaptive stories that respond to user behavior in real time. The concept was introduced by Vikram Chalana, CEO of Pictory, on Decoding AI for Marketers episode 16. It delivers stronger emotional connections, supports rapid-consumption habits through micro-story sequences, and enables dynamic adaptation based on audience interaction.",
+  "usage_context": "A brand generates micro-stories via AI that adapt in tone based on user behavior; an e-learning module uses AI-generated narratives to sustain learner motivation; email campaigns deploy story fragments optimized for emotional engagement.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "Belirli duygusal tepkiler uyandırmak için yapay zeka ve sinir ağları kullanılarak hikaye üretme sürecidir.",
+  "blog_language": "EN/TR",
+  "notes": "Featured on Decoding AI for Marketers podcast episode 16 with Greg Stuart (MMA Global CEO) and Rex Briggs (Chief AI Officer, Claritas)."
+ },
+ {
+  "term": "Perpetual Optimism",
+  "folder": "Perpetual Optimism",
+  "short_definition": "A leadership mindset that keeps belief and solution-focused energy alive through challenges, which strengthens team performance.",
+  "long_explanation": "Perpetual Optimism is not positive thinking but a conscious commitment to remain hopeful, determined, and solution-focused despite uncertainty and change. Virat Khullar, Head of Marketing at Hyundai India, describes it as a force multiplier that amplifies skills, experience, and resilience. Optimistic leadership spreads through teams, encouraging agility, creative risk-taking, and customer-centric empathy. This cultural foundation, more than data or automation, drives lasting loyalty and bold strategy.",
+  "usage_context": "A CMO faces a campaign failure but frames it as a learning opportunity, communicating confidence to the team. This optimism spreads, enabling faster recovery, creative experimentation, and stronger customer engagement.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "Zorluklara rağmen ümitli, kararlı ve çözüm odaklı kalmayı sürdüren bir liderlik tutumudur.",
+  "blog_language": "EN/TR",
+  "notes": "From Building Better CMOs podcast, June 2025. Virat Khullar (Hyundai India) articulates this as distinct from superficial positivity; emphasizes it as a multiplier effect on team capabilities."
+ },
+ {
+  "term": "Predictive Copy Performance",
+  "folder": "Predictive Copy Performance",
+  "short_definition": "Using AI to estimate how marketing copy will perform for specific audience segments before launch.",
+  "long_explanation": "Predictive Copy Performance applies LLMs and AI models to score and optimize text-based messages before publishing. Yaniv Makover, CEO of Anyword, featured on Decoding AI for Marketers episode 21, emphasizes that LLMs not only generate copy but understand its likely performance. The system analyzes emotional tone and persuasion elements, simulates A/B test outcomes based on historical data, and recommends segment-specific language optimizations. This enables faster decision-making, better segment targeting, and higher ROI through performance-backed messaging.",
+  "usage_context": "A marketer inputs three subject lines for an email campaign; the AI scores each (0-100) for different segments (Gen Z, Boomers, parents), recommends optimizations, and predicts which version will drive higher open rates.",
+  "related_terms": "Creative Intelligence",
+  "tr_equivalent": null,
+  "tr_definition": "Yapay zeka kullanarak pazarlama metninin belirli kitle segmentlerinde nasıl performans göstereceğini tahmin etme yöntemidir.",
+  "blog_language": "EN/TR",
+  "notes": "Blog notes this is narrower than Creative Intelligence, focusing only on text/copy rather than full asset composition. Featured on Decoding AI for Marketers episode 21."
+ },
+ {
+  "term": "Predictive Loyalty",
+  "folder": "Predictive Loyalty",
+  "short_definition": "Using AI to identify high-potential future loyal customers and proactively engage them before loyalty solidifies.",
+  "long_explanation": "Predictive Loyalty shifts focus from rewarding past loyalty to forecasting and nurturing future loyalty. Marty Kihn, SVP of Salesforce Marketing Cloud, explained on Decoding AI for Marketers episode 13 that loyalty is about predicting the future, not rewarding the past. AI evaluates behavioral signals like purchase frequency, spend, engagement, and cart abandonment to assign loyalty scores. Marketers then deploy personalized campaigns before loyalty forms, growing the base of future loyalists and increasing customer lifetime value while optimizing loyalty budgets.",
+  "usage_context": "An AI model identifies a customer who visits frequently, engages with content, but hasn't purchased. Before they leave, the brand sends a personalized offer designed to convert them into a long-term loyal customer.",
+  "related_terms": "Brand as Performance (BaP), CAP (Consortium for AI Personalization), MMGF (Movable Middles Growth Framework)",
+  "tr_equivalent": null,
+  "tr_definition": "Gelecekte sadık müşteri olacak kişileri önceden belirleyip onlara özel adımlarla yaklaşma yöntemidir.",
+  "blog_language": "EN/TR",
+  "notes": "From Decoding AI for Marketers episode 13. Blog connects to MMA Global frameworks BaP, CAP, and MMGF. Emphasizes shift from reactive to proactive loyalty strategy."
+ }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "acronym": "AX",
+    "expansion": "Agent Experience",
+    "term": "AX (Agent Experience)",
+    "what_it_is": "The discipline of designing a brand's digital surfaces (site, docs, product feeds, pricing, schema) so that AI agents, not just human users, can discover, read, and act on them accurately. Framed as the agent-era counterpart to UX.",
+    "why_marketers_care": "As AI agents (ChatGPT, Perplexity, Gemini, Copilot) increasingly research and even buy on behalf of consumers, brands that are hard for agents to parse risk being invisible in agent-mediated discovery and purchase decisions. Some companies are already hiring dedicated AX leads within web/digital strategy teams.",
+    "example": "Forbes reported companies adding AX ownership to a Director of Web Strategy role, with a dedicated AX lead hired within 6-12 months.",
+    "first_seen_or_mainstream": "Concept articulated through 2025, went mainstream in marketing/CMO commentary through 2026 (e.g. Forbes, Feb 2026)",
+    "related_existing_terms": ["GEO", "AIO", "LLMO", "AEO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.forbes.com/sites/joetoscano1/2026/02/10/in-the-b2ai-era-agent-experience-is-rewriting-the-marketing-playbook/",
+      "https://www.aiacceleratorinstitute.com/the-rise-of-agent-experience-ax/",
+      "https://www.pixelmojo.io/blogs/what-is-ax-design-complete-guide-agentic-experience-2026"
+    ],
+    "confidence": "high",
+    "notes": "AX has a competing, unrelated expansion in customer-service tooling (Five9's 'Agent Experience' = human contact-center agent experience). The marketing-relevant expansion is about AI agents, not human call-center agents; distinguish by context."
+  },
+  {
+    "acronym": "KYA",
+    "expansion": "Know Your Agent",
+    "term": "KYA (Know Your Agent)",
+    "what_it_is": "A verification framework, modeled on KYC (Know Your Customer), for confirming an AI agent's identity, the human/business it acts for, its permissions, and its behavioral track record before it is trusted to browse, negotiate, or transact on a brand's site.",
+    "why_marketers_care": "As agentic checkout and agent-driven site traffic grow, marketers and their fraud/trust teams need a way to distinguish legitimate purchasing agents from bots and malicious scrapers, and to decide which agents get preferential access (e.g. product feeds, pricing).",
+    "example": "PYMNTS introduced a 'Know Your Agent' framework for agentic commerce; Nuvei announced a KYA registry and agent risk-scoring service targeting H2 2026 availability.",
+    "first_seen_or_mainstream": "Term coined/popularized in payments and identity press through late 2025 into 2026",
+    "related_existing_terms": ["KYA", "AAMP", "x402"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.pymnts.com/digital-identity/2026/introducing-the-know-your-agent-framework-for-the-age-of-agentic-commerce/",
+      "https://www.nuvei.com/posts/know-your-agent-kya-agentic-commerce",
+      "https://www.experian.com/blogs/insights/what-is-know-your-agent-kya/"
+    ],
+    "confidence": "high",
+    "notes": "Adjacent but distinct from 'Know Your Human,' a reverse-direction verification term surfacing in the same press cycle (PYMNTS)."
+  },
+  {
+    "acronym": "TAP",
+    "expansion": "Trusted Agent Protocol",
+    "term": "TAP (Trusted Agent Protocol)",
+    "what_it_is": "An open ecosystem specification co-developed by Visa and Cloudflare that attaches cryptographically signed identity headers to AI agent web requests, letting merchants verify a request comes from a known, accountable shopping agent rather than an anonymous bot.",
+    "why_marketers_care": "Marketers and e-commerce teams need to stop blocking legitimate AI shopping agents as bot traffic while still filtering out scrapers and fraud; TAP is becoming the plumbing that lets agent-driven traffic reach checkout without being firewalled.",
+    "example": "Visa and Cloudflare launched TAP on October 14, 2025 with 12 launch partners including Shopify, Stripe, Microsoft, and Coinbase; by early 2026 TAP had 100+ partners with commercial launch targeted for Q1 2026.",
+    "first_seen_or_mainstream": "Launched October 2025, scaling through 2026",
+    "related_existing_terms": ["AP2", "ACP", "UCP", "KYA"],
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://investor.visa.com/news/news-details/2025/Visa-Introduces-Trusted-Agent-Protocol-An-Ecosystem-Led-Framework-for-AI-Commerce/default.aspx",
+      "https://developer.visa.com/capabilities/trusted-agent-protocol/trusted-agent-protocol-specifications",
+      "https://github.com/visa/trusted-agent-protocol/blob/main/tap-agent/README.md"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "LAM",
+    "expansion": "Large Action Model",
+    "term": "LAM (Large Action Model)",
+    "what_it_is": "An AI model built to convert intent into a sequence of executed actions (clicking, filling forms, calling APIs, completing purchases) rather than just generating text, distinguishing it from a large language model.",
+    "why_marketers_care": "Marketing teams are starting to use LAM-style systems to autonomously schedule and publish content, run campaign workflows, and act on customer requests without a human executing each step; Salesforce markets LAM capability directly to marketing/CRM buyers.",
+    "example": "Salesforce's Agentforce documentation frames Large Action Models as the mechanism letting agents autonomously perform multi-step business tasks rather than just suggest them.",
+    "first_seen_or_mainstream": "Term circulated in AI research since 2024, became a marketing/vendor buzzword through 2025-2026",
+    "related_existing_terms": ["CUA", "AgentOps", "SLM"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.salesforce.com/agentforce/large-action-models/",
+      "https://www.superannotate.com/blog/large-action-models",
+      "https://aimultiple.com/large-action-models"
+    ],
+    "confidence": "high",
+    "notes": "Some sources flag LAM as an overused marketing label applied to systems that are really an LLM plus tool-calling; treat vendor claims of 'true LAM' with skepticism."
+  },
+  {
+    "acronym": "HITL",
+    "expansion": "Human in the Loop",
+    "term": "HITL (Human in the Loop)",
+    "what_it_is": "An operating principle where a trained human reviews or approves higher-risk AI agent actions (sends, payments, deletions, published content) before they execute, rather than letting the agent act fully autonomously.",
+    "why_marketers_care": "As marketing teams deploy AI agents for content, campaign, and even spend decisions, HITL has become the standard governance pattern separating safe 'read' actions the agent can do freely from 'write' actions needing sign-off; it is also a trust signal to consumers wary of unlabeled AI content.",
+    "example": "Knak's State of Marketing Production 2026 found 70% of marketing teams have deployed AI in production, but 88% still require moderate-to-substantial human editing under HITL review before publishing.",
+    "first_seen_or_mainstream": "Established ML term, became a mainstream marketing-ops governance term through 2025-2026 as agentic marketing scaled",
+    "related_existing_terms": ["AgentOps", "AI TRiSM"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://knak.com/blog/human-in-the-loop-marketing/",
+      "https://improvado.io/blog/human-in-the-loop-ai",
+      "https://birdeye.com/blog/human-in-the-loop-ai-marketing/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "AgentOps",
+    "expansion": "Agentic Marketing Operations",
+    "term": "AgentOps (Agentic Marketing Operations)",
+    "what_it_is": "A marketing operating model where autonomous AI agents handle planning, execution, optimization, and coordination of campaigns in real time, with marketing ops staff shifting to designing, monitoring, and governing the agents rather than running the workflows by hand.",
+    "why_marketers_care": "It reframes the marketing operations role: instead of manually executing campaign steps, MOPs teams build and supervise agent fleets, directly changing headcount, skill requirements, and tooling budgets inside marketing organizations.",
+    "example": "Oracle CX's blog argues agentic marketing does not eliminate marketing ops but changes the job into agent design and governance.",
+    "first_seen_or_mainstream": "Term in circulation through marketing-ops vendor and analyst content in 2025-2026",
+    "related_existing_terms": ["MOSTT", "HITL"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://blogs.oracle.com/cx/agentic-marketing-does-not-mean-marketing-ops-goes-away-but-the-job-changes",
+      "https://dotndot.com/agentic-marketing-operations/",
+      "https://ciberspring.com/articles/what-is-agentic-marketing-operations/"
+    ],
+    "confidence": "medium",
+    "notes": "AgentOps is also used generically in AI engineering to mean 'operating AI agents in production' outside marketing (monitoring, evaluation, deployment); the marketing-specific expansion above is the newer, narrower usage. Sourcing is from marketing-agency and vendor blogs rather than a single canonical definer, hence medium confidence."
+  },
+  {
+    "acronym": "AIMS",
+    "expansion": "AI Management System",
+    "term": "AIMS (AI Management System)",
+    "what_it_is": "The formal governance framework defined by ISO/IEC 42001, the first international standard for managing how an organization develops, provides, or uses AI responsibly, covering policies, risk controls, and auditability.",
+    "why_marketers_care": "Marketing organizations that use third-party LLMs or AI tools for content, personalization, or targeting fall inside an AIMS scope; procurement and legal teams increasingly ask vendors and agencies for ISO 42001 / AIMS compliance the same way they once asked for SOC 2.",
+    "example": "KPMG Switzerland and Microsoft both published guidance framing AIMS as the operational core of ISO/IEC 42001:2023, including for companies using AI in marketing materials.",
+    "first_seen_or_mainstream": "ISO/IEC 42001 published December 2023; AIMS terminology reached mainstream enterprise governance conversations through 2025-2026",
+    "related_existing_terms": ["AI TRiSM", "GPAI", "AI RMF"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://www.iso.org/standard/42001",
+      "https://kpmg.com/ch/en/insights/artificial-intelligence/iso-iec-42001.html",
+      "https://www.isms.online/iso-42001/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "LLMOps",
+    "expansion": "Large Language Model Operations",
+    "term": "LLMOps (Large Language Model Operations)",
+    "what_it_is": "The MLOps-derived discipline of deploying, monitoring, evaluating, and fine-tuning large language model applications in production, addressing LLM-specific issues like non-deterministic output, prompt management, and token cost control.",
+    "why_marketers_care": "Marketing teams running always-on AI content, chat, or personalization systems increasingly need LLMOps-style monitoring (quality drift, cost, hallucination rate) even though the practice originated in engineering; it is distinct from LLMO (LLM Optimization, an SEO-adjacent term already in the dictionary).",
+    "example": "orq.ai and TrueFoundry both published 2026 guides framing LLMOps as the production-readiness layer for any team, including marketing, running customer-facing LLM features.",
+    "first_seen_or_mainstream": "Engineering term since 2023, crossing into marketing-ops vocabulary through 2025-2026 as marketing teams own more AI production systems",
+    "related_existing_terms": ["LLMO", "AgentOps"],
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://orq.ai/blog/what-is-llmops",
+      "https://www.truefoundry.com/blog/what-is-llmops",
+      "https://www.ultralytics.com/glossary/llmops"
+    ],
+    "confidence": "medium",
+    "notes": "Do not confuse with LLMO (LLM Optimization), which is already in the dictionary and is a different, SEO/content-facing concept; LLMOps is an operations/engineering discipline. Marketer-specific framing is thinner than the pure-engineering sourcing, hence medium confidence."
+  },
+  {
+    "acronym": "ACK",
+    "expansion": "Agent Commerce Kit",
+    "term": "ACK (Agent Commerce Kit)",
+    "what_it_is": "An open-source, vendor-neutral set of protocols (ACK-ID for identity, ACK-Pay for payments) built on W3C standards that let AI agents hold verifiable identities and make payments across multiple rails on commerce sites.",
+    "why_marketers_care": "It is one of several competing agent-commerce identity/payment building blocks (alongside Visa TAP and Mastercard Agent Pay) that e-commerce and retail media teams need to track to decide which agentic checkout rails to support.",
+    "example": "The Agent Commerce Kit GitHub repository documents ACK-ID and ACK-Pay as the two core protocols, positioned as complementary to Google's Agent Payments Protocol (AP2).",
+    "first_seen_or_mainstream": "2025, part of the agentic commerce protocol wave alongside AP2, ACP, TAP, UCP",
+    "related_existing_terms": ["AP2", "ACP", "UCP", "TAP"],
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://github.com/agentcommercekit/ack",
+      "https://cloud.google.com/blog/ja/topics/financial-services/introducing-an-agentic-commerce-solution-for-merchants-from-paypal-and-google-cloud?hl=ja"
+    ],
+    "confidence": "medium",
+    "notes": "Less press coverage than TAP or AP2; primary evidence is the project's own documentation rather than independent trade press. Watch for adoption signals before treating as fully mainstream."
+  },
+  {
+    "acronym": "CUA",
+    "expansion": "Computer-Use Agent",
+    "term": "CUA (Computer-Use Agent)",
+    "what_it_is": "An AI agent that operates a digital interface the way a human would, by perceiving the screen and clicking, typing, and navigating, rather than relying on API integrations.",
+    "why_marketers_care": "CUAs are the technical basis for AI 'shopping assistants' and browser agents that can execute marketing or purchase tasks on legacy sites without APIs; marketers evaluating agent-readiness need to understand that CUAs can interact with a site even if it has no agent-specific integration.",
+    "example": "Microsoft's Azure AI Foundry blog and Anthropic/OpenAI computer-use agent releases are cited as the production reference points for CUA capability as of 2026.",
+    "first_seen_or_mainstream": "Technical term from 2024-2025 model releases (Anthropic, OpenAI Operator), entering broader business/marketing vocabulary through 2026",
+    "related_existing_terms": ["LAM", "HITL"],
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/the-future-of-ai-computer-use-agents-have-arrived/4401025",
+      "https://www.thehackettgroup.com/glossary/computer-using-agent-model/"
+    ],
+    "confidence": "medium",
+    "notes": "Marketing-specific usage is inferred from adjacent 'agentic coworker' framing rather than a marketing-trade-press definition; core definition itself is well sourced from Microsoft and enterprise glossaries."
+  },
+  {
+    "acronym": "AI TRiSM",
+    "expansion": "AI Trust, Risk and Security Management",
+    "term": "AI TRiSM (AI Trust, Risk and Security Management)",
+    "what_it_is": "A Gartner-defined framework covering AI governance, runtime inspection and enforcement, information governance, and infrastructure controls, meant to ensure AI systems are trustworthy, fair, and secure.",
+    "why_marketers_care": "CMOs and marketing leaders increasingly answer to AI TRiSM-style governance requirements from legal, security, and compliance functions before deploying customer-facing AI (chatbots, personalization, content generation), and Gartner projects AI TRiSM adoption improves AI initiative success rates.",
+    "example": "Gartner's 2025 Market Guide for AI TRiSM and its August 2025 Hype Cycle placed AI TRiSM at the peak of inflated expectations with mainstream adoption expected within roughly five years.",
+    "first_seen_or_mainstream": "Coined by Gartner around 2022-2023, cited increasingly in enterprise/marketing governance contexts through 2025-2026",
+    "related_existing_terms": ["AIMS", "AI RMF", "PETs"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://www.gartner.com/en/newsroom/press-releases/2025-08-05-gartner-hype-cycle-identifies-top-ai-innovations-in-2025",
+      "https://www.cyera.com/glossary/what-is-ai-trism",
+      "https://resilienceforward.com/gartner-expects-ai-trust-risk-and-security-management-trism-to-reach-mainstream-adoption-within-the-next-5-years/"
+    ],
+    "confidence": "high",
+    "notes": "Direct marketer-specific framing is thin in the sources found (mostly security/CISO audience); included because Gartner terms of this kind routinely flow into CMO and marketing-governance conversations, but flagged for verification of marketer-specific usage."
+  },
+  {
+    "acronym": "AdCP",
+    "expansion": "Ad Context Protocol",
+    "term": "AdCP (Ad Context Protocol)",
+    "what_it_is": "An open-source communication protocol, built on Anthropic's Model Context Protocol, that standardizes how AI agents exchange structured data about audiences, ad inventory, and campaign objectives so they can negotiate and transact media directly.",
+    "why_marketers_care": "It is positioned by its founders as 'OpenRTB for the agentic AI era,' meaning media buyers could soon brief an AI agent in plain language and have it negotiate directly with publisher systems, changing how campaign briefs and programmatic buying work.",
+    "example": "Digiday's WTF explainer confirms AdCP launched October 2025 with founding members Optable, PubMatic, Scope3, Swivel, Triton Digital, and Yahoo, with a nonprofit governance body planned.",
+    "first_seen_or_mainstream": "Launched October 2025, actively debated in ad tech trade press through 2026",
+    "related_existing_terms": ["AAMP", "MCP", "RMN", "DSP"],
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://digiday.com/media-buying/wtf-ad-context-protocol/",
+      "https://digiday.com/media-buying/inside-the-debate-over-agentic-advertising-and-standards/"
+    ],
+    "confidence": "high",
+    "notes": "AdCP is a separate, competing initiative from IAB Tech Lab's AAMP (already in the dictionary); Digiday reports friction between the two efforts rather than full alignment."
+  },
+  {
+    "acronym": "GPAI",
+    "expansion": "General-Purpose AI",
+    "term": "GPAI (General-Purpose AI)",
+    "what_it_is": "A regulatory category under the EU AI Act for AI models trained on very large compute (over 10^23 FLOPs) that can perform a wide range of tasks and be integrated into many downstream products, such as GPT-4-class or Gemini-class models.",
+    "why_marketers_care": "Marketers in the EU and MEA markets that route through EU-regulated vendors need to know whether their AI marketing tools sit on a GPAI model subject to EU AI Act transparency and Code of Practice obligations (effective from August 2, 2025), since it affects vendor selection and disclosure requirements.",
+    "example": "The EU AI Act's GPAI provider obligations entered into application on 2 August 2025; providers can demonstrate compliance by voluntarily signing the General-Purpose AI Code of Practice.",
+    "first_seen_or_mainstream": "EU AI Act passed 2024, GPAI obligations took effect August 2025, relevant to marketers through 2025-2026 vendor compliance conversations",
+    "related_existing_terms": ["AIMS", "AI RMF"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+      "https://cdt.org/insights/eu-ai-act-brief-pt-5-general-purpose-ai-models/",
+      "https://artificialintelligenceact.eu/gpai-guidelines-overview/"
+    ],
+    "confidence": "medium",
+    "notes": "Sourcing is legal/regulatory rather than marketing-trade-press; relevance to marketers is inferred from vendor-compliance obligations rather than a marketing publication using the term directly. Flagged for further marketer-specific verification, but directly relevant to Turkiye/MEA marketers working with EU-regulated AI vendors."
+  },
+  {
+    "acronym": "AI RMF",
+    "expansion": "AI Risk Management Framework",
+    "term": "AI RMF (AI Risk Management Framework)",
+    "what_it_is": "A voluntary framework published by the U.S. National Institute of Standards and Technology (NIST) structured around four functions (Govern, Map, Measure, Manage) for managing AI risk across the system lifecycle.",
+    "why_marketers_care": "US regulators including the FTC and CFPB reference AI RMF principles in enforcement guidance, so marketing teams using AI for targeting, pricing, or content increasingly see AI RMF-aligned risk assessments requested by legal/compliance before campaigns launch.",
+    "example": "NIST released AI RMF 1.0 in January 2023; by 2025-2026 vendors like Palo Alto Networks and Securiti published implementation guides citing FTC, CFPB, FDA, SEC, and EEOC references to the framework.",
+    "first_seen_or_mainstream": "Published January 2023, referenced increasingly in enterprise AI governance conversations through 2025-2026",
+    "related_existing_terms": ["AIMS", "AI TRiSM", "GPAI"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://www.nist.gov/itl/ai-risk-management-framework",
+      "https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf",
+      "https://securiti.ai/nist-ai-risk-management-framework/"
+    ],
+    "confidence": "medium",
+    "notes": "Like GPAI, direct marketing-trade-press usage was not found; included because it is the most-cited US AI governance acronym that marketing compliance teams now reference. Verify marketer-specific usage before treating as fully mainstream in marketing (vs. general enterprise risk) contexts."
+  },
+  {
+    "acronym": "ASR",
+    "expansion": "Agent Success Rate",
+    "term": "ASR (Agent Success Rate)",
+    "what_it_is": "A standardized, partial-credit and cost-adjusted metric for how often an AI agent completes an assigned task end to end without human intervention, meant to make agent performance comparable across teams and vendors.",
+    "why_marketers_care": "As marketing teams adopt content, campaign, or customer-service agents, they need a shared metric (like ASR) to evaluate whether an agent is actually doing its job well enough to reduce human review, rather than relying on inconsistent ad hoc pass/fail scoring.",
+    "example": "digitalapplied.com published an 'Agent Success Rate (ASR): The Measurement Framework' methodology defining ASR as a single rate with partial credit and cost adjustment.",
+    "first_seen_or_mainstream": "2026, emerging alongside broader AI agent evaluation metric standardization",
+    "related_existing_terms": ["AgentOps", "HITL"],
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://www.digitalapplied.com/blog/agent-success-rate-asr-methodology-framework",
+      "https://fin.ai/learn/ai-agent-kpis-enterprise-performance-metrics-framework"
+    ],
+    "confidence": "medium",
+    "notes": "Primary source is a single vendor/blog methodology rather than an industry-standard body; related concept 'task success rate' is more widely used across sources without the ASR acronym specifically, so treat ASR as an emerging, not yet fully standardized, label."
+  },
+  {
+    "acronym": "ACS",
+    "expansion": "Agentic Commerce Suite",
+    "term": "ACS (Agentic Commerce Suite)",
+    "term_full": "ACS (Agentic Commerce Suite)",
+    "what_it_is": "A Stripe product suite that lets merchants integrate once to make products discoverable to AI shopping agents, accept agentic payments via Shared Payment Tokens, and support checkout across multiple agentic commerce protocols.",
+    "why_marketers_care": "It lowers the technical bar for e-commerce and DTC marketers to participate in agent-driven shopping (ChatGPT, other AI assistants) without building custom integrations for each protocol, directly affecting how product catalogs and checkout flows need to be structured.",
+    "example": "Stripe launched the Agentic Commerce Suite in December 2025, rolling out through the Stripe Dashboard, APIs, and partner platforms including Wix, WooCommerce, BigCommerce, Squarespace, Mirakl, and Rithum.",
+    "first_seen_or_mainstream": "December 2025 launch, adoption expanding through 2026",
+    "related_existing_terms": ["ACP", "AP2", "TAP", "UCP"],
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://stripe.com/blog/agentic-commerce-suite",
+      "https://stripe.com/newsroom/news/agentic-commerce-suite",
+      "https://www.aicerts.ai/news/stripes-acp-and-acs-push-agentic-commerce-into-mainstream-retail/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "RAI",
+    "expansion": "Responsible AI",
+    "term": "RAI (Responsible AI)",
+    "what_it_is": "The set of practices and governance mechanisms (fairness, safety, transparency, privacy) meant to ensure AI systems perform as intended and do not cause harm, now tracked as a formal maturity discipline inside many enterprises.",
+    "why_marketers_care": "Over 70% of marketers report having encountered an AI-related incident in advertising (hallucination, bias, or off-brand content), making RAI a direct brand-safety and reputational concern rather than only a legal/IT issue; RAI maturity scores are now tracked year over year.",
+    "example": "Marji Sherman's AI Governance Trends 2026 piece and McKinsey's 'State of AI trust in 2026' both frame RAI as shifting from a legal/IT concern into a daily marketing-operations issue, citing average RAI maturity rising from 2.0 (2025) to 2.3 (2026) on industry surveys.",
+    "first_seen_or_mainstream": "Established governance term since early 2020s, became a marketing-brand-safety concern through 2025-2026 as generative AI incidents accumulated",
+    "related_existing_terms": ["AI TRiSM", "AIMS", "PETs"],
+    "category_suggestion": "Leadership & Organization",
+    "sources": [
+      "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/state-of-ai-trust-in-2026-shifting-to-the-agentic-era",
+      "https://artificialintelligencemarketers.com/2026/08/25/ai-governance-trends-2026-brand-marketing-teams/",
+      "https://www.iab.com/insights/ai-adoption-is-surging-in-advertising-but-is-the-industry-prepared-for-responsible-ai/"
+    ],
+    "confidence": "medium",
+    "notes": "RAI is a well-established term predating the Sept 2024 window; included because its marketing-specific, brand-safety framing (vs. general AI ethics) appears to have become newly mainstream for marketers in 2025-2026. Borderline on the 'newly mainstream' criterion, flagged accordingly."
+  },
+  {
+    "acronym": "MAS",
+    "expansion": "Multi-Agent System",
+    "term": "MAS (Multi-Agent System)",
+    "what_it_is": "An architecture where multiple specialized AI agents (e.g. researcher, writer, editor, media-buyer agents) coordinate with each other, often under a central orchestrator, to complete a complex workflow end to end.",
+    "why_marketers_care": "Marketing teams are adopting MAS-style setups to run full campaign lifecycles (brief to launch, content generation, budget management) with specialized agents per function rather than one general-purpose agent, changing how martech stacks and workflows are architected.",
+    "example": "Industry analysis cited independent (non-orchestrated) multi-agent systems amplifying errors roughly 17x versus centrally orchestrated MAS reducing that to about 4.4x, underscoring why orchestration design matters for marketing use.",
+    "first_seen_or_mainstream": "Academic/technical term for decades, crossed into marketing-orchestration vocabulary through 2025-2026 as agentic marketing tooling matured",
+    "related_existing_terms": ["AgentOps", "LAM", "CUA"],
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://santageai.com/learn/concepts/multi-agent-systems",
+      "https://thesmarketers.com/ai-agents/multi-agents/",
+      "https://ultraweblabs.com/blog/multi-agent-ai-systems-transform-marketing-in-2026/"
+    ],
+    "confidence": "medium",
+    "notes": "MAS is a decades-old computer-science term; only its marketing-orchestration application is newly mainstream. Sourcing for the marketing angle is from marketing-agency/vendor blogs rather than a top-tier analyst report, hence medium confidence."
+  }
+]

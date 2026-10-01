@@ -1,0 +1,66 @@
+[
+  {
+    "term": "Frankenstack",
+    "what_it_is": "A marketing or advertising tech stack built from many separately bought tools that were bolted together over time and do not work as one system.",
+    "why_this_week": "MMA's Decoding AI for Marketing podcast (Greg Stuart, Rex Briggs) published 'Can AI Finally Fix Advertising's Frankenstack?' with Fluency CEO Mike Lane on 8 Sep 2026; the show notes warn that layering new AI tools onto fragmented platforms creates a Frankenstack.",
+    "origin": "Blend of Frankenstein and tech stack. Earliest verifiable use: CIO.com interview with Scott Brinker, 18 May 2015, where he already calls it a 'humorous label'. No single coiner found.",
+    "brand_example": "Podcast episode, 8 Sep 2026, guest Mike Lane (CEO, Fluency). Also Infillion, Advertising Week 2025 recap, 9 Oct 2025.",
+    "sources": [
+      "https://www.decodingaiformarketing.com/",
+      "https://podcasts.apple.com/us/podcast/decoding-ai-for-marketing/id1715735755",
+      "https://www.cio.com/article/246971/marketing-tech-prosfrankenstack-tools-and-the-future.html",
+      "https://infillion.com/blog/advertising-week-2025-the-end-of-the-frankenstack-and-the-rise-of-composable-ad-tech/"
+    ],
+    "recency_evidence": "Podcast episode dated 8 Sep 2026 (20 days before run, inside the 3-week podcast window). Adweek webinar 'From Frankenstack to Flow' seen only in a search snippet (27 Aug 2026), page 404, not used.",
+    "catchiness": 4,
+    "relevance": "Most Türkiye/MEA brand and agency teams run stacks assembled from global and local vendors; the term names the integration problem they face before adding AI agents.",
+    "notes": "No transcript available, so no direct Mike Lane quote; attribution uses the show-notes wording. Picked: Greg Stuart podcast source, clear origin, direct relevance."
+  },
+  {
+    "term": "Aura Farming",
+    "what_it_is": "Gen Z and gaming slang for building effortless charisma on camera, now used by brands as a social video hook.",
+    "why_this_week": "Trade coverage of the marketing angle: Storyboard18 (13 Sep 2026), News4Jax (2 Sep 2026).",
+    "origin": "Slang from gaming/anime communities ('farming' aura points); went global with Rayyan Arkan Dikha's Pacu Jalur boat video in mid-2025 (BBC, 11 Jul 2025).",
+    "brand_example": "Hyundai Motor Asia Pacific cast Dhika as face of Hyundai Cup 2026, 'Driving ASEAN as One' (Campaign Brief Asia, 7 Aug 2026).",
+    "sources": [
+      "https://www.storyboard18.com/digital/what-is-aura-farming-the-social-media-trend-everyones-talking-about-77060.htm",
+      "https://campaignbriefasia.com/2026/08/07/hyundai-taps-viral-aura-farming-boy-dhika-for-hyundai-cup-2026-campaign/",
+      "https://www.news4jax.com/news/weird-news/2026/09/02/aura-farming-the-video-game-inspired-youth-trend-sweeping-latin-america/",
+      "https://en.wikipedia.org/wiki/Aura_farming"
+    ],
+    "recency_evidence": "Storyboard18 13 Sep 2026; News4Jax 2 Sep 2026.",
+    "catchiness": 5,
+    "relevance": "Useful for Gen Z social video briefs in Türkiye/MEA.",
+    "notes": "Runner-up. Strong and catchy but a youth-culture meme more than a marketing concept; no Greg Stuart podcast link; underlying meme is over a year old. Good candidate for a later week."
+  },
+  {
+    "term": "Good Enough, Go",
+    "what_it_is": "Shorthand for accepting AI-made creative at 'good enough' quality because speed and volume outrank polish.",
+    "why_this_week": "Digiday, 25 Sep 2026, from its AI Marketing Strategies event.",
+    "origin": "Anonymous premium-beauty marketer quoted by Digiday.",
+    "brand_example": "None on record (anonymous quotes only).",
+    "sources": [
+      "https://digiday.com/marketing/marketers-bemoan-the-culture-of-good-enough-go-as-standards-fall-amid-the-ai-bubble/",
+      "https://digiday.com/marketing/future-of-marketing-briefing-why-just-good-enough-is-generative-ais-real-threat-to-marketers/"
+    ],
+    "recency_evidence": "Digiday 25 Sep 2026.",
+    "catchiness": 4,
+    "relevance": "Names a quality-gate tension for teams using AI production.",
+    "notes": "Rejected: no named brand example; close to Workslop already in the dictionary."
+  },
+  {
+    "term": "Guaranteed Human",
+    "what_it_is": "A pledge that a media company's content is made by people, not AI.",
+    "why_this_week": "Thematically tied to the anti-AI authenticity debate.",
+    "origin": "iHeartMedia memo, late Nov 2025; public at CES Jan 2026.",
+    "brand_example": "iHeartMedia station IDs.",
+    "sources": [
+      "https://www.editorandpublisher.com/stories/iheartmedia-makes-guaranteed-human-a-core-branding-message-across-all-stations,258958",
+      "https://radioinsight.com/headlines/322054/iheart-launches-anti-ai-guaranteed-human-campaign/"
+    ],
+    "recency_evidence": "Newest coverage 25 Jun 2026 (Barrett Media).",
+    "catchiness": 4,
+    "relevance": "Precedent for human-made positioning.",
+    "notes": "Rejected: fails 14-day recency; overlaps last week's Humanwashing."
+  }
+]

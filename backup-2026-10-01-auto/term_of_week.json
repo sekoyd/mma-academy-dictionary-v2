@@ -1,0 +1,46 @@
+[
+ {
+  "week": "2026-W39",
+  "hook": "As the 2026 backlash against AI-made ads grows, brands are tempted to hide their AI use behind handmade, human-looking work. This week's coverage of the 'human moat' as the last brand differentiator puts that trade-off on the table.",
+  "term": "Humanwashing",
+  "short_definition": "The practice of making AI-assisted work look fully human-made, through handcrafted styling, named creators or behind-the-scenes stories, while hiding how much AI actually did.",
+  "long_explanation": "Humanwashing is the mirror image of AI washing: instead of overstating AI to borrow a tech halo, a brand understates AI to protect an authenticity halo. Business ethicist Peter Seele introduced 'humanwashing of machines' in a March 2021 post, and in 2022 formalized it with Andreea Scorici and Mario Schultz in AI & Society as the deceptive use of a machine's human-like appearance to mislead people about what it can really do. Marketing writers then took the word over for brand and creative work: the WHAT'S ANU newsletter in December 2025, followed by agencies such as Flux+Form in 2026, where it now means passing off AI-generated content as human craft. The risk for marketers is trust: when undisclosed AI use surfaces, the brand is judged less on the AI itself than on the concealment.",
+  "usage_context": "In August 2025 J.Crew posted AI-generated images styled as vintage catalog shots on Instagram without saying they were AI-made. After the newsletter Blackbird Spyplane exposed them on 26 August 2025, the brand edited its captions to credit an 'AI photographer' rather than stating plainly that the images were AI-generated.",
+  "mma_connection": "The question sits in the territory of MMA's AI Leadership Think Tank (ALTT, formerly the AI Leadership Coalition), which runs a Responsible AI working group and the Responsible AI Innovation Lab (RAIL), a source of guidelines, templates and checklists for ethical AI use in marketing. It is also the counterpart of AI Washing, already in this dictionary: one overclaims AI, the other hides it, and both erode the same asset, consumer trust.",
+  "related_terms": "AI Washing, Synthetic Trust, Synthetic Influence, Responsible AI, Greenwashing",
+  "tr_equivalent": null,
+  "tr_definition": "Humanwashing, yapay zeka ile üretilen bir işi el emeği görünümü, isimlendirilmiş yaratıcılar ya da kamera arkası hikâyelerle tamamen insan yapımı gibi sunarak yapay zekanın katkısını gizlemektir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://flux-form.com/what-is-humanwashing/",
+   "https://whatsanu.substack.com/p/2510-humanwashing",
+   "https://www.blackbirdspyplane.com/p/jcrew-used-ai-to-counterfeit-their-own-vibes",
+   "https://www.adweek.com/creativity/in-2026-brands-are-virtue-signaling-about-ai/",
+   "https://businessesgrow.com/2026/09/21/human-moat/",
+   "https://petapixel.com/2025/09/02/j-crews-ai-generated-fashion-images-look-a-lot-like-real-photos/",
+   "https://www.mmaglobal.com/rail"
+  ],
+  "notes": "Recency: no source dated in the last 14 days uses the exact word; the topic is current through adjacent coverage (Schaefer, 21 Sep 2026). Seele's original sense differs from the marketing sense; both are stated. Fact-checked 2026-09-23."
+ },
+ {
+  "week": "2026-W40",
+  "hook": "On 8 September 2026, MMA's Decoding AI for Marketing podcast asked whether AI can fix advertising's Frankenstack. Guest Mike Lane, CEO of Fluency, argued that stitching new AI tools onto fragmented platforms can create one instead.",
+  "term": "Frankenstack",
+  "short_definition": "A marketing or advertising technology stack assembled from many separately bought tools that were bolted together over time and do not work as one system.",
+  "long_explanation": "A Frankenstack is what a marketing team ends up with when each department buys its own tools for data, media buying, creative and reporting, and the pieces are later wired together with manual work, exports and custom connectors. The word blends Frankenstein and tech stack: a system built from mismatched parts that runs, but badly. It comes from the martech world. The earliest verifiable use found is a 31 March 2015 chiefmartec.com post by its editor Scott Brinker, who wrote that the phrase had entered the industry's lingo; six weeks later, in a CIO.com interview, he called it a 'humorous label' for stacks that grew out of marketing silos. No single coiner is known. In 2025 and 2026 the term returned in adtech coverage as teams started adding AI tools and agents on top of these stacks. Before a team adds another AI tool, it pays to check whether the tool connects the existing data and workflows or just adds one more part to the stack.",
+  "usage_context": "In the 8 September 2026 episode of MMA's Decoding AI for Marketing podcast, hosted by Greg Stuart and Rex Briggs, Fluency CEO Mike Lane described advertising execution as still largely manual. The episode notes say that when fragmented platforms are stitched together with new AI tools, they can create what Lane calls a 'Frankenstack' of software, and that he argues for integrated operating systems that connect data, media and AI agents. At Advertising Week 2025, adtech company Infillion framed the trend as 'the end of the Frankenstack' and a move to composable ad tech (Infillion blog, 9 October 2025).",
+  "mma_connection": "The term was the subject of an episode of MMA's own Decoding AI for Marketing podcast, hosted by MMA CEO Greg Stuart and Rex Briggs. The topic sits in the territory of MMA's AI Leadership Think Tank (ALTT), whose working groups include Audience Dev & Media Buying, and of the AI/Org Transformation priority on MMA's 2026 agenda, which covers operating models for AI. MMA's State of Agentic AI in Marketing (2026) report is the related reading for teams planning to add AI agents to an existing stack.",
+  "related_terms": "Workflow-First AI, AI Wrapper, AI Orchestrator, CDP / Customer Data Platform, MCP (Model Context Protocol)",
+  "tr_equivalent": null,
+  "tr_definition": "Frankenstack, zamanla ayrı ayrı alınıp birbirine eklenen ve tek bir sistem gibi çalışmayan araçlardan oluşan pazarlama ya da reklam teknolojisi altyapısıdır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.decodingaiformarketing.com/",
+   "https://podcasts.apple.com/us/podcast/decoding-ai-for-marketing/id1715735755",
+   "https://chiefmartec.com/2015/03/springtime-marketing-technology-martech/",
+   "https://www.cio.com/article/246971/marketing-tech-prosfrankenstack-tools-and-the-future.html",
+   "https://infillion.com/blog/advertising-week-2025-the-end-of-the-frankenstack-and-the-rise-of-composable-ad-tech/"
+  ],
+  "notes": "No public transcript of the episode; Mike Lane's wording is attributed through the episode notes, not quoted directly. March 2015 is the earliest verifiable use, not a proven coinage date. MMA names checked against mma-org-context. Fact-checked 2026-09-28."
+ }
+]

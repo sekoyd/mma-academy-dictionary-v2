@@ -1,0 +1,462 @@
+[
+ {
+  "term": "Ad Inventory",
+  "tr_definition": "Perakendecinin satışa sunabileceği reklam fırsatlarıdır (örneğin anasayfa bannerları, sponsorlu ürünler, e-posta yerleşimleri, sitesi dışı kitle)."
+ },
+ {
+  "term": "Ad Load",
+  "tr_definition": "Belirli bir alışveriş deneyimi içinde gösterilen reklam sayısıdır."
+ },
+ {
+  "term": "Ad Serving",
+  "tr_definition": "Reklamı doğru zamanda ve yerde alışverişçiye ulaştıran teknoloji sürecidir."
+ },
+ {
+  "term": "Ad Slot / Placement",
+  "tr_definition": "Bir reklamın görünebileceği belirli bir konumdur."
+ },
+ {
+  "term": "Advertiser",
+  "tr_definition": "Kampanya yürütmek için ödeme yapan marka olarak tanımlanır."
+ },
+ {
+  "term": "Advertising Cost of Sales (ACoS)",
+  "tr_definition": "Reklam harcamasının satış değerine oranını ölçen, reklam harcaması ile satış değerinin bölümü ile hesaplanan ve yüzde olarak ifade edilen metrik."
+ },
+ {
+  "term": "Algorithmic / Dynamic Bidding",
+  "tr_definition": "Reklam teknolojisinin alışverişçi sinyallerine, gerçek zamanlı envanter kullanılabilirliğine, dönüşüm olasılığına veya hedef ROAS'a göre teklifleri gerçek zamanlı olarak ayarladığı otomatik müzayede teklifleridir."
+ },
+ {
+  "term": "Anonymised Data",
+  "tr_definition": "Gizlilik açısından güvenli kitle ve içgörü kullanımı için ilgili kişisel bilgi olmayan veridir."
+ },
+ {
+  "term": "Attribution",
+  "tr_definition": "Hangi pazarlama dokunuşlarının dönüşüm veya satın almaya yol açtığını belirlemek için kullanılan metodoloji ve kural kümesidir."
+ },
+ {
+  "term": "Attribution Window",
+  "tr_definition": "Bir reklam etkileşiminin ortaya çıkan satışa kredi almaya uygun olduğu tanımlı zaman dilimi (örneğin 7 günlük tıklamalar, 14 günlük tıklamalar, 1 günlük görüntülemeler)."
+ },
+ {
+  "term": "Audience Activation",
+  "tr_definition": "Kampanyaları hedeflemek için kitle verilerini kullanmaktır."
+ },
+ {
+  "term": "Audience Extension / “Off-site extension”",
+  "tr_definition": "Perakendeci kitlesini sahip olunan özelliklerin dışında (genellikle sitesi dışında) kullanmaktır."
+ },
+ {
+  "term": "Baseline Sales (Organic Base)",
+  "tr_definition": "Herhangi bir ücretli reklam müdahalesi olmaksızın doğal olarak gerçekleşecek beklenen satış hacmidir; gerçek artışkanlığı hesaplamak için temel teşkil eder."
+ },
+ {
+  "term": "Basket Analysis",
+  "tr_definition": "Alışverişçilerin birlikte satın aldıkları ürünleri analiz etmektir."
+ },
+ {
+  "term": "Brand Halo",
+  "tr_definition": "İlan edilen SKU'nun ötesinde bir marka için artışkanlık artışıdır."
+ },
+ {
+  "term": "Brand Lift Study",
+  "tr_definition": "Anket veya test-kontrol tabanlı ölçüm; perakende kampanyaların tahrik ettiği üst huni etkisini (marka farkındalığı, marka lehçeliliği, satın alma niyeti) değerlendirmektir."
+ },
+ {
+  "term": "Brand Pages",
+  "tr_definition": "Görüntüleme kampanyalarıyla eşleştirilen marka sayfaları, katılımı artırmak ve markalı içeriği tanıtmak için özel bir alan sağlar."
+ },
+ {
+  "term": "Buy Box",
+  "tr_definition": "Ürün sayfasındaki birincil satın alma çağrısı-hareketi alanıdır."
+ },
+ {
+  "term": "Category Exclusivity",
+  "tr_definition": "Bir markanın bir kategori içinde özel reklam varlığını güvence altına almasıdır."
+ },
+ {
+  "term": "Closed-Loop Measurement",
+  "tr_definition": "Reklam maruziyetini (çevrimiçi ve mağazada) sadakat kartları, CRM kayıtları veya dijital kasa makbuzları aracılığıyla doğrulanmış, belirleyici işlem verilerine doğrudan bağlayan ölçüm; perakende medyanın ana farklılaştırıcıdır."
+ },
+ {
+  "term": "CDP / Customer Data Platform",
+  "tr_definition": "Birden fazla kaynaktan müşteri verilerini toplayan ve birleştirerek müşteri profilleri ve kullanılabilir kitle segmentleri oluşturan bir platformdur."
+ },
+ {
+  "term": "Commerce Media",
+  "tr_definition": "Alışverişçilerin satın almak veya işlem yapmak için kullantığı platformlarda işlem, davranışsal ve niyet verilerini kullanarak satın alma kararlarını etkilemek amacıyla ticari ekosistemler arasında reklam parasallaştırılmasıdır."
+ },
+ {
+  "term": "Commerce Signal",
+  "tr_definition": "Niyet gösteren herhangi bir alışverişçi davranışıdır."
+ },
+ {
+  "term": "Connected TV (CTV) for Retail Media",
+  "tr_definition": "Deterministic 1. taraf perakendeci alışveriş verisi ve kapalı halka atribüsyon kullanılarak hedeflenen ve ölçülen çevrim dışı televizyon akışı reklam birimleridir."
+ },
+ {
+  "term": "Conversion Rate (CVR)",
+  "tr_definition": "Reklam tıklamalarının veya ziyaretlerin bir siparişe dönüşme yüzdesidir."
+ },
+ {
+  "term": "Cost Per Acquisition (CPA)",
+  "tr_definition": "Bir dönüşümü veya hareketi yürütmek için harcanan reklam maliyetidir."
+ },
+ {
+  "term": "Cost Per Click (CPC)",
+  "tr_definition": "Bir reklama her tıklandığında reklamcının ödediği maliyettir."
+ },
+ {
+  "term": "Cost Per Mille (CPM)",
+  "tr_definition": "1.000 reklam izlemesi satın almanın maliyetidir."
+ },
+ {
+  "term": "Cost Per Transaction (CPT)",
+  "tr_definition": "Üretilen her bir satış siparişi için ödenen maliyettir."
+ },
+ {
+  "term": "Click-Through Rate (CTR)",
+  "tr_definition": "Tıklamalar ile iletilen görsellerin oranıdır."
+ },
+ {
+  "term": "Data Clean Room",
+  "tr_definition": "Reklamcı ve perakendeci veri kümelerini birleştirmek için gizlilik açısından güvenli bir ortamdır."
+ },
+ {
+  "term": "Deterministic Matching",
+  "tr_definition": "Tüketici kayıtlarını istatistiksel olasılıklar yerine doğrulanmış, benzersiz tanımlayıcılar (örneğin hashlı e-posta adresi, telefon numarası, sadakat kimliği, CRM kaydı) gibi satın alma alışkanlıklarını kullanarak kanallar arasında bağlamaktır."
+ },
+ {
+  "term": "Digital Out-of-Home (DOOH / In-Store Screens)",
+  "tr_definition": "Fiziksel perakende koridorları ve kasaların içinde bulunan dijitalleştirilmiş video ekranları, etkileşimli uçlarından ve görüntüleme panellerindendir."
+ },
+ {
+  "term": "Digital Shelf Optimisation",
+  "tr_definition": "Keşfedilebilirliği ve dönüşümü iyileştirmektir."
+ },
+ {
+  "term": "Dynamic Creative Optimization (DCO)",
+  "tr_definition": "Hizmet sırasında stok seviyesi, yerelleştirilmiş fiyatlandırma ve alışverişçi ilgilerine gibi gerçek zamanlı perakende sinyallerini çekerek kişiselleştirilmiş reklam varyantlarını dinamik olarak oluşturan reklam teknolojisidir."
+ },
+ {
+  "term": "Endemic Advertiser",
+  "tr_definition": "Perakendeci içinde ürün satış yapan markaştidir."
+ },
+ {
+  "term": "Effective CPM (eCPM)",
+  "tr_definition": "İletilen 1.000 görseller başına kazanılan gerçek parasallaştırma verimdir."
+ },
+ {
+  "term": "Fill Rate",
+  "tr_definition": "Başarıyla satılan ve işlenen mevcut reklam envanteri yüzdesidir."
+ },
+ {
+  "term": "First-Party Data",
+  "tr_definition": "Perakendeci tarafından doğrudan toplanan verdir."
+ },
+ {
+  "term": "House Ads",
+  "tr_definition": "Perakendeci tarafından yürütülen dahili tanıtımlarıdır."
+ },
+ {
+  "term": "Identity Graph (ID Graph)",
+  "tr_definition": "Parçalı tüketici tanımlayıcılarını (sadakat kart numaraları, uygulama kimliği, hashlı e-postalar, çerez verileri, mobil cihaz kimliği) tek ayrı alışverişçi profillerine birleştiren birleşik bir veritabanıdır."
+ },
+ {
+  "term": "Incrementality",
+  "tr_definition": "Reklam maruziyetinin doğrudan nedensel sonucu olarak üretilen ve organik olarak meydana gelmeyecek olan tamamen yeni satış ve gelirdir."
+ },
+ {
+  "term": "Incremental Return on Ad Spend (iROAS)",
+  "tr_definition": "Test-kontrol deneyleri aracılığıyla organik taban satışların çıkarılmasıyla hesaplanan, reklam harcaması başına tamamen artışkanlık satış üzerinde yoğunlaşan bir performans metrikdir."
+ },
+ {
+  "term": "In-Store Media",
+  "tr_definition": "Fiziksel mağazalar içinde perakende medyadır."
+ },
+ {
+  "term": "Inventory Yield",
+  "tr_definition": "Mevcut reklam envanterinin gelir verimliliğidir."
+ },
+ {
+  "term": "Media KPIs",
+  "tr_definition": "Reklam iletimi ile ilişkili temel kampanya metrikdir."
+ },
+ {
+  "term": "Retail KPIs",
+  "tr_definition": "Geleneksel medya KPI'ları yanında kullanılan ticaret ve satış ölçümleridir."
+ },
+ {
+  "term": "Last Click Attribution",
+  "tr_definition": "Satın almanın öncesindeki son etkileşime kredi verilmesidir."
+ },
+ {
+  "term": "Loyalty Data",
+  "tr_definition": "Sadakat programlarından alışverişçi verisidir."
+ },
+ {
+  "term": "Managed Service",
+  "tr_definition": "Ağ veya sağlayıcı tarafından yürütülen perakende medya kampanyalarıdır."
+ },
+ {
+  "term": "Marketplace",
+  "tr_definition": "Birden fazla satıcının işlem yaptığı bir platformdur."
+ },
+ {
+  "term": "Merchandising",
+  "tr_definition": "Ürünlerin nasıl sunulduğu, sıralandığı ve tanıtıldığıdır."
+ },
+ {
+  "term": "Mid-Funnel",
+  "tr_definition": "Değerlendirme aşaması faaliyetidir."
+ },
+ {
+  "term": "Native Placement",
+  "tr_definition": "Çevreleyen deneyime uygun reklam; başlık reklamlarından daha az kesintilidir."
+ },
+ {
+  "term": "New-to-Brand",
+  "tr_definition": "Daha önce markayı satın almamış müşteriler; önemli bir kazanım metriğidir."
+ },
+ {
+  "term": "Non-Endemic Advertiser",
+  "tr_definition": "Perakendeci ekosistemi içinde doğrudan satış yapmayan reklamcı."
+ },
+ {
+  "term": "Offsite Retail Media",
+  "tr_definition": "Perakendeci sahip olunan özelliklerin ötesinde kitle hedeflemesidir."
+ },
+ {
+  "term": "Omnichannel Closed-Loop Attribution",
+  "tr_definition": "Dijital reklam maruziyetlerini (sitesi içinde veya dışında) birleştirilmiş sadakat kartları veya dijital ödemeler aracılığıyla fiziksel mağaza kasa işlemlerine bağlayan atribüsyon metodolojisidir."
+ },
+ {
+  "term": "Onsite Display",
+  "tr_definition": "Markaların mesajını vitrin için ticari sitesi genelinde mevcut olan görseller; e-ticaret sitesindedir."
+ },
+ {
+  "term": "Onsite Retail Media",
+  "tr_definition": "Perakendeci sahip olunan dijital özelliklerdeki reklamdır."
+ },
+ {
+  "term": "Omnichannel Retail Media",
+  "tr_definition": "Entegre dijital + mağaza perakende medyadır."
+ },
+ {
+  "term": "Owned & Operated Media",
+  "tr_definition": "Perakendeciler tarafından doğrudan sahip olunan ve kontrol edilen özelliklerde bulunan reklam envanteri; web, uygulama, mağazalar, CRM içindir."
+ },
+ {
+  "term": "PDP (Product Detail Page)",
+  "tr_definition": "Ürüne özel sayfadır."
+ },
+ {
+  "term": "Performance Media",
+  "tr_definition": "Tıklamalar, açılımlar, dönüşümler veya satışlar gibi ölçülebilir eylemler doğrultusunda planlanan ve optimize edilen dijital medyadır."
+ },
+ {
+  "term": "Point-of-Sale (POS) Media",
+  "tr_definition": "Kasa noktasında bulunan fiziksel ve dijital reklam birimleri; müşteri karşısı ödeme terminallerini, dijital ekran karusellerini ve yazdırılmış/dijital makbuz reklamlarını içerir."
+ },
+ {
+  "term": "Post-Click Attribution",
+  "tr_definition": "Bir tıklamadan sonra ölçümüdür."
+ },
+ {
+  "term": "Post-View Attribution",
+  "tr_definition": "Tıklama olmaksızın maruziyetin ardından ölçümüdür."
+ },
+ {
+  "term": "Probabilistic Targeting / Matching",
+  "tr_definition": "Model tabanlı yaklaşım; kişisel tanımlayıcı bilgisine yalnızca değil, davranışların aynı veya muhtemelen kitle ile ilişkili olup olmadığını tahmin eder."
+ },
+ {
+  "term": "Query Intent",
+  "tr_definition": "Arama terimlerinden çıkarılan alışverişçi niyetidir."
+ },
+ {
+  "term": "Reach",
+  "tr_definition": "Maruz kalan benzersiz alışverişçi sayısıdır."
+ },
+ {
+  "term": "Retail Media",
+  "tr_definition": "Perakendeci varlıklarını ve alışverişçi verilerini kullanarak reklam parasallaştırılmasıdır."
+ },
+ {
+  "term": "Retail Media Network (RMN)",
+  "tr_definition": "Organize perakende reklam işletimidir."
+ },
+ {
+  "term": "Retail Media Platform (RMP)",
+  "tr_definition": "Perakende ağları içinde reklam kampanyalarının yönetimini, yürütülmesini ve analizini kolaylaştıran teknolojik bir çözüm veya yazılım sistemi."
+ },
+ {
+  "term": "Return on Ad Spend (ROAS)",
+  "tr_definition": "Medyaya harcanan her dolar için üretilen brüt gelir; artışkanlık ve artışkanlık olmayan organik satışları içerir."
+ },
+ {
+  "term": "Revenue Share",
+  "tr_definition": "Sağlayıcının medya gelirinin bir yüzdesini aldığı ticari model."
+ },
+ {
+  "term": "Run Rate",
+  "tr_definition": "Mevcut hıza dayanarak tahmini performanstır."
+ },
+ {
+  "term": "Second-Party (2P) Data",
+  "tr_definition": "Birbirini karşılıklı olarak kabul eden iki taraf tarafından doğrudan ve güvenli bir şekilde paylaşılan 1. taraf verisi (örneğin CPG markasının CRM listesini bir temiz oda içinde doğrudan perakendeciye paylaşması); açık bir komisyoncu aracılığıyla değil."
+ },
+ {
+  "term": "Self-Service Platform",
+  "tr_definition": "Reklamcıların ve ajansların kendi başlarına kampanya başlattıkları platformdur."
+ },
+ {
+  "term": "Share of Search (SoS)",
+  "tr_definition": "Belirli bir markanın seçilen zaman diliminde bir kategori taksonomisi içinde yakalaması gereken toplam arama sorgusu yüzdesidir."
+ },
+ {
+  "term": "Share of Voice (SOV)",
+  "tr_definition": "Rakiplere karşı marka görünürlüğüdür."
+ },
+ {
+  "term": "Shelf Placement",
+  "tr_definition": "Ürün görünürlüğü konumudur."
+ },
+ {
+  "term": "Shopper Marketing",
+  "tr_definition": "Satın alma kararlarını etkileyendir; markadendir."
+ },
+ {
+  "term": "Smart Carts / Smart Trolleys",
+  "tr_definition": "Barkod tarayıcıları, ağırlık sensörleri ve fiziksel kasa konumuna göre bağlamsal reklamlar ve yönlendirme sunan dijital etkileşimli ekranlar ile donatılmış mağaza alışveriş arabaları."
+ },
+ {
+  "term": "Sponsored Brands",
+  "tr_definition": "Marka tarafından yönetilen arama/görüntüleme birimleridir."
+ },
+ {
+  "term": "Sponsored Display",
+  "tr_definition": "Ürün detay sayfalarından, tarama yollarından ve sitesi dışı ağlarda görünen kitle ve ürün hedefli görüntüleme birimleri; değerlendirme veya yeniden hedefleme sürüşü."
+ },
+ {
+  "term": "Sponsored Products",
+  "tr_definition": "Markalar, premium, ilk sıra konumları güvence altına almak için teklif verdikleri müzayede tabanlı ürün listesi reklamları; e-ticaret sitesinde ürünlerini vitrin."
+ },
+ {
+  "term": "Sponsored Search",
+  "tr_definition": "Markalar, e-ticaret sitesinde ilgili arama sorguları karşında yerli yerleşimleri güvence altına almak için teklif verdikleri müzayede tabanlı anahtar kelime hedefli reklamlar."
+ },
+ {
+  "term": "Sell-Through Rate",
+  "tr_definition": "Belirli bir süre içinde tedarikçilerden alınan miktara göre satılan fiziksel envanter yüzdesidir."
+ },
+ {
+  "term": "Trade Marketing",
+  "tr_definition": "Perakendeci ve marka tanıtım işbirliğidir."
+ },
+ {
+  "term": "Targeting",
+  "tr_definition": "Kitle kriterlerini seçmektir."
+ },
+ {
+  "term": "Third-Party Data",
+  "tr_definition": "Alışverişçi ile doğrudan ilişkisi olmayan tarafça toplanan veridir; genellikle ilgisiz siteler/uygulamalar arasında toplandığı ve bir veri komisyoncusu veya borsası aracılığıyla lisanslandığı. Perakende medyada doğrudan veri sahipliği ilişkisinin eksikliği nedeniyle tercih edilen veri türü değildir; ancak 1., 2. ve sıfır taraf verisi yanında referans alınır."
+ },
+ {
+  "term": "Unique Reach",
+  "tr_definition": "Maruz kalan ayrı bireylerdir."
+ },
+ {
+  "term": "Upsell",
+  "tr_definition": "Alışverişçileri daha yüksek değerli ürünlere yöneltmektir."
+ },
+ {
+  "term": "Viewability",
+  "tr_definition": "Bir reklam biriminin sektör standartlarına göre ekranda görülerek işlenip işlenmediğini izleyen bir metrik; bir reklamın gerçekten görünür olup olmadığı (örneğin MRC/IAB standardı: görüntü için 1 saniyeden az veya video için 2 saniyeden az süre içinde reklam piksellerinin en az yüzde 50'si görüş alanında)."
+ },
+ {
+  "term": "Viewability",
+  "tr_definition": "Bir reklamın gerçekten görünür olup olmadığıdır."
+ },
+ {
+  "term": "View-Through Conversion",
+  "tr_definition": "Bir reklamı (tıklamadan) görmek ardından dönüşümdür."
+ },
+ {
+  "term": "Walled Garden",
+  "tr_definition": "Mülkiyetçi verisi bulunan kapalı bir ekosistemdir."
+ },
+ {
+  "term": "XML Product Feed",
+  "tr_definition": "Reklam sistemlerinde kullanılan yapılı ürün kataloğu beslemesidir."
+ },
+ {
+  "term": "Yield Management",
+  "tr_definition": "Envanterden geliri optimize etmektir."
+ },
+ {
+  "term": "Zero-Party Data",
+  "tr_definition": "Tüketiciler tarafından kasıtlı olarak paylaşılan verdir."
+ },
+ {
+  "term": "DSP (Demand-Side Platform)",
+  "tr_definition": "Dijital reklam envanteri satın almak için kullanılan platformdur."
+ },
+ {
+  "term": "SSP (Supply-Side Platform)",
+  "tr_definition": "Yayıncıların reklam envanterini yönetmesi ve satması için kullanılan platformdur."
+ },
+ {
+  "term": "SEM (Search Engine Marketing)",
+  "tr_definition": "Ücretli arama sonuçları aracılığıyla yapılan reklamdır."
+ },
+ {
+  "term": "RO (Reach & Overlap)",
+  "tr_definition": "Platformlar arasında kitle örtüşümünü ölçer."
+ },
+ {
+  "term": "UX (User Experience)",
+  "tr_definition": "Bir ürün veya hizmet ile kullanıcının genel deneyimidir."
+ },
+ {
+  "term": "MQL (Marketing Qualified Lead)",
+  "tr_definition": "Satış katılımı için hazır olan potansiyel bir müşteridir."
+ },
+ {
+  "term": "SQL (Sales Qualified Lead)",
+  "tr_definition": "Satış ekibi tarafından değerlendirilen ve doğrudan katılım için hazır olan açılımıdır."
+ },
+ {
+  "term": "GA4 (Google Analytics 4)",
+  "tr_definition": "Kullanıcı etkileşimlerini izlemek için Google'ın ileri analitik platformudur."
+ },
+ {
+  "term": "BI (Business Intelligence)",
+  "tr_definition": "Daha iyi kararlar vermek için işletme verilerini analiz eden sistemlerdir."
+ },
+ {
+  "term": "DTC (Direct-to-Consumer)",
+  "tr_definition": "Aracılar olmaksızın doğrudan tüketicilere satış yapan iş modelidir."
+ },
+ {
+  "term": "UGR (User-Generated Reviews)",
+  "tr_definition": "Kullanıcılar tarafından oluşturulan ve markalara güven oluşturan incelemelerdir."
+ },
+ {
+  "term": "CX (Customer Experience)",
+  "tr_definition": "Müşteri ve marka arasındaki genel etkileşim deneyimidir."
+ },
+ {
+  "term": "RTM (Real-Time Marketing)",
+  "tr_definition": "Güncel olaylar ve anlık haydutlara yanıt veren anında pazarlamadır."
+ },
+ {
+  "term": "UGS (User-Generated Stories)",
+  "tr_definition": "Kullanıcılar tarafından oluşturulan ve marka özgünlüğünü artıran hikayelerdir."
+ },
+ {
+  "term": "CTA (Call to Action)",
+  "tr_definition": "Kullanıcıları belirli eylemlere yönlendiren çağrılardır (örneğin 'Şimdi Satın Al', 'Kaydol')."
+ }
+]

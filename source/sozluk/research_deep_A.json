@@ -1,0 +1,287 @@
+[
+  {
+    "acronym": "AISO",
+    "expansion": "AI Search Optimization",
+    "term": "AISO (AI Search Optimization)",
+    "what_it_is": "The practice of making content discoverable, extractable, summarized and cited by AI powered search and answer systems such as ChatGPT and Perplexity. Framed by several agencies as an umbrella term that sits above SEO, AEO, GEO and LLMO.",
+    "why_marketers_care": "Marketers need a working label for the shift from ranking pages to being cited inside AI answers. AISO is one of the more widely used umbrella terms in 2025 to 2026 trade coverage, alongside GEO and AEO, and search interest for the related term ASO reportedly surged in late 2025.",
+    "example": "NAV43 and MentionWell both published 2025 to 2026 guides titled around AISO as the practice of optimizing for AI Overviews, ChatGPT and Perplexity answers.",
+    "first_seen_or_mainstream": "2025, with continued use into 2026",
+    "related_existing_terms": ["GEO", "AEO", "LLMO", "AIO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://nav43.com/blog/aiso-how-to-optimize-for-ai-search-in-2025/",
+      "https://mentionwell.com/blog/what-is-aiso-in-2026-ai-search-optimization-explained",
+      "https://searchengineland.com/seo-geo-aso-new-era-brand-visibility-ai-research-464936"
+    ],
+    "confidence": "high",
+    "notes": "Distinct from AISEO which was already rejected for this dictionary. AISO is used both as AI Search Optimization and occasionally interchangeably with AISEO by some publishers, but the more common current usage is the shorter AISO form."
+  },
+  {
+    "acronym": "AIVO",
+    "expansion": "AI Visibility Optimization",
+    "term": "AIVO (AI Visibility Optimization)",
+    "what_it_is": "A framework for making brands visible, consistent and resilient across AI driven answer systems, positioned as going beyond citation seeding toward measurable brand representation across LLMs. Some agencies use AIVO as their preferred term over AEO or GEO because it centers visibility and accuracy rather than click through traffic.",
+    "why_marketers_care": "Gives marketers a metric minded alternative to GEO or AEO that explicitly ties AI presence to brand and revenue risk rather than traffic. Used by multiple agencies (RiseOpp, Goodie, Four Dots) as a 2025 to 2026 positioning term.",
+    "example": "Four Dots' \"naming wars\" piece frames AIVO as the author's preferred term versus GEO, AIO, AEO, AIEO and LLMO. Goodie published an \"AI Visibility Optimization (AIVO) 2026 Guide.\"",
+    "first_seen_or_mainstream": "2025, expanding into 2026",
+    "related_existing_terms": ["GEO", "AEO", "LLMO", "AIO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://fourdots.com/blog/the-naming-wars-of-an-industry-that-doesnt-know-what-to-call-itself-11979",
+      "https://higoodie.com/blog/ai-visibility-optimization-2026/",
+      "https://riseopp.com/ai-marketing/ai-visibility-optimization-aivo"
+    ],
+    "confidence": "high",
+    "notes": "Some vendor blogs (Medium/Tim de Rosen) attach a proprietary measurement stack (PSOS, AIVB, RaR) to AIVO; those sub-metrics are single-source and were not added as separate dictionary items."
+  },
+  {
+    "acronym": "SAIO",
+    "expansion": "Search (Artificial) AI Optimization",
+    "term": "SAIO (Search AI Optimization)",
+    "what_it_is": "Optimizing a website and its content for AI powered answer engines such as ChatGPT, Gemini, Perplexity, Claude and Copilot, distinct from ranking in classic SERPs. Agencies trace the term back to 2023 after Google's Project Magi announcement, but usage and marketer awareness grew through 2025 to 2026.",
+    "why_marketers_care": "One of the earlier alternative labels to AEO/GEO, still actively used by agencies as a client facing service name; useful for marketers who encounter it in vendor pitches.",
+    "example": "Digital Brand Expressions runs an ongoing \"SAIO/SEO Glossary of Acronyms\" series and offers SAIO as a named service line.",
+    "first_seen_or_mainstream": "Coined 2023, mainstream marketer usage 2025 to 2026",
+    "related_existing_terms": ["GEO", "AEO", "AIO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.digitalbrandexpressions.com/2023/08/14/what-is-search-artificial-intelligence-optimization-saio/",
+      "https://www.dualmedia.fr/en/what-is-saio/",
+      "https://xponent21.com/insights/the-alphabet-soup-of-seo-what-aeo-aio-geo-and-aiseo-mean-for-your-strategy/"
+    ],
+    "confidence": "high",
+    "notes": "Coined slightly before the Sept 2024 window but its marketer mainstreaming and repeated 2025 to 2026 coverage puts current relevance inside the requested window."
+  },
+  {
+    "acronym": "GSO",
+    "expansion": "Generative Search Optimization",
+    "term": "GSO (Generative Search Optimization)",
+    "what_it_is": "Optimizing content so it is selected, quoted and cited by generative AI search results (Google AI Overviews, ChatGPT, Gemini), used largely interchangeably with GEO and AEO by agencies including WPP Media.",
+    "why_marketers_care": "WPP Media (formerly GroupM) and other holding company units use GSO as their house term, so marketers dealing with large agencies will meet this label alongside GEO/AEO.",
+    "example": "WPP Media's \"Beyond Keywords: Generative Search Optimization Is Your Brand's New Best Friend\" and Digiday's explainer both use GSO as a synonym cluster with GEO and AEO.",
+    "first_seen_or_mainstream": "2025",
+    "related_existing_terms": ["GEO", "AEO", "AIO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.wppmedia.com/news/Beyond-keywords-why-generative-search-optimization-is-your-brands-new-best-friend",
+      "https://digiday.com/media/wtf-are-geo-and-aeo-and-how-they-differ-from-seo/",
+      "https://www.superlines.io/articles/what-is-gso-future-of-ai-search-generative-search-optimisation/"
+    ],
+    "confidence": "high",
+    "notes": "Digiday and others explicitly state GEO, AEO and GSO are treated as synonyms by most practitioners; no settled taxonomy exists as of 2026."
+  },
+  {
+    "acronym": "AAO",
+    "expansion": "AI Agent Optimisation / Assistive Agent Optimization (competing expansions)",
+    "term": "AAO (AI Agent Optimisation)",
+    "what_it_is": "A newer discipline focused on making brand content, data and processes understandable to autonomous AI agents (not just answer engines), so agents interpret the brand correctly and act on it reliably. Search Engine Land frames it as \"assistive agent optimization,\" a structural term meant to sit above AEO, GEO and SEO; a German glossary (Berger) frames it as \"AI Agent Optimisation.\"",
+    "why_marketers_care": "Signals the next stage after answer/citation optimization, toward AI agents that browse, compare and transact on a shopper's behalf; relevant as agentic commerce grows into 2026.",
+    "example": "Search Engine Land, \"AAO: Why assistive agent optimization is the next evolution of SEO\" (2026); Berger glossary, \"AI Agent Optimisation (AAO)\" (2026).",
+    "first_seen_or_mainstream": "2026",
+    "related_existing_terms": ["GEO", "AEO", "ACO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://searchengineland.com/aao-assistive-agent-optimization-469919",
+      "https://www.berger.team/en/glossar/ai-agent-optimisation-aao/"
+    ],
+    "confidence": "medium",
+    "notes": "Two sources disagree on the expansion (AI Agent Optimisation vs Assistive Agent Optimization); both are noted. Keep distinct from AAIO (Agentic AI Optimization) and from ACO (Agentic Commerce Optimization), which is already rejected for this dictionary."
+  },
+  {
+    "acronym": "AAIO",
+    "expansion": "Agentic AI Optimization",
+    "term": "AAIO (Agentic AI Optimization)",
+    "what_it_is": "Optimizing content and product data so autonomous shopping or task agents (not human searchers) can find, evaluate and select a brand when executing a purchase or booking on a user's behalf.",
+    "why_marketers_care": "Positioned by 2026 trade coverage as the step after AEO/GEO, tied directly to agentic commerce; Adobe's Q1 2026 data cited AI-referred shoppers converting 42 percent better than human shoppers, giving marketers a concrete reason to track it.",
+    "example": "AI Magicx, \"AAIO: How to Optimize Your Content for AI Agents (Not Just AI Search) in 2026.\"",
+    "first_seen_or_mainstream": "2026",
+    "related_existing_terms": ["GEO", "AEO", "AAO", "ACO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.aimagicx.com/blog/aaio-agentic-ai-optimization-guide-2026",
+      "https://invisibletech.ai/blog/agentic-commerce-2026"
+    ],
+    "confidence": "medium",
+    "notes": "Very recent, mostly single-vendor blog coverage as of Sept 2026; include as an emerging term to watch rather than an established industry standard."
+  },
+  {
+    "acronym": "AIEO",
+    "expansion": "AI Engine Optimization (also seen as Artificial Intelligence Engine Optimization / AI Assistive Engine Optimisation)",
+    "term": "AIEO (AI Engine Optimization)",
+    "what_it_is": "A blended term combining AIO and AEO concepts, covering optimization of digital content and product pages so AI platforms (ChatGPT, Gemini, Copilot, Claude) can find, structure and recommend them.",
+    "why_marketers_care": "Frequently appears in agency comparison posts ranking it alongside AEO, GEO and AAO; useful for marketers decoding vendor terminology even though it lacks academic backing.",
+    "example": "Kalicube's comparative piece \"AEO, GEO, AIEO, AAO, What the Acronyms Actually Mean\"; TRIAD Advertising, \"WTF is SEO, AEO, AiEO, and GEO?\"",
+    "first_seen_or_mainstream": "2025 to 2026",
+    "related_existing_terms": ["AEO", "GEO", "AIO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://kalicube.com/learning-spaces/faq-list/generative-ai/comparative-analysis-of-modern-search-and-ai-optimization-terminology/",
+      "https://www.triadadv.com/blog/wtf-seo-aeo-aieo-geo",
+      "https://insidea.com/blog/seo/aieo/guide-aieo-artificial-intelligence-engine-optimization"
+    ],
+    "confidence": "medium",
+    "notes": "One source (fourdots) calls it a mashup term without consistent definition; included because it recurs across multiple independent agency glossaries."
+  },
+  {
+    "acronym": "SXO",
+    "expansion": "Search Experience Optimization",
+    "term": "SXO (Search Experience Optimization)",
+    "what_it_is": "Blends SEO, user experience (UX) and conversion rate optimization (CRO) so users not only find a page but get real answers, stay engaged and convert; reframed in 2025 to 2026 coverage as a necessary companion to AI Overviews and GEO.",
+    "why_marketers_care": "Positioned by agencies as the human-facing counterpart to AI-facing GEO/AEO work: ranking or being cited is not enough if the page fails to satisfy and convert the visitor who does click through.",
+    "example": "imageX Media, \"AIO, GEO, AEO and SXO: The New SEO Acronyms Marketers Need to Know\" (2025); CAKE Commerce, \"What Is Search Experience Optimization (SXO) in 2025.\"",
+    "first_seen_or_mainstream": "Term predates 2024 but was reframed as part of the AI search acronym family and newly mainstreamed in 2025 to 2026",
+    "related_existing_terms": ["SEO", "GEO", "AEO", "CVR"],
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://imagexmedia.com/blog/aio-geo-aeo-sxo-guide",
+      "https://cakecommerce.com/blogs/resources/adopting-search-experience-optimization-sxo",
+      "https://www.dflovett.com/the-machine/seo-sxo-aio-aiso-geo-etc"
+    ],
+    "confidence": "high",
+    "notes": "Older UX/CRO term; flagged because the research brief explicitly asked about it as part of the AEO/GEO family, and it is being actively re-mainstreamed in 2025 to 2026 AI search content."
+  },
+  {
+    "acronym": "SoM",
+    "expansion": "Share of Model",
+    "term": "SoM (Share of Model)",
+    "what_it_is": "An AI visibility metric measuring how often a brand is mentioned or cited by one or more LLMs as a proportion of total category brand mentions, positioned as the AI-era successor to Share of Voice. Credited to Jack Smyth and Tom Roach.",
+    "why_marketers_care": "Gives marketers a direct KPI for AI answer presence, calculated as (your brand mentions / total category mentions) x 100, measured by running a fixed prompt set across ChatGPT, Gemini and Perplexity; several vendors (Profound, Conductor, Semrush) now automate this.",
+    "example": "NameSilo, \"What is Share of Model: A KPI for 2026\"; Symphonic Digital, \"Share of Model: The Essential Marketing Metric for the AI Era.\"",
+    "first_seen_or_mainstream": "2025, mainstream marketer coverage into 2026",
+    "related_existing_terms": ["Share of Voice (SOV)", "LLM Share of Voice"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.symphonicdigital.com/blog/understanding-share-of-model",
+      "https://www.namesilo.com/blog/en/seo/share-of-model-a-kpi-for-2026-to-measure-ai-mentions-citations-and-competitive-coverage",
+      "https://cdp.com/glossary/share-of-model/"
+    ],
+    "confidence": "high",
+    "notes": "Distinct from the existing dictionary entry \"LLM Share of Voice\"; SoM is presented by sources as the more standardized, commonly cited 2026 term, so both can coexist with a cross reference."
+  },
+  {
+    "acronym": "SoA",
+    "expansion": "Share of Answer",
+    "term": "SoA (Share of Answer)",
+    "what_it_is": "A visibility metric measuring how consistently a brand is mentioned or cited inside AI-generated answers, most often tied specifically to Google AI Overviews and synthesized answers rather than open ended LLM chat.",
+    "why_marketers_care": "Agencies report strong B2B SaaS programs hitting 30 to 60 percent SoA on targeted prompts within 6 to 12 months, giving marketers a benchmark distinct from classic Share of Voice.",
+    "example": "LoudFace, \"Share of Answer: The New Ranking Metric\"; Relixir, \"Measuring Share of Answer: Build a Real-Time SoA Dashboard.\"",
+    "first_seen_or_mainstream": "2025 to 2026",
+    "related_existing_terms": ["Share of Voice (SOV)", "SoM"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.loudface.co/blog/share-of-answer",
+      "https://lseo.com/answer-engine-optimization-services/share-of-answer-vs-share-of-voice-a-2026-measurement-guide/",
+      "https://relixir.ai/blog/measuring-share-of-answer-build-real-time-soa-dashboard-relixir-looker-studio"
+    ],
+    "confidence": "high",
+    "notes": "Closely related to SoM; sources distinguish SoA as answer-surface specific (AI Overviews) versus SoM as cross-LLM. Kept as a separate entry because both acronyms are in active independent use."
+  },
+  {
+    "acronym": "ACR",
+    "expansion": "AI Citation Rate",
+    "term": "ACR (AI Citation Rate)",
+    "what_it_is": "The share of a fixed set of target queries whose AI-generated answers cite or mention a given brand, typically split into three levels: cited (with source attribution), mentioned (name only), and recommended (listed as an option in a comparison).",
+    "why_marketers_care": "One of only 22 percent of marketing teams reportedly tracking AI visibility at all, per mlytics, so this gives early movers a concrete measurement framework; explicitly flagged by sources as not yet standardized across tools.",
+    "example": "mlytics, \"What Is AI Citation Rate? The New AI Visibility Metric\" (2025 to 2026); an open GitHub project (acr-tracker) publishes a daily public ACR measurement for a single brand across Perplexity.",
+    "first_seen_or_mainstream": "2025 to 2026",
+    "related_existing_terms": ["SoM", "SoA", "LLM Share of Voice"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.mlytics.com/blog/ai-citation-rate/",
+      "https://github.com/arturayupov/acr-tracker"
+    ],
+    "confidence": "medium",
+    "notes": "Sources explicitly state there is no industry-wide standard for AI citation rate yet, so treat as an emerging, still-informal metric name rather than a settled term."
+  },
+  {
+    "acronym": "AIGC",
+    "expansion": "AI-Generated Content",
+    "term": "AIGC (AI-Generated Content)",
+    "what_it_is": "Any text, image, video, audio or code produced primarily by generative AI models, with humans guiding the process through prompts, parameters and curation; the term originated in China's tech ecosystem and has become a global shorthand.",
+    "why_marketers_care": "Used across marketing operations, from product descriptions to social copy and video scripts, and is now a standard glossary term at marketing and martech vendors distinguishing AI-made from human-made or AI-assisted content.",
+    "example": "Davies Meyer marketing glossary entry for \"AI-Generated Content (AIGC)\"; QuickCreator's \"What is AI-Generated Content (AIGC)? AIGC Definition and SEO Explained.\"",
+    "first_seen_or_mainstream": "Term used since 2022 to 2023 in China/academia, became a standard marketing glossary term across 2024 to 2026",
+    "related_existing_terms": ["CGC", "GenAI"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://daviesmeyer.com/en/glossary/ai-generated-content-aigc",
+      "https://quickcreator.io/blogs/ai-generated-content-what-is-and-future-look",
+      "https://ppl.studio/blog/what-is-aigc-complete-guide"
+    ],
+    "confidence": "high",
+    "notes": "Requested explicitly in the brief as part of the generative content acronym family. Already-added CGC (Consumer Generated Content) is a distinct, human authored counterpart."
+  },
+  {
+    "acronym": "llms.txt",
+    "expansion": "llms.txt (not a true acronym; a proposed file standard name)",
+    "term": "llms.txt",
+    "what_it_is": "A proposed plain text file, similar in spirit to robots.txt or an XML sitemap, meant to help large language models find, understand and prioritize a site's most important content. Proposed in September 2024 by Jeremy Howard (fast.ai, Answer.AI).",
+    "why_marketers_care": "Widely discussed in SEO trade press (Search Engine Land, Ahrefs, Semrush ecosystem writers) as a low-effort AI-readiness step, even though adoption is low (about 10 percent of a 300,000 domain sample per Ahrefs-cited data) and Google's Gary Illyes stated in July 2025 that Google does not support or plan to support it.",
+    "example": "Search Engine Land, \"Meet llms.txt, a proposed standard for AI website content crawling\" (2024); Ahrefs, \"What Is llms.txt, and Should You Care About It?\"",
+    "first_seen_or_mainstream": "Proposed September 2024, actively debated through 2025 to 2026",
+    "related_existing_terms": ["NLWeb", "ACO"],
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://searchengineland.com/llms-txt-proposed-standard-453676",
+      "https://ahrefs.com/blog/what-is-llms-txt/",
+      "https://seranking.com/blog/llms-txt/"
+    ],
+    "confidence": "high",
+    "notes": "Not a classic acronym (it is a filename), included because the brief explicitly asked for it. Large empirical studies cited by sources find no measurable AI-citation uplift from adding the file as of 2025 to 2026, so it is presented with that caveat."
+  },
+  {
+    "acronym": "E-E-A-T",
+    "expansion": "Experience, Expertise, Authoritativeness, Trustworthiness",
+    "term": "E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)",
+    "what_it_is": "Google's content quality framework used in its Search Quality Rater Guidelines; the second \"E\" for Experience was added on December 15, 2022, upgrading the older E-A-T framework, and it has since become a de facto ranking and AI-citation quality signal.",
+    "why_marketers_care": "A BrightEdge study cited in 2025 to 2026 coverage found 58 percent of pages losing traffic in 2024 lacked strong E-E-A-T elements, especially clear authorship; Google's September 11, 2025 Search Quality Rater Guidelines update refined YMYL evaluation and reinforced E-E-A-T's weight, and marketers now treat it as relevant to both classic SEO and AI Overview or LLM citation eligibility.",
+    "example": "WebProNews, \"Google's 2025 Search Guidelines Update Boosts YMYL, E-A-T for SEO\"; multiple 2025 to 2026 agency guides on \"E-E-A-T in 2025/2026.\"",
+    "first_seen_or_mainstream": "Framework introduced December 2022; renewed marketer relevance and Google guideline updates through 2025 to 2026",
+    "related_existing_terms": ["SEO", "AEO", "GEO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.webpronews.com/googles-2025-search-guidelines-update-boosts-ymyl-e-a-t-for-seo/",
+      "https://www.v9digital.com/insights/e-e-a-t-in-2025-how-googles-updated-guidelines-affect-your-seo-strategy/",
+      "https://theguidex.com/insights/google-quality-rater-guidelines"
+    ],
+    "confidence": "high",
+    "notes": "Included per the brief's explicit example list, flagged as newly relevant rather than brand new; predates September 2024 but its 2025 guideline updates and AI-search tie-in fall inside the window."
+  },
+  {
+    "acronym": "YMYL",
+    "expansion": "Your Money or Your Life",
+    "term": "YMYL (Your Money or Your Life)",
+    "what_it_is": "A Google content category for pages that could significantly affect a person's health, financial stability, safety or well-being, subject to stricter quality evaluation; both classic Google algorithms and AI systems reportedly cross-reference YMYL claims against multiple authoritative sources before using them in AI Overviews.",
+    "why_marketers_care": "Google's September 11, 2025 Quality Rater Guidelines update expanded YMYL to cover civics and elections and tightened evaluation; marketers in finance, health and legal content now must meet a higher bar for both classic ranking and AI Overview or chatbot citation eligibility.",
+    "example": "Search Engine Land's YMYL guide; ContentWriters, \"YMYL Content Tips to Boost SEO and Visibility in AI Search.\"",
+    "first_seen_or_mainstream": "Term used by Google since 2014 to 2018; newly relevant due to 2025 guideline updates and AI answer sourcing",
+    "related_existing_terms": ["E-E-A-T", "SEO"],
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://searchengineland.com/guide/ymyl",
+      "https://www.webpronews.com/googles-2025-search-guidelines-update-boosts-ymyl-e-a-t-for-seo/",
+      "https://contentwriters.com/blog/google-your-money-your-life-content-tips-ymyl-niches/"
+    ],
+    "confidence": "high",
+    "notes": "Included per the brief's explicit example list; flagged as newly relevant (2025 guideline expansion, AI-answer sourcing) rather than a brand new term."
+  },
+  {
+    "acronym": "ZCS",
+    "expansion": "Zero-Click Search (related: ZCM, Zero-Click Marketing)",
+    "term": "ZCS (Zero-Click Search)",
+    "what_it_is": "User behavior where a searcher gets their answer directly on the results page (featured snippet, AI Overview, knowledge panel) without clicking through to any website; the strategic marketing response is sometimes labeled Zero-Click Marketing (ZCM).",
+    "why_marketers_care": "Similarweb-cited 2026 data shows more than half of Google searches now end without a click, and in Google's AI Mode the zero-click rate reaches roughly 93 percent, pushing marketers to redefine success around in-platform visibility and brand recall rather than click-through.",
+    "example": "Similarweb, \"Zero-Click Searches in 2026\"; Omnibound, \"Zero-Click Search Statistics (2026): 52+ Data Points.\"",
+    "first_seen_or_mainstream": "Concept predates 2024 but the ZCS/ZCM framing and its scale became a mainstream marketer talking point through 2025 to 2026 with AI Overviews and AI Mode",
+    "related_existing_terms": ["SERP", "View-Through Conversion"],
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://www.similarweb.com/blog/marketing/seo/zero-click-searches/",
+      "https://www.omnibound.ai/blog/zero-click-search-statistics",
+      "https://oatmarketing.com/business-marketing-tips/zero-click-search-in-2026-what-it-means-and-how-to-stay-visible/"
+    ],
+    "confidence": "medium",
+    "notes": "ZCS/ZCM are used inconsistently as formal acronyms; most trade press writes out \"zero-click search/marketing\" in full, with the abbreviations appearing mainly in a subset of 2025 to 2026 articles."
+  }
+]

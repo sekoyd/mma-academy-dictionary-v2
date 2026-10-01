@@ -1,0 +1,55 @@
+[
+  {
+    "term": "Humanwashing",
+    "what_it_is": "The inverse of AI-washing: a brand or product performs visible, tangible humanness (handwriting, imperfection, named creators, behind-the-scenes process) while AI actually did much of the work behind the scenes. It understates AI involvement to protect an authenticity halo, the opposite of overstating AI involvement for a tech halo.",
+    "why_this_week": "Marketing trend-watchers (WHAT'S ANU newsletter, Trend Radar series) have been tracking humanwashing as a live 2026 brand-risk theme through the spring and summer, and the underlying tension it names, brands performing human authenticity while quietly leaning on AI, is exactly what Digiday, Adweek and Axios are all writing about again this month as the 2026 AI-marketing backlash accelerates (Adweek's 'brands are virtue-signaling about AI' piece on Aerie, Equinox and Almond Breeze; Axios founders' Sep 20, 2026 Fortune interview on AI flooding workplaces with 'work-like activity'; Mark Schaefer's Sep 21, 2026 post on the 'human moat' as the last brand differentiator).",
+    "origin": "Coined in the AI-ethics/robotics literature: Peter Seele (business ethics professor) first floated 'humanwashing of machines' in a 2021 Medium post about how Boston Dynamics presented its robots, then formalized it academically with co-authors in a 2022 paper (Seele et al., AI & Society). Marketing commentators (Philip Teale and ANU on the WHAT'S ANU Substack, Flux+Form) repurposed it in late 2025 specifically for brand/creative use of AI.",
+    "brand_example": "J.Crew, August 2025: posted AI-generated 'vintage catalog' images on Instagram evoking its 1980s/90s look without disclosing they were AI-made (created by AI artist Sam Finn); exposed by Blackbird Spyplane on Aug 26, 2025 and repeatedly cited afterward (including in WHAT'S ANU's Trend Radar) as the textbook humanwashing case.",
+    "sources": [
+      "https://whatsanu.substack.com/p/2510-humanwashing",
+      "https://whatsanu.substack.com/p/trend-radar-17-human-drivers",
+      "https://flux-form.com/what-is-humanwashing/",
+      "https://www.adweek.com/creativity/in-2026-brands-are-virtue-signaling-about-ai/",
+      "https://businessesgrow.com/2026/09/21/human-moat/",
+      "https://fortune.com/2026/09/20/axios-founders-vandehei-allen-schwartz-simplify-book-interview/",
+      "https://www.blackbirdspyplane.com/p/jcrew-used-ai-to-counterfeit-their-own-vibes"
+    ],
+    "recency_evidence": "Mark Schaefer's businessesgrow.com post on the human-vs-AI brand differentiator is dated Sep 21, 2026, and the Fortune/Axios founders interview on AI's workplace fallout is dated Sep 20, 2026, both within the last 14 days; neither names 'humanwashing' verbatim, but both are live restatements of the exact tension the term describes, running alongside the WHAT'S ANU coverage that does use the word. No source using the literal word 'humanwashing' could be confirmed as dated within the last 14 days; the closest verified explicit uses are Dec 11, 2025 and May 8, 2026.",
+    "catchiness": "5",
+    "relevance_for_turkiye_mea": "MEA pazarlamacilari icin dogrudan uygulanabilir: yapay zeka ile uretilen icerigi 'el yapimi' veya '100% insan' gibi sunan markalar icin somut bir risk cercevesi ve marka guvenilirligi tartismasi acar; 'AI washing' ile ters kutup olarak anlatilmasi Sozluk'te didaktik acidan da guclu.",
+    "notes": "No source found dated strictly within the last 14 days that uses the exact word 'humanwashing'; recency is supported by adjacent, contemporaneous coverage of the same phenomenon. Flag this gap explicitly if picked."
+  },
+  {
+    "term": "Vibe Marketing",
+    "what_it_is": "A style of marketing production where a single marketer or small team steers AI agents and connected tools with plain-language intent (goal, emotional direction, audience, guardrails) instead of running a full-department production process; the AI drafts, varies, and executes at speed while the human sets direction and approves. Distinct from 'vibe coding' but borrows its name and ethos.",
+    "why_this_week": "The term moved from punchline to practice through 2026: OpenAI's developer tooling pushed it into legitimacy, and the industry-wide 'Vibe Marketing Tech Fest', now in its 19th edition, ran September 9-10, 2026 in Dubai, with a September 2, 2026 GlobeNewswire/press push and its own Marquee Awards for brands and agencies built around AI-agent-driven marketing; trade coverage (mean.ceo's monthly roundup) continued tracking it through September 2026 as founders use it to replace small agencies.",
+    "origin": "Borrows directly from 'vibe coding', the term Andrej Karpathy used in February 2025 to describe letting an AI model handle implementation while a human steers by feel. Digiday traced the marketing-specific adaptation in an October 2025 piece ('Vibe marketing was a joke, until OpenAI got involved'), crediting no single coiner but tying its mainstreaming to OpenAI's DevDay announcements.",
+    "brand_example": null,
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/09/02/3354835/0/en/vibe-marketing-tech-fest-2026-focuses-on-building-customer-confidence.html",
+      "https://digiday.com/marketing/vibe-marketing-was-a-joke-until-openai-got-involved/",
+      "https://blog.mean.ceo/vibemarketing-news-september-2026/",
+      "https://10times.com/vmf-dubai"
+    ],
+    "recency_evidence": "Vibe Marketing Tech Fest 2026 was held September 9-10, 2026 in Dubai, within the last 14 days of today (Sep 23, 2026); the GlobeNewswire announcement is dated September 2, 2026.",
+    "catchiness": "4",
+    "relevance_for_turkiye_mea": "MEA icin dogrudan operasyonel: kucuk ekiplerin AI ajanlariyla kampanya ve landing page uretimini hizlandirmasi, ozellikle bolgedeki KOBI ve ajans dinamikleri icin somut bir 'nasil calisiyoruz' anlatisi sunuyor; ancak terim zaten bir yildir dolasimda oldugu icin 'bu hafta' tazeligi Humanwashing kadar guclu degil.",
+    "notes": "Concrete brand campaign example (a named advertiser using vibe-marketing workflows publicly, with a date) could not be verified; only the event/industry-adoption evidence is dated and confirmed."
+  },
+  {
+    "term": "Proof of Reality",
+    "what_it_is": "Content (behind-the-scenes clips, process captions, named-contributor credits, raw/unedited footage) whose explicit purpose is to prove to a skeptical audience that a human, not AI, made it. Framed as the flip side of AI slop fatigue: as trust in visual content collapses, brands compete on demonstrable authorship rather than polish.",
+    "why_this_week": "Still an active production lens for brands in September 2026: a September 3, 2026 startup-marketing roundup (blog.mean.ceo) restates the same logic under new language ('generic AI copy loses; proof, sharp structure, founder voice, and real examples win'), and it is one of the recurring frames trend-watchers use to explain why brands are publicly rejecting AI in ads this year (Aerie, Equinox, Almond Breeze per Adweek).",
+    "origin": "Coined by Rachel Karten (Link in Bio newsletter, formerly social lead at Bon Appetit) in an April 3, 2025 essay predicting that as AI content floods feeds, brands will need to actively prove their content is real; she has since tracked it in her quarterly Brand Social Trend Reports.",
+    "brand_example": "SET Active, March 2025: posted an AI-generated 'burnt toast' image styled after a 2023 Jacquemus photo as a deliberate April Fools stunt, cited by Karten as an early proof-of-reality/AI-transparency case study; Apple's handcrafted holiday campaign is also cited as a proof-of-reality benchmark, though without a specific date.",
+    "sources": [
+      "https://www.linkinbio.news/p/why-ai-will-lead-to-more-proof-of",
+      "https://blog.mean.ceo/content-marketing-trends-september-2026/",
+      "https://www.adweek.com/creativity/in-2026-brands-are-virtue-signaling-about-ai/"
+    ],
+    "recency_evidence": "blog.mean.ceo's content-marketing-trends roundup restating the same 'proof beats AI-generic content' logic is dated September 3, 2026, which is within the last 14 days, though it does not use the exact phrase 'proof of reality'.",
+    "catchiness": "3",
+    "relevance_for_turkiye_mea": "MMA'nin icerik ve influencer calismalari icin kullanisli bir cerceve: markalarin 'gercekten insan yaptik' iddiasini nasil kanitlayacagini tartisiyor, ama terimin kendisi bir yildan uzun suredir dolasimda oldugu icin 'bu hafta' anlaminda en zayif aday.",
+    "notes": "Weakest 'this week' candidate of the three: the term itself is 17+ months old (April 2025) even though the underlying trend is still active; include only if Humanwashing and Vibe Marketing are both rejected for other reasons."
+  }
+]

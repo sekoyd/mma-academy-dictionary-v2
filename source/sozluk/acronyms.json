@@ -1,0 +1,530 @@
+[
+ {
+  "term": "MOSTT (Marketing Organization Structure Think Tank)",
+  "acr": "MOSTT",
+  "short": "A think tank focused on analyzing and optimizing marketing organization structures.",
+  "tr_eq": "Pazarlama Organizasyon Yapısı Düşünce Grubu",
+  "tr_def": "Pazarlama organizasyon yapılarını analiz eden ve optimize eden düşünce grubudur.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MARS (Mobile, Analytics, Real-Time, Social)",
+  "acr": "MARS",
+  "short": "A framework for marketing strategies that integrate mobile, analytics, real-time decision-making, and social media.",
+  "tr_eq": "Mobil, Analitik, Gerçek Zamanlı, Sosyal",
+  "tr_def": "Mobil ve sosyal medya pazarlaması için veri odaklı analiz yöntemleri sunar.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MRA (MarCaps Readiness Assessment)",
+  "acr": "MRA",
+  "short": "A diagnostic tool that evaluates an organization’s marketing capabilities and their alignment with business strategy.",
+  "tr_eq": "MarCaps Hazırlık Değerlendirmesi",
+  "tr_def": "Pazarlama stratejilerinin ne kadar etkili olduğunu ölçen bir değerlendirme aracı.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MCB (Marketing Capabilities Benchmark)",
+  "acr": "MCB",
+  "short": "An assessment system that measures individual team members’ marketing capabilities.",
+  "tr_eq": "Pazarlama Yetkinlik Kıyaslaması",
+  "tr_def": "Pazarlama ekiplerinin yetkinlik düzeylerini belirlemek için kullanılan analiz metodu.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MATT (Marketing Attribution Think Tank)",
+  "acr": "MATT",
+  "short": "A think tank dedicated to improving marketing attribution and proving marketing’s impact on business growth.",
+  "tr_eq": "Pazarlama Atıf Düşünce Grubu",
+  "tr_def": "Pazarlama yatırım getirisi (ROI) ve pazarlama performansı ölçümleme konularında çalışan düşünce grubudur.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "BaP (Brand as Performance)",
+  "acr": "BaP",
+  "short": "A research study that quantifies the direct impact of branding on business performance and customer acquisition.",
+  "tr_eq": "Marka Performansı Araştırması",
+  "tr_def": "Marka algısının satış ve müşteri sadakati üzerindeki etkisini analiz eden çalışma.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MMGF (Movable Middles Growth Framework)",
+  "acr": "MMGF",
+  "short": "A targeting framework that focuses marketing investments on consumer segments most likely to respond to advertising.",
+  "tr_eq": "Hareketli Ortalar Büyüme Çerçevesi",
+  "tr_def": "Pazarlama bütçesini en etkili segmentlere yönlendirmek için kullanılan model.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "FSS (First Second Strategy)",
+  "acr": "FSS",
+  "short": "A neuroscience-based study analyzing how consumers react to advertising within the first second of exposure.",
+  "tr_eq": "İlk Saniye Stratejisi",
+  "tr_def": "Reklamların ilk saniyelerde beyin üzerindeki etkisini inceleyen nöropazarlama araştırması.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "SMoX (Smart Marketing Cross-Effectiveness)",
+  "acr": "SMoX",
+  "short": "A research initiative that measures the effectiveness of advertising across multiple media channels.",
+  "tr_eq": "Akıllı Pazarlama Çapraz Etkinlik Araştırmaları",
+  "tr_def": "Farklı medya kanallarında reklam harcamalarının verimliliğini test eden çalışma.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "Project ROMI (Return on Marketing Investment)",
+  "acr": "Project ROMI",
+  "short": "A study connecting marketing investments to financial growth by demonstrating measurable returns.",
+  "tr_eq": "Pazarlama Yatırım Getirisi",
+  "tr_def": "Pazarlamanın işletme büyümesine nasıl katkıda bulunduğunu analiz eden girişim.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "DATT (Data in Marketing Think Tank)",
+  "acr": "DATT",
+  "short": "A think tank dedicated to using data and AI to improve customer experiences and marketing efficiency.",
+  "tr_eq": "Pazarlamada Veri Düşünce Grubu",
+  "tr_def": "Veri odaklı pazarlama stratejilerini geliştiren düşünce grubudur.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "ROEX (Return on Omnichannel Experience)",
+  "acr": "ROEX",
+  "short": "A study measuring the financial impact of omnichannel customer experiences.",
+  "tr_eq": "Çok Kanallı Deneyim Getirisi",
+  "tr_def": "Omnichannel stratejilerin pazarlama getirisi üzerindeki etkisini ölçer.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "CAP (Consortium for AI Personalization)",
+  "acr": "CAP",
+  "short": "A collaborative initiative exploring the role of AI in personalizing marketing and customer interactions.",
+  "tr_eq": "Yapay Zeka Kişiselleştirme Konsorsiyumu",
+  "tr_def": "Yapay zeka ile kişiselleştirilmiş pazarlama stratejileri geliştiren bir konsorsiyum.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "ALC (AI Leadership Coalition)",
+  "acr": "ALC",
+  "short": "A think tank focused on advancing the responsible use of AI in marketing.",
+  "tr_eq": "Yapay Zeka Liderlik Koalisyonu",
+  "tr_def": "Yapay zeka (AI) kullanımını pazarlamada optimize eden girişimdir.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "RAIL (Responsible AI Innovation Lab)",
+  "acr": "RAIL",
+  "short": "A research group developing ethical and practical AI applications for marketing.",
+  "tr_eq": "Sorumlu Yapay Zeka İnovasyon Laboratuvarı",
+  "tr_def": "Pazarlamada yapay zekanın etik ve güvenilir kullanımı üzerine çalışmalar yürütür.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "SAVE (Brand Safety Council Initiative)",
+  "acr": "SAVE",
+  "short": "An initiative to develop brand-safe advertising practices and reduce digital advertising risks.",
+  "tr_eq": "Marka Güvenliği Konseyi Girişimi",
+  "tr_def": "Markaların güvenli reklam stratejileri oluşturmasını sağlayan girişim.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "SMARTIES (Business Impact Awards)",
+  "acr": "SMARTIES",
+  "short": "A global award program recognizing marketing innovation and business impact in mobile and digital marketing.",
+  "tr_eq": "İş Etkisi Ödülleri",
+  "tr_def": "Mobil pazarlamada yenilikçi stratejiler geliştiren markalara verilen ödüller.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "BII (Business Impact Index)",
+  "acr": "BII",
+  "short": "An index that evaluates the business performance of SMARTIES award-winning campaigns.",
+  "tr_eq": "SMARTIES İş Etki Endeksi",
+  "tr_def": "SMARTIES ödüllerinin iş etkisini analiz eden endeks.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MM25 (Peer Group for Marketing Executives)",
+  "acr": "MM25",
+  "short": "A networking and knowledge-sharing group for senior marketing leaders.",
+  "tr_eq": "Pazarlama Yöneticileri İçin Meslektaş Grubu",
+  "tr_def": "Pazarlama liderleri için oluşturulmuş bir bilgi paylaşım platformu.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "MAdopt (Marketer Adoption Initiative)",
+  "acr": "MAdopt",
+  "short": "An initiative to increase the adoption of MMA’s marketing tools and best practices among members.",
+  "tr_eq": "Pazarlama Benimseme Girişimi",
+  "tr_def": "MMA’nin sunduğu araçların pazarlamacılar tarafından benimsenmesini teşvik eden girişim.",
+  "tag": "MMA Programs & Frameworks"
+ },
+ {
+  "term": "SMO (Social Media Optimization)",
+  "acr": "SMO",
+  "short": "Techniques to enhance visibility and interaction on social media.",
+  "tr_eq": null,
+  "tr_def": "Sosyal medya içeriklerinin görünürlüğünü artırma teknikleri.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "UGC (User-Generated Content)",
+  "acr": "UGC",
+  "short": "Content created by users (comments, posts, videos).",
+  "tr_eq": null,
+  "tr_def": "Kullanıcılar tarafından oluşturulan içerik.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "TAT (Turnaround Time)",
+  "acr": "TAT",
+  "short": "Response time to customer queries.",
+  "tr_eq": null,
+  "tr_def": "Müşteri sorularına cevap verme süresi.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CTR (Content Traffic Rate)",
+  "acr": "CTR",
+  "short": "Measures the traffic driven by social media content to websites or landing pages.",
+  "tr_eq": null,
+  "tr_def": "İçeriğin web sitesine yönlendirdiği trafik oranı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CTR (Click-Through Rate)",
+  "acr": "CTR",
+  "short": "Rate at which users click a link.",
+  "tr_eq": null,
+  "tr_def": "Bağlantıya tıklama oranı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "ENG% (Engagement Rate)",
+  "acr": "ENG%",
+  "short": "Measures post likes, comments, shares, and saves.",
+  "tr_eq": null,
+  "tr_def": "Gönderilerin beğeni, yorum, paylaşım oranı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "SOV (Share of Voice)",
+  "acr": "SOV",
+  "short": "Brand's share in total online conversations within its sector.",
+  "tr_eq": null,
+  "tr_def": "Markanın sektördeki online konuşmalardaki payı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "ORM (Online Reputation Management)",
+  "acr": "ORM",
+  "short": "Process of managing a brand's online reputation.",
+  "tr_eq": null,
+  "tr_def": "Online itibar yönetimi.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "KOC (Key Opinion Consumer)",
+  "acr": "KOC",
+  "short": "Influential individuals whose opinions affect consumer decisions.",
+  "tr_eq": null,
+  "tr_def": "Tüketiciyi etkileyen mikro influencer.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "EPM (Engagement Per Mille)",
+  "acr": "EPM",
+  "short": "Interaction rate per 1,000 impressions.",
+  "tr_eq": null,
+  "tr_def": "1000 gösterim başına etkileşim.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CPC (Cost Per Click)",
+  "acr": "CPC",
+  "short": "Cost paid for each click in ads.",
+  "tr_eq": null,
+  "tr_def": "Tıklama başı maliyet.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CPA (Cost Per Acquisition)",
+  "acr": "CPA",
+  "short": "Total cost of acquiring a customer.",
+  "tr_eq": null,
+  "tr_def": "Bir müşteriyi kazanma maliyeti.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CPM (Cost Per Mille)",
+  "acr": "CPM",
+  "short": "Cost per 1,000 ad impressions.",
+  "tr_eq": null,
+  "tr_def": "Bin gösterim başına maliyet.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "ROAS (Return on Ad Spend)",
+  "acr": "ROAS",
+  "short": "Return earned from ad spending.",
+  "tr_eq": null,
+  "tr_def": "Reklam harcamasının getirisi.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "A/B Testing (Split Testing)",
+  "acr": "A/B Testing",
+  "short": "Comparing two versions of content to determine the most effective one.",
+  "tr_eq": null,
+  "tr_def": "İki içerik arasında karşılaştırma yaparak en iyisini seçme.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "LTV (Customer Lifetime Value)",
+  "acr": "LTV",
+  "short": "Total revenue value of a customer to a brand.",
+  "tr_eq": null,
+  "tr_def": "Müşterinin marka için toplam gelir değeri.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CR (Conversion Rate)",
+  "acr": "CR",
+  "short": "Rate of conversion from ads or campaigns.",
+  "tr_eq": null,
+  "tr_def": "Dönüşüm oranı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CPL (Cost Per Lead)",
+  "acr": "CPL",
+  "short": "Cost of acquiring a new lead.",
+  "tr_eq": null,
+  "tr_def": "Potansiyel müşteri kazanma maliyeti.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CPV (Cost Per View)",
+  "acr": "CPV",
+  "short": "Cost paid per view in video ads.",
+  "tr_eq": null,
+  "tr_def": "Görüntüleme başına maliyet.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "VTR (View-Through Rate)",
+  "acr": "VTR",
+  "short": "Users who convert later after viewing ads without immediate clicking.",
+  "tr_eq": null,
+  "tr_def": "Reklam sonrası gecikmeli dönüşüm oranı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "DSP (Demand-Side Platform)",
+  "acr": "DSP",
+  "short": "Platform for buying digital ad inventory.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "SSP (Supply-Side Platform)",
+  "acr": "SSP",
+  "short": "Platform for publishers to manage and sell ad inventory.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "SEM (Search Engine Marketing)",
+  "acr": "SEM",
+  "short": "Advertising through paid search results.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "SERP (Search Engine Results Page)",
+  "acr": "SERP",
+  "short": "Page shown by a search engine in response to a query.",
+  "tr_eq": null,
+  "tr_def": "Arama motoru sonuç sayfası.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "DA (Domain Authority)",
+  "acr": "DA",
+  "short": "Score indicating website strength in search engines.",
+  "tr_eq": null,
+  "tr_def": "Web sitesinin gücünü gösteren skor.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "BR (Bounce Rate)",
+  "acr": "BR",
+  "short": "Rate at which visitors leave the site without interaction.",
+  "tr_eq": null,
+  "tr_def": "Hemen çıkma oranı.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "RO (Reach & Overlap)",
+  "acr": "RO",
+  "short": "Measures audience overlap across platforms.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "SEO (Search Engine Optimization)",
+  "acr": "SEO",
+  "short": "Techniques to improve visibility in organic search results.",
+  "tr_eq": null,
+  "tr_def": "Arama motoru optimizasyonu teknikleri.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "GA (Google Analytics)",
+  "acr": "GA",
+  "short": "Web analytics service by Google.",
+  "tr_eq": null,
+  "tr_def": "Google web analizi hizmeti.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "UX (User Experience)",
+  "acr": "UX",
+  "short": "Overall experience of a user with a product or service.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "TOFU (Top of Funnel)",
+  "acr": "TOFU",
+  "short": "Content aimed at awareness for new customers.",
+  "tr_eq": null,
+  "tr_def": "Huninin üst aşaması (farkındalık).",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "MOFU (Middle of Funnel)",
+  "acr": "MOFU",
+  "short": "Content aimed at increasing interest of potential customers.",
+  "tr_eq": null,
+  "tr_def": "Huninin orta aşaması (ilgi).",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "BOFU (Bottom of Funnel)",
+  "acr": "BOFU",
+  "short": "Conversion-focused content (offers, discounts, demos).",
+  "tr_eq": null,
+  "tr_def": "Huninin alt aşaması (dönüşüm).",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CAC (Customer Acquisition Cost)",
+  "acr": "CAC",
+  "short": "Cost of gaining a new customer.",
+  "tr_eq": null,
+  "tr_def": "Müşteri kazanma maliyeti.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "KPI (Key Performance Indicators)",
+  "acr": "KPI",
+  "short": "Indicators measuring campaign success.",
+  "tr_eq": null,
+  "tr_def": "Performans göstergeleri.",
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "MQL (Marketing Qualified Lead)",
+  "acr": "MQL",
+  "short": "A potential customer ready for sales engagement.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "SQL (Sales Qualified Lead)",
+  "acr": "SQL",
+  "short": "Lead evaluated by sales team ready for direct engagement.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "GA4 (Google Analytics 4)",
+  "acr": "GA4",
+  "short": "Google’s advanced analytics platform for tracking user interactions.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "BI (Business Intelligence)",
+  "acr": "BI",
+  "short": "Systems analyzing business data for better decisions.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CDP (Customer Data Platform)",
+  "acr": "CDP",
+  "short": "Platform aggregating customer data from various channels.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "DTC (Direct-to-Consumer)",
+  "acr": "DTC",
+  "short": "Business model selling directly to consumers without intermediaries.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "UGR (User-Generated Reviews)",
+  "acr": "UGR",
+  "short": "Reviews created by users that build trust in brands.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CX (Customer Experience)",
+  "acr": "CX",
+  "short": "Overall interaction experience between customer and brand.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "RTM (Real-Time Marketing)",
+  "acr": "RTM",
+  "short": "Instant marketing responding to current events.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "UGS (User-Generated Stories)",
+  "acr": "UGS",
+  "short": "Stories created by users enhancing brand authenticity.",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ },
+ {
+  "term": "CTA (Call to Action)",
+  "acr": "CTA",
+  "short": "Calls directing users to specific actions (e.g., \"Buy Now\", \"Register\").",
+  "tr_eq": null,
+  "tr_def": null,
+  "tag": "Digital Marketing Acronyms"
+ }
+]

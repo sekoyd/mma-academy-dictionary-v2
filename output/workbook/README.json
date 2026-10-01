@@ -1,0 +1,38 @@
+[
+  [
+    "MMA Dictionary Master Glossary v1",
+    null
+  ],
+  [
+    "Purpose",
+    "Master glossary structure for ChatGPT Project and future editorial production."
+  ],
+  [
+    "Source",
+    "Retail Media Glossary (A–Z).docx"
+  ],
+  [
+    "Source handling",
+    "No external knowledge was added. Fields not supported by the source document are intentionally left blank."
+  ],
+  [
+    "Green text",
+    "Imported or directly derived from the source document."
+  ],
+  [
+    "Gray text",
+    "Project-maintained field; currently blank unless explicitly supported."
+  ],
+  [
+    "Orange rows",
+    "Source entries requiring editorial review (e.g. duplicate or standalone/undefined entry)."
+  ],
+  [
+    "Recommended next step",
+    "Add Turkish equivalents and definitions only after terminology review; then add taxonomy and publication status."
+  ],
+  [
+    "Row count",
+    "102"
+  ]
+]

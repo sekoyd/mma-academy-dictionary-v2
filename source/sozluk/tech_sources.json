@@ -1,0 +1,97 @@
+{
+  "Quantum Computing": {
+    "sources": [
+      "https://www.ibm.com/think/topics/quantum-computing"
+    ],
+    "fixes": [],
+    "note": "IBM's page confirms qubits/superposition/entanglement, current maturity (error rates, extreme cooling requirements), and use cases in optimization, cryptography (Shor's algorithm), and molecular simulation. All specific claims in the record are supported; no correction needed."
+  },
+  "Digital Detox Tourism": {
+    "sources": [
+      "https://www.hotelnewsresource.com/article135811.html"
+    ],
+    "fixes": [],
+    "note": "Article confirms device-free zones, no-WiFi stays, low-tech amenities (printed maps, Polaroid cameras, dumbphones), and framing around digital fatigue/burnout, consistent with wellness travel positioning. The record's usage_context is an illustrative example (not a cited real package) and is presented as such."
+  },
+  "Neuromarketing 2.0": {
+    "sources": [
+      "https://www.campaignindia.in/article/neuromarketing-2-0-when-ai-reads-the-room/503349"
+    ],
+    "fixes": [],
+    "note": "Source confirms the informal 'Neuromarketing 2.0' framing as AI layered on facial expression, voice, and physiological signal analysis, delivering faster and more scalable insight than older single-technique methods, and briefly flags privacy/ethics concerns. Consistent with the record; no correction needed."
+  },
+  "Sustainable Fashion Tech": {
+    "sources": [
+      "https://www.textileworld.com/textile-world/features/2024/03/game-changing-benefits-of-3d-digital-sampling/",
+      "https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2023.1044723/full"
+    ],
+    "fixes": [],
+    "note": "Textile World confirms 3D digital sampling cuts physical prototypes and waste (citing UN Alliance for Sustainable Fashion figures on lower emissions per digital sample and ~40% of physical samples never reaching production). The Frontiers systematic review confirms blockchain traceability can counter greenwashing but also notes current industry-wide solutions remain fragmented. Both points are consistent with the record."
+  },
+  "Metaverse Economy": {
+    "sources": [
+      "https://www.banklesstimes.com/news/2022/07/04/metaverse-real-estate-has-the-hype-already-cooled-down/",
+      "https://www.cbsnews.com/news/metaverse-real-estate-companies-land-rush/"
+    ],
+    "fixes": [],
+    "note": "Both sources confirm the 2021-2022 land-rush peak (driven by Meta's rebrand, major brand purchases) and the subsequent pullback in sales/interest. Consistent with the record's claim of a 2021-2022 peak followed by considerable cooling."
+  },
+  "AI-Powered Personalization": {
+    "sources": [
+      "https://www.ibm.com/think/topics/recommendation-engine"
+    ],
+    "fixes": [],
+    "note": "IBM confirms machine learning-based recommendation engines analyze behavioral data to personalize in real time (Amazon ~35% of sales, Netflix ~80% of views from recommendations) and notes data privacy/regulatory considerations. Consistent with the record."
+  },
+  "Carbon Credit Marketplace": {
+    "sources": [
+      "https://climatepromise.undp.org/news-and-stories/what-are-carbon-markets-and-how-do-they-work"
+    ],
+    "fixes": [],
+    "note": "UNDP confirms the compliance-vs-voluntary market distinction and explicitly flags that low-quality or unverified credits enable greenwashing, supporting the record's caution about transparent sourcing of offset claims."
+  },
+  "Extended Reality (XR)": {
+    "sources": [
+      "https://builtin.com/hardware/extended-reality"
+    ],
+    "fixes": [],
+    "note": "Confirms XR as the umbrella term covering VR, AR, and MR. This source emphasizes enterprise/industrial examples (Ford, DHL, Boeing) rather than a consumer AR try-on, but the record's furniture-AR usage_context is a plausible, clearly-marked illustrative example, not a sourced claim, so no correction is needed."
+  },
+  "Biometric Authentication 3.0": {
+    "sources": [
+      "https://www.garp.org/risk-intelligence/technology/behavioral-biometrics-fraud-092223",
+      "https://www.biometricupdate.com/202608/deepfake-detection-evolving-beyond-onboarding-into-continuous-financial-trust"
+    ],
+    "fixes": [],
+    "note": "GARP confirms behavioral biometrics (keystroke patterns, touch pressure, voice) layered on top of traditional fingerprint/face verification for stronger, continuous fraud detection in banking. Biometric Update confirms the industry shift from one-time to continuous, multi-modal verification. Both support the record's description; the '3.0' label is correctly framed in the record as informal industry commentary rather than a formal standard."
+  },
+  "Smart City Infrastructure": {
+    "sources": [
+      "https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/smart-city/overview.html"
+    ],
+    "fixes": [],
+    "note": "Deloitte confirms networked sensors on traffic, utilities (smart meters), and transit, paired with data dashboards for city officials, and frames this as a vendor-pitch category for telecom/urban-tech companies targeting municipal buyers. Consistent with the record."
+  },
+  "Regenerative Agriculture Tech": {
+    "sources": [
+      "https://www.sensoterra.com/news/regenerative-farming-with-a-technology-twist/",
+      "https://www.cibotechnologies.com/resources/revolutionizing-regenerative-agriculture-with-remote-sensing-and-artificial-intelligence-2"
+    ],
+    "fixes": [],
+    "note": "Sensoterra confirms soil sensors and satellite/drone monitoring supporting regenerative practices. CIBO Technologies confirms satellite-based AI detection of tillage type and cover crops, and explicitly ties this data to generating verified, high-quality carbon credits. Consistent with the record's claims about verification for carbon credit programs."
+  },
+  "Digital Twin Technology": {
+    "sources": [
+      "https://www.ibm.com/think/topics/digital-twin"
+    ],
+    "fixes": [],
+    "note": "IBM confirms the definition (real-time-data-driven virtual replica of a physical object/process/system), origin in NASA aerospace work later formalized and extended to manufacturing, and its use for predictive maintenance and scenario simulation, plus spread to healthcare, energy, and urban planning. Consistent with the record."
+  },
+  "Autonomous Everything": {
+    "sources": [
+      "https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html"
+    ],
+    "fixes": [],
+    "note": "Deloitte confirms parallel expansion of autonomous systems across warehouses (Amazon robots), manufacturing (BMW self-driving factory vehicles), and AI agents, while also confirming most agentic AI projects remain in pilot rather than production and require redesigned human oversight. Directly supports the record's caution that most current systems still require meaningful human oversight."
+  }
+}

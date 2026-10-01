@@ -1,0 +1,12 @@
+node_modules
+.claude/
+.vercel
+.vercel-dist-link
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+.playwright-cli/
+__pycache__/
+*.pyc

@@ -1,0 +1,490 @@
+[
+ {
+  "notion_title": "NSFW Content",
+  "term": "NSFW (Not Safe For Work)",
+  "short_definition": "An internet label warning that content, usually sexual, violent, or explicit, is inappropriate to view in a workplace or public setting.",
+  "long_explanation": "NSFW stands for Not Safe For Work and grew out of early 2000s internet forums, where users needed a quick way to flag material that could embarrass someone or get them in trouble if opened at the office. The exact phrase surfaced in an August 2000 headline on the news site Fark, and the four-letter abbreviation began circulating on Usenet around 2001 to 2002 before entering major dictionaries in the 2010s. Platforms, and the automated moderation systems built on the same idea, use the label to restrict ad placement, algorithmic reach, and monetization, so content flagged NSFW usually loses distribution and brand-safety approval.",
+  "usage_context": "A brand posting a suggestive fashion or fitness ad may find its organic reach throttled if a platform's moderation system tags the post NSFW, even without explicit nudity, which is why paid social teams review platform content policies before publishing.",
+  "related_terms": "Brand safety, content moderation, shock site",
+  "tr_equivalent": null,
+  "tr_definition": "NSFW, işyerinde veya herkese açık bir ortamda izlenmesi uygun olmayan (genellikle cinsel veya şiddet içeren) içerikleri işaretlemek için kullanılan bir internet kısaltmasıdır.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.vice.com/en/article/nsfw-brief-history/",
+   "https://www.techopedia.com/definition/27847/not-safe-for-work-nsfw",
+   "https://en.wikipedia.org/wiki/Not_safe_for_work"
+  ],
+  "notes": "The original Notion entry for this term was only an image (a screenshot hosted on a temporary, expired S3 link) with no caption text, so the intended specific context could not be confirmed. This entry covers the general, well-established meaning of NSFW; an editor should check what the source screenshot actually showed."
+ },
+ {
+  "notion_title": "#CarreerTok",
+  "term": "#CareerTok",
+  "short_definition": "A TikTok content community where mostly Gen Z users share job search advice, interview tips, and workplace stories.",
+  "long_explanation": "#CareerTok is the informal name for a large cluster of TikTok videos about job hunting, resumes, interviews, and workplace culture, built around short, personal, and often unpolished storytelling rather than the curated tone typical of LinkedIn. It grew as Gen Z job seekers, who came of age on short video, started treating TikTok creators as informal career coaches. The trend signals to marketers and employer brands that recruitment marketing aimed at younger candidates increasingly needs a native short-video voice, such as day-in-the-life clips and honest salary talk, rather than only a corporate careers page or LinkedIn post.",
+  "usage_context": "A retail chain hiring for its new stores might post a 30-second day-in-the-life video from an employee under #CareerTok instead of relying only on a LinkedIn job listing to reach Gen Z applicants.",
+  "related_terms": "Employer branding, Gen Z recruiting, LinkedIn, TikTok",
+  "tr_equivalent": null,
+  "tr_definition": "#CareerTok, çoğunlukla Z kuşağı kullanıcıların iş arama tavsiyeleri, mülakat ipuçları ve iş yeri deneyimlerini paylaştığı bir TikTok içerik topluluğudur.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://dot.la/tiktok-career-2659378369.html",
+   "https://www.shrm.org/topics-tools/news/how-social-media-is-redefining-job-hunting-gen-z"
+  ],
+  "notes": "Notion note had the tag misspelled as #CarreerTok; corrected to #CareerTok. Specific engagement figures (views, percentage of Gen Z hired via TikTok) found in some sources were not included here because they could not be independently confirmed to editorial standard; an editor may add a properly sourced statistic if desired."
+ },
+ {
+  "notion_title": "Cognitive Offloading",
+  "term": "Cognitive Offloading",
+  "short_definition": "A strategy of using a physical action or external tool, instead of pure mental effort, to reduce a task's mental demand.",
+  "long_explanation": "Cognitive offloading describes behaviors such as setting a phone alarm instead of remembering an appointment, writing a note instead of memorizing a fact, or turning your head to view a rotated image more easily. The term is used in cognitive science literature, including research published in Trends in Cognitive Sciences, to describe how people manage limited mental capacity by shifting part of a task onto the environment or a device. Products and interfaces such as reminders, autofill, recommendation engines, and AI assistants succeed partly by giving users a place to offload memory and decision effort, and that shapes how much friction people will tolerate in an app or purchase flow.",
+  "usage_context": "A shopping app that saves a user's size and past orders so they do not have to re-enter details is exploiting cognitive offloading to reduce checkout friction.",
+  "related_terms": "Cognitive load, choice architecture, UX friction",
+  "tr_equivalent": "Bilişsel yük boşaltma",
+  "tr_definition": "Cognitive offloading, bir görevin zihinsel yükünü azaltmak için fiziksel bir hareket veya dışsal bir araç (not, alarm, uygulama) kullanma stratejisidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(16)30098-5"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "AEO (Answer Engine Optimization) means optimizing for AI-driven platforms like Google Gemini, AI Overviews, Chrome AI Mode, and ChatGPT Search.",
+  "term": "AEO (Answer Engine Optimization)",
+  "short_definition": "A content practice that gets AI answer engines such as ChatGPT Search, Google AI Overviews, and Gemini to cite or summarize a page directly, rather than only rank it in a link list.",
+  "long_explanation": "Answer Engine Optimization is the practice of structuring content (clear question-based headers, direct concise answers, schema markup, strong topical authority) so generative AI tools select it as a source when composing an answer, instead of only optimizing for a ranked list of blue links as in traditional SEO. It emerged as consumers increasingly get answers from AI chat interfaces and AI-generated search summaries rather than clicking through to websites. A growing share of searches now end without a click to any site, so for marketers, being cited inside an AI answer, with or without a link, is becoming a new form of visibility that traditional rank tracking does not capture.",
+  "usage_context": "A B2B software company rewrites its comparison pages with direct 40 to 60 word answers under question headings so that when a prospect asks ChatGPT to compare tools in the category, the company's page is more likely to be quoted or cited.",
+  "related_terms": "SEO, generative engine optimization, schema markup, AI Overviews",
+  "tr_equivalent": null,
+  "tr_definition": "AEO (Yanıt Motoru Optimizasyonu), içeriğin ChatGPT, Google AI Overviews veya Gemini gibi yapay zeka destekli arama araçlarında doğrudan yanıt veya kaynak olarak gösterilmesi için yapılan optimizasyondur.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://blog.hubspot.com/marketing/answer-engine-optimization",
+   "https://www.tryprofound.com/resources/articles/what-is-answer-engine-optimization",
+   "https://neilpatel.com/blog/answer-engine-optimization/"
+  ],
+  "notes": "The Notion note cited specific statistics (68% of shoppers using AI tools to shop, 33% searching less, 62% of marketers reporting traffic declines, 70%/20% AEO belief-versus-adoption gap) with no original source given. As instructed, none of these numbers are reused here because the original source could not be verified; an editor should locate and cite the primary survey before publishing any such figures."
+ },
+ {
+  "notion_title": "Jobpocaliypse:",
+  "term": "Jobpocalypse",
+  "short_definition": "A media shorthand for the feared large-scale displacement of jobs by AI and automation.",
+  "long_explanation": "Jobpocalypse blends job and apocalypse and is a recent coinage, attributed to the Financial Times in 2025, that first described anxiety about AI shrinking graduate and entry-level hiring and has since broadened to AI-driven job losses in general. The term captures public anxiety around generative AI's effect on hiring and the labor market, but economists and researchers are divided on its accuracy: some point to a real deterioration in entry-level hiring in fields like software, while others argue companies use AI as a cover story for cuts that are really driven by cost-cutting, sometimes called AI-washing. The term shapes how anxious both job seekers and employees are, which matters for messaging tone in recruitment and workplace communications, especially for marketers in employer branding, HR tech, or B2B software built for the workforce.",
+  "usage_context": "An HR software vendor might address jobpocalypse anxiety directly in content marketing, positioning its product as helping workers reskill rather than simply replacing them.",
+  "related_terms": "Technological unemployment, AI-washing, reskilling, automation",
+  "tr_equivalent": null,
+  "tr_definition": "Jobpocalypse, yapay zeka ve otomasyonun neden olabileceği geniş çaplı iş kaybı korkusunu tanımlamak için kullanılan bir medya terimidir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://online.usc.edu/news/what-is-jobpocalypse-advice-for-job-seekers/",
+   "https://www.capitaleconomics.com/publications/global-economics-focus/has-ai-jobpocalypse-begun",
+   "https://a16z.com/the-ai-job-apocalypse-is-a-complete-fantasy/"
+  ],
+  "notes": "Notion title spelled the term 'Jobpocaliypse'; corrected to 'Jobpocalypse'. The source Instagram link in the Notion note could not be fetched, so this entry is based on independent web research into the term."
+ },
+ {
+  "notion_title": "Principal Media",
+  "term": "Principal Media",
+  "short_definition": "A media-buying model where an agency purchases ad inventory as the buyer of record and resells it to clients, often at an undisclosed markup.",
+  "long_explanation": "In principal media, an advertising agency buys media inventory in bulk directly from publishers or platforms, taking on the inventory as its own (acting as principal), and then resells that inventory to its brand clients, rather than simply placing the client's budget as an agent on the client's behalf. The margin between what the agency paid and what it charges the client is typically not disclosed. The model grew as agency holding companies faced pressure on traditional fees and sought new revenue, with major networks building their own principal-media units, for example WPP Media's GMI, Publicis's APEX, and Omnicom's OMnet. The model changes who actually controls pricing transparency in media buys, and it has drawn scrutiny from advertisers and industry bodies over conflicts of interest.",
+  "usage_context": "A large holding-company agency buys a block of TV or programmatic inventory at a discount and resells portions of it to several different client brands, keeping the spread as agency margin rather than passing through the original cost.",
+  "related_terms": "Media agency, agency trading desk, media transparency, programmatic advertising",
+  "tr_equivalent": null,
+  "tr_definition": "Principal media, bir reklam ajansının medya envanterini kendi adına satın alıp müşterilerine, genellikle açıklanmayan bir kar marjıyla, yeniden sattığı bir medya satın alma modelidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://digiday.com/media-buying/wtf-is-principal-media/",
+   "https://www.marketingbrew.com/stories/2024/12/05/despite-controversy-principal-based-media-buying-is-attracting-interest-from-advertisers",
+   "https://videoweek.com/2024/07/08/principal-media-explained/"
+  ],
+  "notes": "The source Instagram link in the Notion note could not be fetched; this entry is based on independent web research confirming the definition given in the batch guidance."
+ },
+ {
+  "notion_title": "Scroll Burnout",
+  "term": "Scroll Burnout",
+  "short_definition": "Mental and emotional exhaustion from prolonged, often mindless scrolling through social media feeds.",
+  "long_explanation": "Scroll burnout, closely related to the broader idea of social media fatigue, describes the depleted, foggy, or irritable feeling people report after extended scrolling sessions, often driven by infinite-scroll interface design that removes natural stopping points. Researchers link it to overstimulation of the brain's reward circuits by constant novel content, notifications, and social comparison, followed by diminishing emotional reward over time. Audiences experiencing scroll burnout become harder to capture with more of the same content, so brands increasingly need to earn attention with distinct, low-friction, or intentionally paced content rather than competing purely on feed volume.",
+  "usage_context": "A brand may see declining engagement on high-frequency feed posts and respond by shifting budget toward fewer, higher-quality video pieces designed to interrupt scroll fatigue rather than add to it.",
+  "related_terms": "Doomscrolling, social media fatigue, infinite scroll, attention economy",
+  "tr_equivalent": null,
+  "tr_definition": "Scroll burnout, sosyal medya akışlarında uzun süre, çoğunlukla amaçsızca kaydırma yapmaktan kaynaklanan zihinsel ve duygusal tükenmişliktir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.sciencedirect.com/science/article/abs/pii/S146902922400092X"
+  ],
+  "notes": "This is not yet a single, formally standardized term; it overlaps closely with the more established 'social media fatigue' and 'doomscrolling'. The definition here reflects the common usage across wellness and media commentary rather than one canonical academic source. Fact-check 2026-09-23: the only source (ScienceDirect article) could not be reached; verify it or add another source."
+ },
+ {
+  "notion_title": "Synthetic Trust",
+  "term": "Synthetic Trust",
+  "short_definition": "Trust signals (reviews, testimonials, faces, voices) that are artificially generated by AI rather than coming from real people or experiences.",
+  "long_explanation": "Synthetic trust refers to the growing situation where the credibility cues audiences rely on, a friendly spokesperson, a glowing review, a case study photo, can now be produced entirely by AI rather than reflecting a genuine human source. As AI-generated content becomes cheap and widespread, some of it undisclosed, consumers increasingly cannot tell whether a signal of authenticity is real, which puts pressure on the trust that brand communication depends on. Marketing commentators argue the answer is transparency and real, identifiable human voices, since disclosed AI use tends to be received better than content that turns out to be AI-generated without disclosure. That raises the reputational cost for marketers of being caught using undisclosed synthetic content in reviews, testimonials, or influencer-style posts.",
+  "usage_context": "A skincare brand that publishes AI-generated 'customer' testimonial videos without disclosure risks a synthetic-trust backlash if audiences discover the people in the videos do not exist.",
+  "related_terms": "Deepfake, brand safety, AI disclosure, social proof",
+  "tr_equivalent": null,
+  "tr_definition": "Synthetic trust, gerçek bir kişi veya deneyimden değil, yapay zeka tarafından üretilen güven sinyallerini (yorum, referans, yüz, ses gibi) ifade eder.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.thetilt.com/marketing/when-all-the-content-is-synthetic-the-trust-portfolio"
+  ],
+  "notes": "This term is an emerging industry phrase rather than a formally standardized definition; usage varies across sources. The definition here reflects the most common framing found in current marketing commentary. Fact-check 2026-09-23: the only source (thetilt.com article) could not be reached; verify it or add another source."
+ },
+ {
+  "notion_title": "Cognitive Inequality: Bilişsel Eşitsizlik",
+  "term": "Cognitive Inequality",
+  "short_definition": "An unequal ability to control, understand, or benefit from AI systems, which leaves some people directing AI and others dependent on it.",
+  "long_explanation": "Cognitive inequality, sometimes discussed as part of a broader 'cognitive divide' or 'AI divide', describes disparities that go beyond simple access to technology (the older digital divide) to differences in who can shape, question, and control the AI systems that increasingly mediate perception and decision-making, versus who is simply subject to them. Academic literature frames this as a multidimensional issue combining technological, institutional, and psychological factors, including the risk that some users treat AI as a genuine cognitive extension while others become dependent on it as a crutch. For marketers and organizations, this affects how confidently different customer or employee segments engage with AI-powered products and raises questions about equitable design of AI tools.",
+  "usage_context": "A company rolling out an AI assistant to all employees may find that some teams use it to genuinely extend their thinking while others become passively dependent on it, widening internal skill gaps over time.",
+  "related_terms": "Digital divide, AI divide, digital literacy",
+  "tr_equivalent": "Bilişsel eşitsizlik",
+  "tr_definition": "Bilişsel eşitsizlik, yapay zeka sistemlerini yönlendirebilenlerle bu sistemlere bağımlı hale gelenler arasındaki, erişimin ötesine geçen kontrol ve anlama farkını ifade eder.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://onlinelibrary.wiley.com/doi/10.1002/aiv2.70002"
+  ],
+  "notes": "This is an emerging academic term without one single settled definition across sources; some literature uses 'cognitive divide' or 'AI divide' interchangeably. An editor should confirm which framing best fits the site's intended audience. Fact-check 2026-09-23: the only source (Wiley DOI) could not be reached; verify it or add another source."
+ },
+ {
+  "notion_title": "P Doom",
+  "term": "P(doom)",
+  "short_definition": "Shorthand in AI safety discussions for a person's estimated probability that advanced AI causes human extinction or civilizational collapse.",
+  "long_explanation": "P(doom), read as probability of doom, originated inside rationalist and AI-safety research communities as informal shorthand researchers used to compare personal estimates of catastrophic AI risk. The term reached wider public attention around 2023 as generative AI advanced quickly and prominent researchers, including some who helped build the technology, began publicly stating their own P(doom) figures, which range widely from near zero to over 50%. A widely cited 2023 survey of AI researchers found a mean estimate around 14% and a median around 5% for AI contributing to human extinction or similarly severe outcomes within 100 years. For marketers in the AI and technology space, the term functions mainly as cultural shorthand: using it correctly signals fluency with how the AI industry and its critics talk about existential risk, which shapes tone when writing about AI products.",
+  "usage_context": "A tech journalist asking an AI lab founder for their 'P(doom)' is asking, in a single phrase, how likely that person thinks it is that AI could end up causing catastrophic harm to humanity.",
+  "related_terms": "AI safety, existential risk, AI alignment",
+  "tr_equivalent": null,
+  "tr_definition": "P(doom), gelişmiş yapay zekanın insanlığın yok oluşuna veya büyük bir çöküşe yol açma olasılığını ifade etmek için AI güvenliği çevrelerinde kullanılan bir kısaltmadır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://en.wikipedia.org/wiki/P(doom)",
+   "https://aisafety.info/questions/NM24/What-is-%22p(doom)%22"
+  ],
+  "notes": "Notion title written as 'P Doom'; standardized to 'P(doom)', the conventional written form."
+ },
+ {
+  "notion_title": "Lemonading",
+  "term": "Lemonading",
+  "short_definition": "The active, creative practice of reframing a setback or hardship into an opportunity, rather than passively staying positive.",
+  "long_explanation": "Lemonading, from the phrase 'when life gives you lemons, make lemonade,' describes a deliberate, playful reframing of a difficult situation into something workable or valuable, distinct from simple optimism because it requires creativity, adaptability, and active problem-solving rather than just a positive attitude. Researchers studying playfulness have found that people who approach setbacks this way cope noticeably better with adversity. In workplace and learning-and-development contexts, the term has been applied to turning unexpected obstacles, a failed project, a budget cut, a training gap, into a concrete, practical improvement rather than pretending the problem does not exist. For marketers and internal communicators, it offers a vocabulary for framing setbacks constructively in employee or customer communication without sounding falsely upbeat.",
+  "usage_context": "An L&D team facing a cancelled training budget might reframe the situation by building a low-cost peer-mentoring program instead, describing the move internally as lemonading the constraint.",
+  "related_terms": "Resilience, reframing, quiet quitting, workplace culture",
+  "tr_equivalent": null,
+  "tr_definition": "Lemonading, bir zorluk karşısında sadece iyimser kalmak yerine, durumu yaratıcı biçimde yeniden çerçeveleyip somut bir fırsata dönüştürme pratiğidir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://fherehab.com/learning/lemonading-explained",
+   "https://www.chart.org/training-tools-and-resources/members-blog.html/2025/03/12/%E2%80%9Clemonading%E2%80%9D-transforming-l-and-d-challenges-into-opportunities/"
+  ],
+  "notes": "The source Instagram link could not be fetched. Multiple meanings of 'lemonading' exist across sources (a coping/psychology term and an L&D workplace-culture term); per the batch guidance, this entry uses the workplace/work-culture framing as the one most relevant to marketing and organizational audiences. An editor should confirm this matches the owner's intended meaning."
+ },
+ {
+  "notion_title": "Infodemic",
+  "term": "Infodemic",
+  "short_definition": "An excessive, fast-spreading flow of information, including misinformation and rumors, that makes a crisis harder to manage.",
+  "long_explanation": "Infodemic blends information and epidemic and was coined by international relations professor David Rothkopf in a May 2003 Washington Post article about the SARS outbreak, arguing that a flood of exaggerated and false reports was making the crisis harder to contain. The term resurfaced and was popularized globally by the World Health Organization during the COVID-19 pandemic starting in 2020, describing how misinformation on social media and other channels spread alongside the virus itself and undermined public health responses. The concept is a reminder for marketers and communicators of the reputational and safety risk in adding to information overload or unverified claims during a crisis, and of the value of being a clear, credible source when audiences are overwhelmed.",
+  "usage_context": "During a product recall, a company's communications team monitors social media closely because rumors can spread into an infodemic that outpaces the brand's official statements.",
+  "related_terms": "Misinformation, crisis communication, media literacy",
+  "tr_equivalent": "İnfodemi",
+  "tr_definition": "Infodemic, bir kriz sırasında yanlış bilgi ve söylentilerin hızla yayılarak durumu daha da yönetilemez hale getirmesini ifade eder.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Infodemic",
+   "https://www.merriam-webster.com/wordplay/words-were-watching-infodemic-meaning"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Backpropagation",
+  "term": "Backpropagation",
+  "short_definition": "The core algorithm used to train neural networks by calculating how much each connection contributed to an error and adjusting it accordingly.",
+  "long_explanation": "Backpropagation, short for backward propagation of errors, is the method neural networks use to learn: after the network makes a prediction, the error is measured and passed backward through the layers of the network, and each connection's weight is nudged to reduce future error. The method was independently discovered by several researchers, but the influential 1986 paper 'Learning representations by back-propagating errors' by David Rumelhart, Geoffrey Hinton, and Ronald Williams is what brought it to wide attention and made it standard practice in neural network research. Marketers working with AI rarely need the term itself, but backpropagation is the training mechanism behind the machine learning models, recommendation engines, ad targeting, generative AI, that now sit underneath most modern marketing technology.",
+  "usage_context": "A recommendation engine that improves its personalized product suggestions over time is doing so because backpropagation is continually adjusting the underlying model based on which past recommendations led to clicks or purchases.",
+  "related_terms": "Neural network, machine learning, gradient descent, deep learning",
+  "tr_equivalent": "Geri yayılım",
+  "tr_definition": "Backpropagation, bir yapay sinir ağının hatasını geriye doğru yayarak her bağlantının ağırlığını düzeltmesini sağlayan öğrenme algoritmasıdır.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://en.wikipedia.org/wiki/David_Rumelhart",
+   "https://en.wikipedia.org/wiki/Geoffrey_Hinton"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Intent",
+  "term": "Intent (NLP)",
+  "short_definition": "In natural language processing, a label that identifies the goal behind a user's message, such as a chatbot request to check an order or ask for a refund.",
+  "long_explanation": "Intent is a core concept in natural language processing and conversational AI: it is the category assigned to a piece of user text or speech that captures what the person is trying to accomplish, separate from the specific words they used. A chatbot or voice assistant is typically trained on a labeled dataset of example phrases mapped to intents (for example 'order_status' or 'refund_request'), and it scores each new message against those known intents to decide how to respond or when to hand off to a human. Modern systems increasingly use large language models to infer intent directly rather than relying only on a fixed, pre-trained classifier. For marketers building or overseeing chatbots and customer service automation, this matters directly: how accurately a system recognizes intent determines whether automated conversations resolve customer needs or frustrate them.",
+  "usage_context": "A customer service chatbot classifies the message 'where is my package' under the 'order_status' intent so it can automatically pull tracking information instead of routing the customer to a human agent.",
+  "related_terms": "Intent classification, chatbot, conversational AI, NLP",
+  "tr_equivalent": "Niyet (NLP)",
+  "tr_definition": "Intent (NLP), bir kullanıcı mesajının arkasındaki amacı tanımlayan ve chatbot eğitim verilerinde kullanılan bir etikettir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.infobip.com/glossary/intent",
+   "https://labelyourdata.com/articles/machine-learning/intent-classification"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Zoom fatigue",
+  "term": "Zoom Fatigue",
+  "short_definition": "The exhaustion and burnout caused by spending long periods on video calls, first widely reported during the COVID-19 pandemic.",
+  "long_explanation": "Zoom fatigue describes the mental tiredness people experience after back-to-back video meetings, a phenomenon that became widespread once remote work pushed millions of people into videoconferencing during 2020. Stanford Communication Professor Jeremy Bailenson, director of the university's Virtual Human Interaction Lab, published a February 2021 article in Technology, Mind, and Behavior arguing for four likely causes, which he framed as arguments rather than settled findings: forced close-up eye contact, the cognitive effort of exaggerating nonverbal cues like nodding, the unnatural experience of seeing your own face on screen, and reduced physical mobility during calls. The term mattered enough to shape a lasting shift toward shorter meetings, asynchronous updates, and camera-optional culture inside organizations, all of which affect how marketers and internal communicators design internal and customer-facing video content.",
+  "usage_context": "A company reduces its default meeting length from 60 to 30 minutes and encourages camera-off options for large calls specifically to reduce Zoom fatigue among remote staff.",
+  "related_terms": "Remote work, hybrid work, video conferencing, digital burnout",
+  "tr_equivalent": null,
+  "tr_definition": "Zoom fatigue, özellikle COVID-19 döneminde yaygınlaşan, uzun süreli görüntülü görüşmelerin yol açtığı zihinsel yorgunluk ve tükenmişliktir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://news.stanford.edu/stories/2021/02/four-causes-zoom-fatigue-solutions",
+   "https://www.psychologytoday.com/us/blog/the-future-brain/202103/stanford-professor-on-zoom-fatigue-and-how-to-prevent-it"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Zoombombing",
+  "term": "Zoombombing",
+  "short_definition": "The act of an uninvited person disrupting a video call, often by displaying offensive images or language, by exploiting weak meeting security.",
+  "long_explanation": "Zoombombing blends the platform name Zoom with photobombing and describes trolls or hackers hijacking video meetings, most often by guessing or sharing unprotected meeting links, to broadcast pornographic, hateful, or otherwise disruptive content. The term spread in mid-March 2020 as videoconferencing use exploded during COVID-19 lockdowns, and the US FBI issued a public warning about the practice in early April 2020 after receiving multiple reports of hijacked school and business calls. It pointed marketers and event organizers to a basic security need, waiting rooms, passwords, and controlled screen-sharing, for any brand webinar, town hall, or virtual event that used public or easily shared join links.",
+  "usage_context": "A company hosting a public webinar enables a waiting room and disables screen-sharing for attendees specifically to prevent zoombombing.",
+  "related_terms": "Zoom fatigue, video conferencing security, trolling",
+  "tr_equivalent": null,
+  "tr_definition": "Zoombombing, davetsiz bir kişinin zayıf toplantı güvenliğinden yararlanarak bir görüntülü görüşmeyi, genellikle rahatsız edici görüntü veya söylemlerle, kesintiye uğratmasıdır.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zoombombing",
+   "https://www.cnn.com/2020/04/02/us/fbi-warning-zoombombing-trnd/index.html"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Perk-cession",
+  "term": "Perk-cession",
+  "short_definition": "The reduction or elimination of employee perks, like free meals or commuting benefits, as companies cut costs during an economic downturn.",
+  "long_explanation": "Perk-cession combines perk with the recession-suggesting suffix -cession and was used by the Wall Street Journal to describe companies scaling back prized employee extras, free coffee, cab rides, catered meals, as they focus on cost efficiency. The trend became visible from around 2023 as many employers pulled back office perks that had grown during the tight labor market of the pandemic years, partly because remote and hybrid workers were not using in-office amenities like coffee bars and game rooms, and partly because of broader economic pressure to cut costs. The term names a real risk for marketers and HR communicators: employer brand and retention suffer if perk cuts are handled without clear, honest communication about why they are happening.",
+  "usage_context": "A tech company that eliminates free lunches and reduces its wellness stipend during a cost-cutting quarter is going through what HR commentators call a perk-cession.",
+  "related_terms": "Employee benefits, employer branding, quiet quitting, layoffs",
+  "tr_equivalent": null,
+  "tr_definition": "Perk-cession, şirketlerin ekonomik daralma dönemlerinde maliyetleri kısmak amacıyla çalışan ayrıcalıklarını (ücretsiz yemek, servis gibi) azaltması veya kaldırmasıdır.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/should-workers-be-worried-about-a-perk-cession.aspx",
+   "https://www.pockethrms.com/hr-terms/perk-cession/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Lazy Girl Job",
+  "term": "Lazy Girl Job",
+  "short_definition": "A well-paid, low-stress job with strong work-life balance, popularized on TikTok as a rejection of hustle culture rather than literal laziness.",
+  "long_explanation": "The term was coined in May 2023 by TikTok creator Gabrielle Judge, who described it as a deliberately provocative label for jobs, often nontechnical corporate roles like marketing, account management, or customer success, that pay reasonably well (commonly cited in the 60,000 to 80,000 US dollar range), allow remote or flexible work, and do not demand that work become a person's whole identity. Judge has said the name was intentionally a marketing gimmick meant to spark conversation about toxic workplace expectations and burnout, not a call to actually do less good work. For marketers, particularly employer brand and HR communications teams, it reflects a broader post-pandemic shift in what younger workers, especially Gen Z, say they want from a job: boundaries and balance over prestige or hustle.",
+  "usage_context": "A company promoting an open customer success role might emphasize flexible hours and manageable workload in the job listing, language that echoes the lazy girl job trend's appeal to work-life balance.",
+  "related_terms": "Quiet quitting, anti-hustle culture, work-life balance, Gen Z workplace trends",
+  "tr_equivalent": null,
+  "tr_definition": "Lazy Girl Job, TikTok'ta popülerleşen, iyi ücret ödeyen ve düşük stresli, iş-yaşam dengesine öncelik veren işleri tanımlayan, hırs kültürüne karşı çıkan bir terimdir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.cbsnews.com/news/lazy-girl-job-what-is-it/",
+   "https://katiecouric.com/lifestyle/workplace/lazy-girl-jobs-gabrielle-judge/",
+   "https://en.wikipedia.org/wiki/Lazy_girl_job"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Quantum Computing",
+  "term": "Quantum Computing",
+  "short_definition": "A computing approach that uses quantum mechanical states (qubits) instead of ordinary bits to perform certain calculations far faster than classical computers.",
+  "long_explanation": "Quantum computers use qubits, which can represent combinations of 0 and 1 simultaneously through superposition, along with entanglement between qubits, to explore many possible solutions at once for specific problem types such as optimization, cryptography, and molecular simulation. It remains an early-stage, largely experimental technology outside a few specialized use cases, with most current systems requiring extreme cooling and still limited by error rates. For marketers, the practical relevance today is mostly indirect: faster future computation could eventually reshape data analysis, personalization modeling, and encryption standards, but near-term marketing claims that overstate current quantum capability should be treated with caution.",
+  "usage_context": "A financial services firm might run a pilot quantum-computing project to test faster portfolio optimization, while its marketing content is careful to frame this as experimental rather than production-ready.",
+  "related_terms": "Qubit, cryptography, AI computing infrastructure",
+  "tr_equivalent": "Kuantum bilgisayar",
+  "tr_definition": "Quantum computing, bilgiyi klasik bitler yerine kuantum durumları (kübitler) kullanarak işleyen bir hesaplama yaklaşımıdır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.ibm.com/think/topics/quantum-computing"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Digital Detox Tourism",
+  "term": "Digital Detox Tourism",
+  "short_definition": "Travel experiences designed around unplugging from phones and the internet, offered by hotels and resorts as a wellness feature.",
+  "long_explanation": "Digital detox tourism refers to trips or retreats marketed around disconnecting from devices, whether through device lockers, no-WiFi zones, or structured offline itineraries, positioned as a response to the stress associated with constant connectivity and scroll fatigue. It sits within the broader wellness travel market and appeals to consumers who feel that always-on digital life has become a source of burnout rather than convenience. For marketers, the trend is relevant to hospitality, wellness, and travel brands looking to differentiate through an explicitly analog or slow-paced experience.",
+  "usage_context": "A resort might advertise a 'phone-free weekend' package, offering guests a locked box for their devices in exchange for a discount, as part of its digital detox tourism positioning.",
+  "related_terms": "Wellness tourism, scroll burnout, slow travel",
+  "tr_equivalent": null,
+  "tr_definition": "Digital detox tourism, telefon ve internetten uzaklaşmayı merkeze alan, oteller ve tesisler tarafından bir sağlık ve iyi oluş deneyimi olarak sunulan seyahat biçimidir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.hotelnewsresource.com/article135811.html"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Neuromarketing 2.0",
+  "term": "Neuromarketing 2.0",
+  "short_definition": "A newer wave of neuromarketing that combines traditional biometric and neuroscience methods with AI-driven analysis of consumer behavior.",
+  "long_explanation": "Neuromarketing studies how consumers' brains and bodies respond to marketing stimuli using tools like eye tracking, EEG, and facial coding; the '2.0' framing used by some industry commentary refers to layering AI and large-scale behavioral data analysis on top of these older methods to generate faster, more scalable insight into attention, emotion, and decision-making. The promise for marketers is more precise measurement of what actually drives attention and purchase intent than consumers can self-report in surveys, though it also raises questions about data privacy and the ethics of influencing subconscious decision-making.",
+  "usage_context": "A CPG brand might use AI-assisted eye-tracking analysis on ad concepts before a campaign launch to predict which version holds attention longest.",
+  "related_terms": "Neuromarketing, behavioral economics, eye tracking, consumer psychology",
+  "tr_equivalent": null,
+  "tr_definition": "Neuromarketing 2.0, geleneksel nörobilim yöntemlerini yapay zeka destekli veri analiziyle birleştiren yeni nesil nöropazarlama yaklaşımını ifade eder.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.campaignindia.in/article/neuromarketing-2-0-when-ai-reads-the-room/503349"
+  ],
+  "notes": "This is an informal industry label without one single standardized definition; usage varies by source."
+ },
+ {
+  "notion_title": "Sustainable Fashion Tech",
+  "term": "Sustainable Fashion Tech",
+  "short_definition": "Technologies, such as recycled materials, digital sampling, and supply chain tracking, aimed at reducing fashion's environmental impact.",
+  "long_explanation": "Sustainable fashion tech covers a range of applications including biofabricated or recycled textiles, 3D digital garment sampling that reduces physical waste during design, blockchain-based supply chain tracking for material sourcing claims, and resale or rental platforms enabled by digital inventory systems. It responds to consumer and regulatory pressure on the fashion industry, one of the most resource-intensive consumer sectors, to reduce waste and improve transparency. For marketers, it is both a genuine product differentiator and an area where unverified or exaggerated sustainability claims carry real reputational and legal risk, known as greenwashing.",
+  "usage_context": "An apparel brand might use a digital 3D sampling tool to cut the number of physical prototypes made per garment, then market the reduced material waste as part of its sustainability story.",
+  "related_terms": "Greenwashing, circular fashion, supply chain transparency",
+  "tr_equivalent": null,
+  "tr_definition": "Sustainable fashion tech, moda endüstrisinin çevresel etkisini azaltmayı amaçlayan geri dönüştürülmüş malzeme, dijital numune ve tedarik zinciri takibi gibi teknolojileri kapsar.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.textileworld.com/textile-world/features/2024/03/game-changing-benefits-of-3d-digital-sampling/",
+   "https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2023.1044723/full"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Metaverse Economy",
+  "term": "Metaverse Economy",
+  "short_definition": "Economic activity, buying, selling, and earning, that takes place inside persistent virtual worlds and platforms.",
+  "long_explanation": "The metaverse economy refers to transactions involving virtual goods, digital real estate, avatars, and in-world services conducted inside virtual or augmented reality platforms, sometimes using conventional payments and sometimes crypto or platform-specific currencies. Interest in the concept peaked around 2021 to 2022 alongside major tech investment announcements, then cooled considerably as consumer adoption of fully immersive virtual worlds proved slower than projected, even as niche use cases (gaming economies, virtual events, digital fashion) persisted. For marketers, the term is a useful reminder to distinguish genuine, measurable virtual-world commerce from speculative hype when evaluating whether a metaverse investment fits a brand's actual audience.",
+  "usage_context": "A sneaker brand selling limited-edition virtual sneakers usable inside a game platform is participating in a small, concrete slice of the metaverse economy, distinct from broader speculative claims about the metaverse.",
+  "related_terms": "Virtual reality, digital goods, Web3, gaming economy",
+  "tr_equivalent": null,
+  "tr_definition": "Metaverse economy, sanal dünyalar içinde gerçekleşen alım satım ve gelir elde etme gibi ekonomik faaliyetleri ifade eder.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.banklesstimes.com/news/2022/07/04/metaverse-real-estate-has-the-hype-already-cooled-down/",
+   "https://www.cbsnews.com/news/metaverse-real-estate-companies-land-rush/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "AI-Powered Personalization",
+  "term": "AI-Powered Personalization",
+  "short_definition": "A machine-learning approach that tailors content, product recommendations, or messaging to individual users at scale.",
+  "long_explanation": "AI-powered personalization applies machine learning, often the same kinds of models trained via methods like backpropagation, to analyze user behavior and deliver individually tailored recommendations, offers, or content in real time, well beyond what manually defined audience segments can achieve. It underlies most modern e-commerce recommendation engines, streaming content feeds, and dynamic email or ad targeting. For marketers, it can meaningfully lift engagement and conversion, but it also raises data privacy considerations and the risk of over-personalization that feels intrusive rather than helpful to consumers.",
+  "usage_context": "An online retailer's homepage showing each visitor a different set of recommended products based on their browsing history is a direct application of AI-powered personalization.",
+  "related_terms": "Recommendation engine, machine learning, first-party data, dynamic content",
+  "tr_equivalent": null,
+  "tr_definition": "AI-powered personalization, içerik, ürün önerisi ve mesajları makine öğrenmesiyle her kullanıcıya özel biçimde uyarlamaktır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.ibm.com/think/topics/recommendation-engine"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Carbon Credit Marketplace",
+  "term": "Carbon Credit Marketplace",
+  "short_definition": "A platform where organizations buy and sell tradable credits that represent a reduction or removal of a set amount of carbon emissions.",
+  "long_explanation": "A carbon credit marketplace lets companies that reduce emissions below a baseline, through renewable energy, reforestation, or other verified projects, sell the resulting credits to organizations that want to offset their own emissions, typically to meet sustainability targets or regulatory requirements. These marketplaces range from compliance markets tied to government cap-and-trade regulation to voluntary markets used for corporate sustainability claims. For marketers, the relevance is mostly in how carefully offset claims are communicated: credits vary widely in verification quality, and marketing an offset-based sustainability claim without transparent sourcing carries real greenwashing risk.",
+  "usage_context": "A logistics company purchasing verified reforestation carbon credits to offset its fleet emissions should disclose the specific credit standard and project used if it markets itself as carbon neutral.",
+  "related_terms": "Carbon offset, greenwashing, ESG, cap-and-trade",
+  "tr_equivalent": null,
+  "tr_definition": "Carbon credit marketplace, doğrulanmış karbon emisyonu azaltımlarını temsil eden kredilerin alınıp satıldığı bir platformdur.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://climatepromise.undp.org/news-and-stories/what-are-carbon-markets-and-how-do-they-work"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Extended Reality (XR)",
+  "term": "Extended Reality (XR)",
+  "short_definition": "An umbrella term covering virtual reality (VR), augmented reality (AR), and mixed reality (MR) technologies.",
+  "long_explanation": "Extended reality is a category label used to group virtual reality (fully immersive digital environments), augmented reality (digital elements overlaid on the real world, typically via a phone or headset), and mixed reality (digital objects that interact with the real environment) under one term, since many devices and platforms increasingly blend these modes. For marketers, it is practical vocabulary for briefing agencies or vendors on immersive experiences, virtual product try-ons, AR filters, branded VR experiences, without having to specify the exact underlying technology up front.",
+  "usage_context": "A furniture retailer's app that lets customers see how a virtual couch looks in their actual living room through their phone camera is an XR (specifically AR) application.",
+  "related_terms": "Virtual reality, augmented reality, mixed reality, metaverse",
+  "tr_equivalent": "Genişletilmiş gerçeklik",
+  "tr_definition": "Extended Reality (XR), sanal gerçeklik (VR), artırılmış gerçeklik (AR) ve karma gerçekliği (MR) kapsayan şemsiye bir terimdir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://builtin.com/hardware/extended-reality"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Biometric Authentication 3.0",
+  "term": "Biometric Authentication 3.0",
+  "short_definition": "A newer generation of identity verification using more advanced biometric signals, such as behavioral patterns, alongside older methods like fingerprint or face scans.",
+  "long_explanation": "Biometric authentication has evolved from basic fingerprint and facial recognition toward systems that also analyze behavioral biometrics, typing rhythm, gait, or voice patterns, and combine multiple signals for stronger, continuous identity verification rather than a single one-time check. The informal '3.0' label used in some industry commentary reflects this shift toward multi-modal, continuous, and AI-assisted verification. For marketers in fintech, e-commerce, and security-adjacent products, stronger authentication can reduce fraud and friction in checkout or login flows, while also raising consumer concerns about how sensitive biometric data is stored and used.",
+  "usage_context": "A banking app that verifies a user through a combination of face scan and typing behavior, rather than a password alone, reflects this newer generation of biometric authentication.",
+  "related_terms": "Multi-factor authentication, behavioral biometrics, fraud prevention",
+  "tr_equivalent": null,
+  "tr_definition": "Biometric Authentication 3.0, parmak izi veya yüz taramasının ötesine geçerek davranışsal biyometrik verileri de kullanan yeni nesil kimlik doğrulama yaklaşımıdır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.garp.org/risk-intelligence/technology/behavioral-biometrics-fraud-092223",
+   "https://www.biometricupdate.com/202608/deepfake-detection-evolving-beyond-onboarding-into-continuous-financial-trust"
+  ],
+  "notes": "The '3.0' label is informal industry shorthand rather than a formally standardized generation number."
+ },
+ {
+  "notion_title": "Smart City Infrastructure",
+  "term": "Smart City Infrastructure",
+  "short_definition": "Connected sensors, data systems, and networks used to manage city services like traffic, utilities, and public safety more efficiently.",
+  "long_explanation": "Smart city infrastructure refers to the networked hardware and software, sensors on traffic lights, smart meters for utilities, connected public transit systems, that cities deploy to collect real-time data and automate or optimize municipal services. It is often paired with data dashboards used by city officials to respond faster to congestion, energy demand, or safety incidents. For marketers in B2G, telecom, and urban technology, the term works as a category label for pitching connected-infrastructure products to municipal buyers, though implementations vary widely in scale and maturity across different cities.",
+  "usage_context": "A telecom company installing networked traffic sensors that automatically adjust signal timing to reduce congestion is providing a piece of smart city infrastructure.",
+  "related_terms": "IoT, digital twin technology, urban planning technology",
+  "tr_equivalent": "Akıllı şehir altyapısı",
+  "tr_definition": "Smart city infrastructure, trafik, enerji ve kamu güvenliği gibi belediye hizmetlerini daha verimli yönetmek için kullanılan bağlantılı sensör ve veri sistemleridir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/smart-city/overview.html"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Regenerative Agriculture Tech",
+  "term": "Regenerative Agriculture Tech",
+  "short_definition": "Technology, such as soil sensors and data platforms, used to support farming practices that restore soil health and biodiversity rather than depleting them.",
+  "long_explanation": "Regenerative agriculture tech supports farming methods like cover cropping, reduced tillage, and rotational grazing with digital tools such as soil health sensors, satellite monitoring, and carbon measurement platforms that help farmers track and verify environmental outcomes, sometimes to qualify for carbon credit programs. It sits at the intersection of agtech and sustainability, responding to concern over soil degradation from conventional intensive farming. For marketers in food, agriculture, and CPG supply chains, the term is relevant to sourcing claims and sustainability storytelling, provided the underlying practices are independently verifiable rather than only described in marketing copy.",
+  "usage_context": "A packaged food brand sourcing wheat from farms that use soil-sensor data to document reduced tillage might use that data to support a regenerative agriculture claim on its packaging.",
+  "related_terms": "Agtech, carbon credit marketplace, sustainable sourcing",
+  "tr_equivalent": null,
+  "tr_definition": "Regenerative agriculture tech, toprağı tüketmek yerine iyileştiren tarım uygulamalarını desteklemek için kullanılan sensör ve veri teknolojileridir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.sensoterra.com/news/regenerative-farming-with-a-technology-twist/",
+   "https://www.cibotechnologies.com/resources/revolutionizing-regenerative-agriculture-with-remote-sensing-and-artificial-intelligence-2"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Digital Twin Technology",
+  "term": "Digital Twin Technology",
+  "short_definition": "A virtual, continuously updated model of a real physical object, process, or system, used to simulate and predict its behavior.",
+  "long_explanation": "A digital twin is a software replica of something physical, a factory line, a building, a supply chain, or even a city, built from real-time sensor data so that changes in the physical original are reflected in the model, allowing teams to test scenarios or predict maintenance needs without disrupting the real system. It originated in manufacturing and aerospace engineering and has since spread to logistics, healthcare, and urban planning. For marketers in industrial, B2B, and technology sectors, the term gives a concrete way to describe efficiency and predictive-maintenance benefits to technical buyers.",
+  "usage_context": "A manufacturer building a digital twin of its production line can simulate the effect of a new machine before installing it physically, reducing the cost of trial and error.",
+  "related_terms": "IoT, predictive maintenance, simulation, smart city infrastructure",
+  "tr_equivalent": "Dijital ikiz",
+  "tr_definition": "Digital twin technology, bir nesnenin, sürecin veya sistemin gerçek zamanlı verilerle güncellenen sanal bir kopyasını oluşturarak davranışını simüle eden teknolojidir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.ibm.com/think/topics/digital-twin"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Autonomous Everything",
+  "term": "Autonomous Everything",
+  "short_definition": "A trend term describing the spread of self-operating, minimally supervised systems, such as vehicles and software agents, across many industries at once.",
+  "long_explanation": "Autonomous Everything is a broad, informal industry label for the parallel rise of autonomous or semi-autonomous systems across multiple domains simultaneously, self-driving vehicles, autonomous drones and robots in warehouses, and increasingly AI agents that can complete multi-step digital tasks with limited human oversight. Rather than a single defined technology, it functions as shorthand for the direction several separate autonomy trends are moving together. For marketers, the term is more useful as framing for trend reports and thought leadership than as a specific product category, and claims of full autonomy in any given product should be checked carefully, since most current systems still require meaningful human oversight.",
+  "usage_context": "A trend report predicting that warehouses, delivery vehicles, and customer service software will all rely more heavily on autonomous systems within a few years might group these predictions under the label autonomous everything.",
+  "related_terms": "AI agents, autonomous vehicles, robotics, automation",
+  "tr_equivalent": null,
+  "tr_definition": "Autonomous Everything, kendi kendine çalışan ve sınırlı insan denetimi gerektiren sistemlerin (otonom araçlar, robotlar, yapay zeka ajanları) birçok sektörde aynı anda yaygınlaşmasını tanımlayan bir eğilim terimidir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html"
+  ],
+  "notes": "This is an informal trend-report label rather than a single defined technology; specificity varies by source."
+ }
+]

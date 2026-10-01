@@ -1,0 +1,411 @@
+[
+  {
+    "acronym": "GEO",
+    "expansion": "Generative Engine Optimization",
+    "term": "GEO (Generative Engine Optimization)",
+    "what_it_is": "The practice of shaping content so it gets cited, referenced, or recommended inside AI-generated answers from tools like ChatGPT, Perplexity, and Gemini, rather than just ranking as a blue link. The term was formalized in a November 2023 Princeton/Georgia Tech/IIT Delhi academic paper.",
+    "why_marketers_care": "AI-referred web sessions surged over 500 percent year-over-year in 2025, and visitors arriving through AI search convert at several times the rate of normal organic traffic, so brands without a GEO strategy risk losing visibility as answer engines replace some search clicks.",
+    "example": "Marketing trade press (Search Engine Land, MarTech, Digiday) now runs GEO how-to guides and vendor tool roundups as a standard beat, distinct from classic SEO coverage.",
+    "first_seen_or_mainstream": "Term coined in a Nov 2023 academic paper; became a mainstream marketing/agency discipline through 2025 as AI Overviews and chat assistants took share from traditional search clicks.",
+    "related_existing_terms": "AEO, GAIO, LLM",
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://www.dataslayer.ai/blog/generative-engine-optimization-the-ai-search-guide",
+      "https://www.marketsandmarkets.com/Market-Reports/generative-engine-optimization-geo-market-265868816.html"
+    ],
+    "confidence": "high",
+    "notes": "Distinct from AEO (already in the dictionary): GEO is about being named inside synthesized multi-source answers; AEO is about being the cited source for a direct factual answer. Industry usage sometimes treats them as interchangeable."
+  },
+  {
+    "acronym": "AIO",
+    "expansion": "AI Overviews (also used for AI Optimization)",
+    "term": "AIO (AI Overviews)",
+    "what_it_is": "Two competing meanings coexist in 2025-2026 marketing usage: (1) AI Overviews, Google's AI-generated summary block at the top of search results, and (2) Artificial Intelligence Optimization, the practice of using AI tools to structure content for both human readers and AI platforms.",
+    "why_marketers_care": "AI Overviews now appear in roughly 25-40 percent of Google searches and have cut organic click-through rates by as much as 61 percent where they show, making the acronym central to any SEO/search planning conversation, while the ambiguity itself is a recurring point of confusion marketers must clarify with clients and colleagues.",
+    "example": "Google's own AI Overviews feature in Search; agencies like Direct Agents and Contently publish 'SEO to AIO' transition guides.",
+    "first_seen_or_mainstream": "AI Overviews launched by Google in May 2024; the acronym AIO became common shorthand across marketing trade press through 2025.",
+    "related_existing_terms": "AEO, GEO, GAIO",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://martech.zone/acronym/aio/",
+      "https://xponent21.com/insights/the-alphabet-soup-of-seo-what-aeo-aio-geo-and-aiseo-mean-for-your-strategy/"
+    ],
+    "confidence": "high",
+    "notes": "Flag the dual meaning explicitly when using this term with a team, since 'AI Overviews' and 'AI Optimization' point in different directions."
+  },
+  {
+    "acronym": "LLMO",
+    "expansion": "LLM Optimization (Large Language Model Optimization)",
+    "term": "LLMO (LLM Optimization)",
+    "what_it_is": "The discipline of building brand authority, structured content, and high-information-gain material so large language models recognize a brand as authoritative and surface it in conversational answers.",
+    "why_marketers_care": "As users shift from clicking search links to accepting direct AI answers, LLMO determines whether a brand is mentioned at all inside ChatGPT, Claude, Gemini, or Perplexity responses, which several agencies now treat as a distinct budget line from classic SEO or GEO work.",
+    "example": "Search Engine Land and 5W Public Relations both published standalone LLMO glossary/guide pages in 2025 treating it as a named discipline separate from GEO.",
+    "first_seen_or_mainstream": "Became a widely used marketing term through 2025 as GEO/AEO agencies split out a narrower, model-focused sub-discipline.",
+    "related_existing_terms": "AEO, GEO, LLM, GAIO",
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://searchengineland.com/guides/large-language-model-optimization-llmo",
+      "https://www.5wpr.com/glossary/llm-optimization/"
+    ],
+    "confidence": "high",
+    "notes": "Narrower than GEO: LLMO focuses specifically on how models select and present information, rather than the broader generative-answer-engine surface."
+  },
+  {
+    "acronym": "RAG",
+    "expansion": "Retrieval-Augmented Generation",
+    "term": "RAG (Retrieval-Augmented Generation)",
+    "what_it_is": "An AI architecture where a model retrieves relevant information from a knowledge base or the live web before generating a response, improving factual accuracy over a model answering from memory alone.",
+    "why_marketers_care": "Because AI answer engines and chatbots use RAG to decide what to cite, marketers now design content (fresh, structured, well-sourced) specifically to be retrievable, which is the technical mechanism underneath GEO and AEO strategy.",
+    "example": "Google AI Overviews and Perplexity both rely on RAG-style retrieval before generating their summarized answers.",
+    "first_seen_or_mainstream": "RAG is a 2020-era NLP research term (Facebook AI); it became a mainstream marketing-vocabulary term through 2025 as GEO/AEO/LLMO practitioners started explaining it to clients as the mechanism behind AI search visibility.",
+    "related_existing_terms": "LLM, AI Orchestrator",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://ipullrank.com/how-retrieval-augmented-generation-is-redefining-seo",
+      "https://www.edenai.co/post/the-2025-guide-to-retrieval-augmented-generation-rag"
+    ],
+    "confidence": "high",
+    "notes": "Technical origin predates the two-year window, but its adoption as everyday marketing vocabulary (via GEO/AEO explainer content) is recent; included because marketers now use it routinely, not because the term itself is new."
+  },
+  {
+    "acronym": "MCP",
+    "expansion": "Model Context Protocol",
+    "term": "MCP (Model Context Protocol)",
+    "what_it_is": "An open standard, released by Anthropic in November 2024, that lets AI models and agents connect to external tools, data sources, and platforms in a consistent way instead of needing custom integrations for each one.",
+    "why_marketers_care": "Martech vendors (analytics, CDPs, ad platforms) are rapidly shipping MCP support, which is what lets marketers query campaign data or trigger workflows directly from a conversational AI tool; it is becoming foundational plumbing for agentic marketing workflows.",
+    "example": "Supermetrics, Knak, and AdSkate have published MCP integrations letting marketers pull reporting or run creative tests via conversational AI tools.",
+    "first_seen_or_mainstream": "Released by Anthropic in November 2024; marketing-specific adoption and trade coverage (Digiday, MarTech) became visible through 2025.",
+    "related_existing_terms": "LLM, AI Orchestrator",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://supermetrics.com/blog/mcp-marketing",
+      "https://digiday.com/sponsored/how-new-infrastructure-like-the-model-context-protocol-is-reshaping-marketing-workflows/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "PMax",
+    "expansion": "Performance Max",
+    "term": "PMax (Performance Max)",
+    "what_it_is": "Google's fully automated, AI-driven Google Ads campaign type that runs a single campaign across Search, YouTube, Display, Gmail, Discovery, and Maps at once, letting machine learning handle targeting, bidding, and creative selection.",
+    "why_marketers_care": "PMax became the dominant Google Ads campaign format for performance marketers, used by 71 percent of surveyed advertisers in 2025, and is now paired with AI Max for Search and Demand Gen campaigns into what Google calls the 'Power Pack.'",
+    "example": "Google Marketing Live 2025 announcement pairing PMax with AI Max for Search campaigns.",
+    "first_seen_or_mainstream": "Launched late 2021, but adoption became near-universal and AI-driven capability expanded heavily through 2025-2026, making it a daily-use acronym for MEA/Turkiye performance marketers running Google Ads.",
+    "related_existing_terms": "DCO, ROAS, DSP",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://www.tatvic.com/blog/pmax-campaign-guide-setup-strategies/",
+      "https://headsonpillows.com/what-is-pmax/"
+    ],
+    "confidence": "medium",
+    "notes": "Launched in 2021, so the acronym itself predates the research window; included because near-universal mainstream adoption and major feature expansion happened within the last two years and it is extremely high-frequency vocabulary for the target audience."
+  },
+  {
+    "acronym": "ACP",
+    "expansion": "Agentic Commerce Protocol",
+    "term": "ACP (Agentic Commerce Protocol)",
+    "term_note": null,
+    "what_it_is": "An open standard, co-developed by OpenAI and Stripe (with Meta and Salesforce also involved) and released under Apache 2.0 on September 29, 2025, that defines how AI agents complete purchases on a buyer's behalf while merchants stay the system of record for payments, tax, and compliance.",
+    "why_marketers_care": "ACP is the protocol that powered ChatGPT's Instant Checkout with Etsy and Shopify brands (Glossier, Vuori, Spanx, SKIMS), making it the first widely adopted standard for 'buy directly inside a chatbot' commerce that e-commerce and retail marketers now have to design product feeds for.",
+    "example": "ChatGPT Instant Checkout, launched September 2025 with Etsy and later Shopify merchants.",
+    "first_seen_or_mainstream": "Released September 29, 2025 by OpenAI and Stripe.",
+    "related_existing_terms": "Conversational AI Commerce, DSP",
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://stripe.com/newsroom/news/stripe-openai-instant-checkout",
+      "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol"
+    ],
+    "confidence": "high",
+    "notes": "OpenAI retired the consumer-facing Instant Checkout feature in March 2026, but the underlying ACP standard continues to be referenced across the industry as the checkout-layer protocol."
+  },
+  {
+    "acronym": "AP2",
+    "expansion": "Agent Payments Protocol",
+    "term": "AP2 (Agent Payments Protocol)",
+    "what_it_is": "An open protocol announced by Google in September 2025, developed with over 60 organizations including Mastercard, PayPal, and Coinbase, that gives an AI agent a cryptographically signed 'permission slip' (a mandate) from a human before it can spend money on that person's behalf.",
+    "why_marketers_care": "AP2 is the payments layer Google positions as complementary to its A2A and MCP agent-interoperability standards, and it underpins the emerging 'agentic commerce' stack that retail and commerce marketers need to understand as shopping increasingly happens through AI agents rather than storefronts.",
+    "example": "Google Cloud's September 2025 announcement listing Adyen, American Express, Mastercard, PayPal, and Coinbase as founding partners.",
+    "first_seen_or_mainstream": "Announced by Google in September 2025.",
+    "related_existing_terms": "Conversational AI Commerce",
+    "category_suggestion": "AI & Marketing Concepts",
+    "sources": [
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
+      "https://ap2-protocol.org/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "UCP",
+    "expansion": "Universal Commerce Protocol",
+    "term": "UCP (Universal Commerce Protocol)",
+    "what_it_is": "An open-source standard from Google, released January 2026 and co-developed with Shopify, Etsy, Wayfair, Target, and Walmart, that gives AI agents and merchant stores a common language so a shopper can add items to a cart while inside Search, Gemini, YouTube, or Gmail.",
+    "why_marketers_care": "It is Google's flagship answer to agentic shopping, compatible with AP2 for payments and with A2A/MCP for agent communication, so retail and performance marketers in any Google-Ads-heavy market need to know what merchant integration it requires.",
+    "example": "Google Shopping's Universal Cart feature, announced alongside UCP in January 2026, currently rolling out to US merchants with Canada, Australia, and UK to follow by end of 2026.",
+    "first_seen_or_mainstream": "Released by Google in January 2026.",
+    "related_existing_terms": "Conversational AI Commerce, DSP",
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+      "https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "A2A",
+    "expansion": "Agent2Agent Protocol",
+    "term": "A2A (Agent2Agent Protocol)",
+    "what_it_is": "An open standard Google announced in April 2025, now under Linux Foundation governance, that lets AI agents built by different vendors discover each other, delegate tasks, and coordinate work across company and platform boundaries.",
+    "why_marketers_care": "As martech stacks add AI agents for campaign optimization, creative generation, and reporting, A2A is the interoperability layer that lets those agents from different vendors talk to each other instead of operating in silos.",
+    "example": "Google's April 2025 announcement listed 50+ founding partners, growing to 150+ supporters within a year; GrowthLoop has described a 'Compound Marketing' vision built on A2A agent collaboration.",
+    "first_seen_or_mainstream": "Announced by Google in April 2025.",
+    "related_existing_terms": "AI Orchestrator, LLM",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+      "https://martech.org/what-is-the-agent2agent-protocol-and-why-should-marketers-care/"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "CAIO",
+    "expansion": "Chief AI Officer",
+    "term": "CAIO (Chief AI Officer)",
+    "what_it_is": "A C-suite executive role responsible for an organization's AI roadmap, guardrails, cross-functional AI teams, and measurement of AI-driven outcomes.",
+    "why_marketers_care": "Marketing leaders increasingly report into or partner with a CAIO on AI governance and tooling decisions; a 2025 IBM study of 2,300 organizations found 26 percent now have a dedicated CAIO, up from 11 percent two years earlier, and more than half report directly to the CEO or board.",
+    "example": "IBM's 2025 global organizational study tracking CAIO prevalence across industries.",
+    "first_seen_or_mainstream": "Role existed earlier in isolated cases, but adoption roughly doubled between 2023 and 2025, making it a mainstream org-design term in this window.",
+    "related_existing_terms": "AI Ethics, Change Agent",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chief_AI_officer",
+      "https://www.pwc.com/us/en/executive-leadership-hub/caio.html"
+    ],
+    "confidence": "high",
+    "notes": null
+  },
+  {
+    "acronym": "GMV Max",
+    "expansion": "Gross Merchandise Value Max",
+    "term": "GMV Max (TikTok Shop)",
+    "what_it_is": "TikTok Shop's automated advertising campaign type that controls bidding, audience targeting, and creative distribution across the whole platform, attributing paid, organic, and affiliate sales to a single automated campaign.",
+    "why_marketers_care": "GMV Max became mandatory for TikTok Shop advertising in September 2025, meaning any brand or agency running TikTok Shop ads in Turkiye/MEA no longer has a manual-campaign alternative and must plan budgets around it; early adopters report roughly 30 percent higher GMV versus manual Video Shopping Ads.",
+    "example": "TikTok's official 'GMV Max One-Sheet 2025' advertiser guide.",
+    "first_seen_or_mainstream": "Became mandatory for TikTok Shop sellers in September 2025.",
+    "related_existing_terms": "DCO, RMN",
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://www.dataslayer.ai/blog/tiktok-shop-gmv-max-30-higher-gmv-vs-manual-ads-2026-complete-guide",
+      "https://ads.tiktok.com/business/library/GMV_Max_One_Sheet_2025.pdf"
+    ],
+    "confidence": "high",
+    "notes": "GMV itself (Gross Merchandise Value) is an older e-commerce metric; what is new to this window is the mandatory 'GMV Max' automated campaign product."
+  },
+  {
+    "acronym": "UID2",
+    "expansion": "Unified ID 2.0",
+    "term": "UID2 (Unified ID 2.0)",
+    "what_it_is": "An open-source, privacy-first identity framework, championed by The Trade Desk, that converts first-party data such as an email into a hashed and salted identifier to enable targeted advertising without third-party cookies.",
+    "why_marketers_care": "With Google abandoning its Privacy Sandbox cookie-replacement effort in late 2025, UID2 has become the leading open-web alternative identity solution, with new adopters through 2025-2026 including Roku, Experian, and Perion, making it directly relevant to any programmatic buy outside walled gardens.",
+    "example": "Perion Network's March 2025 announcement of UID2 adoption via The Trade Desk; Urban Science's 2026 UID2 rollout for automotive targeting.",
+    "first_seen_or_mainstream": "UID2 predates this window technically, but became the de facto industry standard identity solution through 2025-2026 as Google's Privacy Sandbox was discontinued.",
+    "related_existing_terms": "Identity Graph (ID Graph), Deterministic Matching, First-Party Data",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://www.adexchanger.com/online-advertising/theres-finally-a-marketer-case-study-for-unified-id-2-0/",
+      "https://unifiedid.com/docs/overviews/overview-advertisers"
+    ],
+    "confidence": "medium",
+    "notes": "The technology itself launched a few years ago; included because it only became the dominant identity standard in the market after Google retired Privacy Sandbox in October 2025."
+  },
+  {
+    "acronym": "MMM",
+    "expansion": "Marketing Mix Modeling",
+    "term": "MMM (Marketing Mix Modeling)",
+    "what_it_is": "A statistical, privacy-durable measurement method that correlates aggregate spend by channel against aggregate business outcomes using regression, without any cookies, device IDs, or user-level tracking.",
+    "why_marketers_care": "MMM is experiencing a major comeback because of continued signal loss from privacy rules and the cancellation of Google's Privacy Sandbox; an eMarketer/TransUnion survey found 46.9 percent of US marketers planned to invest more in MMM, with 27.6 percent naming it their single most reliable measurement method, ahead of multi-touch attribution.",
+    "example": "Free open-source MMM tools from Google (Meridian) and Meta (Robyn) lowering the cost of entry for marketers.",
+    "first_seen_or_mainstream": "The technique itself is decades old, but it re-entered mainstream marketing practice as the primary privacy-era measurement method through 2025-2026.",
+    "related_existing_terms": "Incrementality, iROAS, Attribution",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://www.forbes.com/councils/forbesagencycouncil/2026/05/28/marketing-mix-modeling-is-making-a-comeback-in-a-privacy-first-world/",
+      "https://theadspend.com/blog/marketing-mix-modeling-is-back"
+    ],
+    "confidence": "medium",
+    "notes": "Included despite being an old acronym because its resurgence to become the leading privacy-era measurement method is squarely within this two-year window and highly relevant to attribution-focused marketers; flagged medium confidence since it risks being seen as 'not new.'"
+  },
+  {
+    "acronym": "CGC",
+    "expansion": "Creator-Generated Content",
+    "term": "CGC (Creator-Generated Content)",
+    "what_it_is": "Content commissioned by a brand from a social media creator, blending the creator's voice with brand messaging, but explicitly owned and controlled by the brand (unlike organic UGC) for use on the brand's own channels.",
+    "why_marketers_care": "Brands are increasingly distinguishing CGC from UGC in briefs and contracts because it gives them usage rights and placement control while still keeping an authentic creator voice, and it has become a standardized line item in creator marketing budgets.",
+    "example": "Digiday's 2025 coverage of brands' growing investment specifically in creator-generated content as distinct from organic UGC.",
+    "first_seen_or_mainstream": "Became a standardized, named budget category distinct from UGC through 2025-2026 as the creator economy matured.",
+    "related_existing_terms": "UGC (User-Generated Content)",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://digiday.com/marketing/wtf-is-brands-new-investment-in-creator-generated-content/",
+      "https://adparlor.com/glossary/term/creator-generated-content/"
+    ],
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "acronym": "PETs",
+    "expansion": "Privacy Enhancing Technologies",
+    "term": "PETs (Privacy Enhancing Technologies)",
+    "what_it_is": "A category of technical tools (data clean rooms, differential privacy, secure multi-party computation, federated learning) that let advertisers and publishers share or analyze data without exposing individual-level personal information.",
+    "why_marketers_care": "With third-party cookies staying but under continued regulatory pressure and Google's Privacy Sandbox cancelled, PETs are the industry's main technical answer for privacy-safe measurement and targeting; IAB, IAB Europe, and IAB Canada all ran dedicated 2025 PETs initiatives and conference tracks.",
+    "example": "IAB Europe's Interact 2025 conference in Brussels ran a dedicated PETs track; IAB Canada published a 2025 'Age of PETs' industry infographic.",
+    "first_seen_or_mainstream": "IAB Tech Lab's PETs Working Group existed earlier, but PETs became a mainstream cross-industry advertising topic through IAB events and standards work in 2025.",
+    "related_existing_terms": "Data Clean Room, Zero-Party Data, Anonymised Data",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://thenai.org/a-primer-privacy-enhancing-technologies-pets-in-digital-advertising/",
+      "https://iabeurope.eu/privacy-innovation-in-focus-at-interact-2025-unlocking-the-power-of-pets-for-a-trusted-digital-ecosystem/"
+    ],
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "acronym": "PAIR",
+    "expansion": "Publisher Advertiser Identity Reconciliation",
+    "term": "PAIR (Publisher Advertiser Identity Reconciliation)",
+    "what_it_is": "Google's privacy-safe method (via Ad Manager and Display & Video 360) for advertisers and publishers to match their own first-party data using encrypted clean-room matching, without third-party cookies or shared user-level identifiers.",
+    "why_marketers_care": "PAIR 1.0 replaced Google's earlier Open Private Join and Activation spec as the designated standard for secure first-party data matching in January 2025, making it directly relevant for any advertiser or publisher using Google's ad stack to reach past purchasers or loyalty audiences.",
+    "example": "PAIR audiences in Display & Video 360, used to target past purchasers or prevent ads for already-purchased products.",
+    "first_seen_or_mainstream": "PAIR 1.0 Specification released January 2025, replacing the prior OPJA standard.",
+    "related_existing_terms": "Identity Graph (ID Graph), Data Clean Room, First-Party Data",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://iabtechlab.com/pair/",
+      "https://support.google.com/admanager/answer/15067908?hl=en"
+    ],
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "acronym": "AAMP",
+    "expansion": "Agentic Advertising Management Protocols",
+    "term": "AAMP (Agentic Advertising Management Protocols)",
+    "what_it_is": "IAB Tech Lab's umbrella framework, formally named February 26, 2026, that standardizes how AI agents operate across digital advertising platforms, covering areas like a Buyer Agent architecture and an Agent Registry.",
+    "why_marketers_care": "As agentic buying tools spread across ad platforms, AAMP is the industry's attempt at a shared standard so agencies and ad tech vendors do not each build incompatible agent systems; PMG and Kochava had already integrated AAMP components into their platforms within months of the naming.",
+    "example": "AAMP 3.0, which added the 'OpenProposal' specification for standardizing media-buying briefs, open for public comment through October 22, 2026.",
+    "first_seen_or_mainstream": "Formally named by IAB Tech Lab on February 26, 2026, consolidating earlier 2025 agentic-advertising standards work.",
+    "related_existing_terms": "DSP, SSP, Managed Service",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://ppc.land/iab-tech-lab-names-its-agentic-ad-initiative-aamp-to-end-market-confusion/",
+      "https://iabtechlab.com/standards/agentic-advertising-and-ai/"
+    ],
+    "confidence": "medium",
+    "notes": "Very recent (named Feb 2026); included as high-relevance but early-stage industry standard likely to keep evolving."
+  },
+  {
+    "acronym": "SLM",
+    "expansion": "Small Language Model",
+    "term": "SLM (Small Language Model)",
+    "what_it_is": "A smaller, domain-focused AI model (versus a large general-purpose LLM) that is faster, cheaper to run, and can be fine-tuned for specific tasks like customer feedback analysis or product description generation.",
+    "why_marketers_care": "Enterprises are adopting SLMs for marketing use cases needing low latency, lower cost, and data privacy, such as on-device personalization or specialized customer-service assistants, as an alternative to always calling a large frontier model.",
+    "example": "Harvard Business Review's September 2025 feature 'The Case for Using Small Language Models.'",
+    "first_seen_or_mainstream": "Became a mainstream enterprise AI topic through 2025 as an efficiency-focused counterpoint to large frontier models.",
+    "related_existing_terms": "LLM, AI Orchestrator",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://hbr.org/2025/09/the-case-for-using-small-language-models",
+      "https://www.marketsandmarkets.com/Market-Reports/small-language-model-market-4008452.html"
+    ],
+    "confidence": "medium",
+    "notes": null
+  },
+  {
+    "acronym": "DCR",
+    "expansion": "Data Clean Room",
+    "term": "DCR (Data Clean Room)",
+    "what_it_is": "A secure environment letting two or more parties (e.g., a retailer and a brand) match and analyze their data together for campaign measurement without exposing raw, individually identifiable records to each other.",
+    "why_marketers_care": "Our dictionary already lists 'Data Clean Room' spelled out (item 31); the acronym 'DCR' itself has become the default shorthand marketers and retail media teams use in day-to-day conversation, and by 2025 industry commentary was already debating whether standalone DCRs are being folded into broader 'data collaboration platforms' (DCPs).",
+    "example": "IAB Tech Lab's Data Clean Rooms Guidance standards work.",
+    "first_seen_or_mainstream": "The underlying concept predates the window, but 'DCR' became the dominant working shorthand across retail media and martech conversations through 2024-2025.",
+    "related_existing_terms": "Data Clean Room, CDP",
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://martech.zone/acronym/dcr/",
+      "https://www.appsflyer.com/blog/trends-insights/dcr-out-dcp-in/"
+    ],
+    "confidence": "medium",
+    "notes": "The spelled-out concept 'Data Clean Room' is already in the dictionary; included here specifically because the abbreviation DCR is now the default spoken/written shorthand and a related acronym, DCP (Data Collaboration Platform), is emerging as its successor."
+  },
+  {
+    "acronym": "x402",
+    "expansion": "x402 protocol (HTTP 402 payments standard)",
+    "term": "x402 (agentic payments protocol)",
+    "what_it_is": "An open standard launched by Coinbase in May 2025 that activates the long-dormant HTTP 402 'Payment Required' status code so an AI agent can authorize a stablecoin payment and receive a resource in a single HTTP round-trip, with no accounts or API keys.",
+    "why_marketers_care": "The x402 Foundation, co-founded by Coinbase and Cloudflare, now includes Google, Visa, Mastercard, American Express, and Shopify among 22 launch members, positioning x402 as a machine-to-machine payment rail that underlies parts of the emerging agentic commerce stack marketers will need to understand alongside AP2 and ACP.",
+    "example": "Google's Agentic Payments Protocol integration with x402, announced via Coinbase's developer platform.",
+    "first_seen_or_mainstream": "Launched by Coinbase in May 2025; expanded with V2 (multi-chain support) in December 2025.",
+    "related_existing_terms": "Conversational AI Commerce",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://www.coinbase.com/developer-platform/discover/launches/x402",
+      "https://www.coinbase.com/blog/coinbase-and-cloudflare-will-launch-x402-foundation"
+    ],
+    "confidence": "medium",
+    "notes": "Not a classic letter-acronym (it references an HTTP status code), but functions as one in industry usage; relevance to MEA/Turkiye marketers is currently more indirect (infrastructure-level) than AP2/ACP/UCP."
+  },
+  {
+    "acronym": "NLWeb",
+    "expansion": "Natural Language Web",
+    "term": "NLWeb (Natural Language Web)",
+    "what_it_is": "An open standard Microsoft introduced at Build 2025 that lets a website expose its own content (product catalogs, event listings) directly to AI agents and chat assistants in a machine-readable way, without agents having to crawl page by page; every NLWeb instance can also act as an MCP server.",
+    "why_marketers_care": "NLWeb is a concrete technical step brands can take to make their site 'agent-ready,' which is becoming part of the same conversation as AEO and GEO for ensuring a brand's own content (not just third-party mentions) is directly queryable by AI assistants.",
+    "example": "Microsoft's May 2025 Build conference launch of NLWeb, covered by Yoast and Microsoft's own Azure AI Foundry blog as a companion to MCP for making sites agent-ready.",
+    "first_seen_or_mainstream": "Introduced by Microsoft at Build 2025 (May 2025).",
+    "related_existing_terms": "AEO, GEO, GAIO",
+    "category_suggestion": "Technology Trends",
+    "sources": [
+      "https://www.medianama.com/2025/05/223-microsoft-nlweb-ai-chatbots-for-websites/",
+      "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/the-future-of-ai-optimize-your-site-for-agents---its-cool-to-be-a-tool/4434189"
+    ],
+    "confidence": "medium",
+    "notes": "NLWeb is technically a project/brand name rather than a strict acronym, but it does expand to 'Natural Language Web' and is used the same way as other protocol acronyms in trade coverage."
+  },
+  {
+    "acronym": "ACO",
+    "expansion": "Agentic Commerce Optimization",
+    "term": "ACO (Agentic Commerce Optimization)",
+    "what_it_is": "The practice of structuring a retailer's product feeds, structured data, and site signals so AI shopping agents can reliably discover, understand, recommend, and transact with its products, distinct from optimizing rendered pages for human shoppers.",
+    "why_marketers_care": "Early data cited by Shopify found product data quality was the strongest predictor of AI agent traffic performance, ahead of price or marketing spend, making ACO an emerging discrete discipline for e-commerce and retail marketing teams preparing for agentic shopping.",
+    "example": "Search Engine Journal's guide 'Agentic Commerce Optimization: A Technical Guide To Prepare For Google's UCP.'",
+    "first_seen_or_mainstream": "Term and glossary entries emerged through 2025-2026 alongside the rollout of ACP, AP2, and UCP.",
+    "related_existing_terms": "AEO, GEO, GAIO, Conversational AI Commerce",
+    "category_suggestion": "Retail Media",
+    "sources": [
+      "https://www.searchenginejournal.com/agentic-commerce-optimization-a-technical-guide-to-prepare-for-googles-ucp/566969/",
+      "https://www.paz.ai/glossary/agentic-commerce-optimization-aco"
+    ],
+    "confidence": "medium",
+    "notes": "Naming is not yet fully settled industry-wide; some sources use competing labels (AAIO, AOO) for closely related ideas, so treat ACO as the leading but not the only term in circulation."
+  },
+  {
+    "acronym": "AISEO",
+    "expansion": "AI Search Engine Optimization",
+    "term": "AISEO (AI SEO)",
+    "what_it_is": "An umbrella term covering any SEO practice aimed at visibility in AI-powered search surfaces (ChatGPT, Perplexity, Gemini, Google AI Mode), encompassing AEO, GEO, LLMO, and AIO as its component disciplines.",
+    "why_marketers_care": "Marketers use AISEO as shorthand when talking about the whole AI-search visibility category without having to pick between the more specific, still-competing acronyms (AEO/GEO/LLMO/AIO), which trade press explicitly describes as a confusing 'alphabet soup.'",
+    "example": "Xponent21's 'Alphabet Soup of SEO' explainer and Fractl's 'GEO Terms Explained' glossary both use AISEO/AISO as the umbrella category.",
+    "first_seen_or_mainstream": "Emerged through 2025-2026 marketing glossaries as an umbrella label once AEO, GEO, LLMO, and AIO had already proliferated.",
+    "related_existing_terms": "AEO, GEO, GAIO",
+    "category_suggestion": "Digital Marketing Acronyms",
+    "sources": [
+      "https://xponent21.com/insights/the-alphabet-soup-of-seo-what-aeo-aio-geo-and-aiseo-mean-for-your-strategy/",
+      "https://www.frac.tl/generative-engine-optimization-terms/"
+    ],
+    "confidence": "medium",
+    "notes": "Least standardized of the AI-search acronyms; some sources spell it AISO instead of AISEO. Include with that caveat."
+  }
+]

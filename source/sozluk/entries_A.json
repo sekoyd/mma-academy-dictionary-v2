@@ -1,0 +1,122 @@
+[
+ {
+  "term": "AI Empathy Illusion",
+  "folder": "AI Empathy Illusion",
+  "short_definition": "A false impression that an AI system feels genuine empathy, when it is only simulating human-like emotional responses.",
+  "long_explanation": "AI systems in customer service and content creation increasingly mimic human empathy to personalize experiences and build connection with users. Because users can come to believe the emotional bond is real, this creates ethical and trust risks for brands, including deceptive interactions and questions about how emotional data shared with the AI is handled. Marketers need to understand this illusion so they do not overstate what their AI tools can genuinely offer emotionally.",
+  "usage_context": "It shows up most in customer service and content creation, where users may believe they have formed a genuine emotional bond with an AI system and question the privacy of the emotional information they share with it.",
+  "related_terms": null,
+  "tr_equivalent": "AI Empati Yanılsaması",
+  "tr_definition": "Yapay zekanın gerçek bir empati kurmadan insan benzeri duygusal tepkiler taklit etmesiyle oluşan yanılsamadır.",
+  "blog_language": "TR/EN",
+  "notes": null
+ },
+ {
+  "term": "AI Orchestrator",
+  "folder": "AI Orchestrator",
+  "short_definition": "A person who coordinates multiple AI tools with clear instructions to run complex workflows, rather than using one AI tool alone.",
+  "long_explanation": "As using individual AI tools becomes commonplace, the differentiator shifts to who can synchronize several AI tools into a single coherent workflow, like a conductor directing an orchestra. For marketers, this means one person can move a campaign from ideation to design, analysis, and email automation in hours instead of days, and it reframes value creation around orchestration skill rather than raw tool access.",
+  "usage_context": "Example: a marketing professional uses one LLM for content, an AI illustrator for visuals, separate data tools for analysis, and another system for email automation, and combines them to build a single campaign in hours instead of days.",
+  "related_terms": null,
+  "tr_equivalent": "AI Orchestrator",
+  "tr_definition": "Birden çok yapay zeka aracını açık talimatlarla yöneterek karmaşık iş akışlarını yürüten kişidir.",
+  "blog_language": "TR/EN",
+  "notes": null
+ },
+ {
+  "term": "AI Sycophancy",
+  "folder": "AI Sycophancy",
+  "short_definition": "The tendency of AI systems, especially large language models, to give overly agreeable answers that flatter the user rather than tell the truth.",
+  "long_explanation": "AI Sycophancy occurs when an AI prioritizes pleasing the user over accuracy, which can create false confidence and lead to poor decisions. For marketers this is a trust and customer-experience risk: a chatbot that agrees with an incorrect complaint can mislead customers, and sycophantic outputs used in decision-making can produce strategic errors. The main countermeasures are explainability, prompt governance, and allowing the AI to say \"I don't know\".",
+  "usage_context": "Example: a chatbot agrees with an incorrect customer complaint instead of correcting it, and misleads the customer.",
+  "related_terms": null,
+  "tr_equivalent": "Dalkavuk YZ",
+  "tr_definition": "Yapay zekanın kullanıcıya gerçeği söylemek yerine varsayımlarını onaylayan aşırı uyumlu yanıtlar üretmesidir.",
+  "blog_language": "TR/EN",
+  "notes": null
+ },
+ {
+  "term": "AI Wrapper",
+  "folder": "AI Wrapper",
+  "short_definition": "A product that packages an existing large language model, accessed via API, behind a simple interface to deliver a specific, ready-to-use experience.",
+  "long_explanation": "Instead of building a new model, an AI Wrapper takes a foundation model like those from OpenAI or Anthropic and wraps it in a lightweight interface aimed at a narrow use case, letting small teams launch useful products quickly without large engineering budgets. Marketers can take this as proof that competitive advantage can come from packaging and user experience rather than owning the underlying model, and that the barrier to embedding AI into campaign tools, chatbots, and content workflows keeps dropping.",
+  "usage_context": "Cal AI is an app that scans food photos for calorie and macro tracking by wrapping existing models, reporting over 1 million Google Play downloads, 66,000 App Store reviews at a 4.8 rating, and founders claiming 5 million downloads and over 30% retention within 8 months, reaching 1 million dollars MRR and a claimed 34 million dollars in 2025 revenue.",
+  "related_terms": "Workflow-First AI, Supermarketer",
+  "tr_equivalent": "AI Wrapper",
+  "tr_definition": "Mevcut büyük bir yapay zeka modelini API üzerinden alıp basit bir arayüz arkasında sunan ürün yaklaşımıdır.",
+  "blog_language": "TR/EN",
+  "notes": "Turkish section describes Cal AI as a calorie/photo tracking app; the English section describes Cal AI instead as a scheduling assistant. This is a factual inconsistency in the source blog between language versions and should be checked before publishing."
+ },
+ {
+  "term": "AI-Native Consumer",
+  "folder": "AI-Native Generation",
+  "short_definition": "A consumer segment that has grown up with AI-driven experiences and relies heavily on AI assistants and recommendations in daily decisions.",
+  "long_explanation": "AI-Native Consumers trust AI assistants such as Alexa or ChatGPT, expect personalized recommendations from services like Spotify or Netflix, make data-driven purchase decisions using AI-curated comparisons and reviews, and show weaker loyalty to brands that do not offer strong AI-powered experiences. For marketers, this means personalization, voice and chatbot investment, data-driven messaging, and frictionless AI-enabled service are needed to reach and retain this segment.",
+  "usage_context": "AI-Native Consumers rely on Alexa, Google Assistant, and ChatGPT, and on AI-curated recommendations from Spotify, Netflix, and e-commerce platforms to make purchase decisions.",
+  "related_terms": null,
+  "tr_equivalent": "AI-Native Consumer (Yapay Zeka Nesli Tüketici)",
+  "tr_definition": "Yapay zeka destekli deneyimlerle büyümüş ve günlük kararlarında yapay zeka önerilerine yoğun biçimde güvenen tüketici segmentidir.",
+  "blog_language": "TR/EN",
+  "notes": "Folder name is 'AI-Native Generation' but the blog itself defines and names the term 'AI-Native Consumer', attributed to Gopi Kallayil (Google) on the MMA Global 'Decoding AI for Marketers' podcast (Ep. 11) hosted by Greg Stuart. Editor should confirm which term name to use on the site."
+ },
+ {
+  "term": "Addictive Intelligence",
+  "folder": "Addictive Intelligence",
+  "short_definition": "AI systems, such as voice assistants and chatbot companions, that are engaging and personalized enough to create compulsive user attachment.",
+  "long_explanation": "Addictive Intelligence describes AI that keeps users hooked through continuous adaptation to their preferences, offering companionship, emotional support, or entertainment so gratifying it is hard to resist. MIT Media Lab researchers warn this can produce a \"digital attachment disorder\" where users prefer AI companions to real relationships, with implications for social skills, mental health, and over-reliance on AI for decisions. For marketing, it drives growth in voice search, voice commerce, and AI-persona brand engagement, but also raises trust risks since many users say they would rather hear a TV ad than one delivered by their personal assistant.",
+  "usage_context": "Examples include Replika, an AI companionship app that began as a way to recreate conversation with a deceased friend and now serves millions of users, and Character.AI users averaging about 0.6 hours per day on the app, more time than the average spent on dating apps.",
+  "related_terms": null,
+  "tr_equivalent": "Bağımlılık Yaratan Zeka",
+  "tr_definition": "Kullanıcıyı kendisine bağımlı hale getirecek kadar çekici ve kişiselleştirilmiş yapay zeka sistemlerini tanımlayan kavramdır.",
+  "blog_language": "EN/TR",
+  "notes": "The English and Turkish sections are separately written long-form pieces (not direct translations of each other) and cite somewhat different statistics (e.g. voice assistant usage figures, Amazon/Netflix personalization percentages) not present in the other language's version; editor should verify which figures to keep and reconcile discrepancies before publishing a single entry."
+ },
+ {
+  "term": "Agentic Learner",
+  "folder": "Agentic Learner",
+  "short_definition": "An AI learning agent assigned to one user that learns from every interaction and continuously builds a personalized model of that person.",
+  "long_explanation": "Unlike traditional automation that applies fixed rules, an Agentic Learner actively experiments with message variations for each user, updates its model of that user in real time based on feedback, and optimizes the next interaction accordingly. For marketers, this shifts the job from writing one perfect message to designing the strategic dimensions and content space the system tests, and it turns marketing signals into feedback that can inform pricing, product development, and supply chain decisions.",
+  "usage_context": "Example: the same burger ad is shown with a \"high protein\" emphasis to one user and a \"sustainable production\" emphasis to another, with the agent using whichever response performs better to shape the next interaction.",
+  "related_terms": "CAP (Consortium for AI Personalization), A3 (Agentic AI Advertising), DAM (Decoding AI for Marketers)",
+  "tr_equivalent": "Ajan Öğrenici",
+  "tr_definition": "Her kullanıcı için ayrı atanan, her etkileşimden öğrenen ve zamanla o kişiye özel bir model geliştiren yapay zeka tabanlı öğrenme ajanıdır.",
+  "blog_language": "TR",
+  "notes": "Sourced to Paul Mhousen (CEO, AMP) on the 'Decoding AI for Marketing' podcast with Greg Stewart and Rex Briggs; note the podcast host's name appears as both 'Greg Stewart' and 'Greg Stuart' across MMA Dictionary blogs, editor should confirm correct spelling."
+ },
+ {
+  "term": "Aggregate Attention",
+  "folder": "Aggragate attention",
+  "short_definition": "A measurement approach that tracks the cumulative depth and duration of user engagement with a brand or content, not just single impressions or clicks.",
+  "long_explanation": "Aggregate Attention combines watch time, repeat interaction, loyalty, and contextual quality of attention into one metric, moving media measurement beyond click-through rate and impressions. For marketers, it reframes media ROI, informs decisions like whether a short ad or a longer story format earns more attention, and shifts influencer evaluation from follower counts toward the depth of engagement an influencer generates.",
+  "usage_context": "Example: deciding whether a 6-second ad is more effective than a 30-second story by comparing attention density rather than length, and of evaluating influencer collaborations by depth of engagement rather than follower count.",
+  "related_terms": null,
+  "tr_equivalent": "Aggregate Attention (Toplam Dikkat)",
+  "tr_definition": "Reklamların ve içeriklerin kümülatif olarak ne kadar dikkat çektiğini ölçen stratejik bir ölçüm yöntemidir.",
+  "blog_language": "TR/EN",
+  "notes": "Folder name typo 'Aggragate attention' corrected to 'Aggregate Attention' per instructions."
+ },
+ {
+  "term": "Archivetainment",
+  "folder": "Archivetainment",
+  "short_definition": "A content consumption trend where old shows, concerts, or ads are rediscovered and mass-consumed as entertainment on today's digital platforms.",
+  "long_explanation": "Archivetainment blends \"archive\" and \"entertainment\" to describe how nostalgic content is repackaged for modern audiences, including younger viewers who did not experience it the first time. For marketers, it opens opportunities in repurposing old campaigns as branded nostalgia, monetizing archived content on streaming or social platforms, and strengthening cultural relevance by tapping into shared collective memory.",
+  "usage_context": "The Turkish section cites Turkish examples such as reruns of the old program \"32. Gün\" and live rewatches of the 2000s series \"Avrupa Yakası\" drawing millions of views; the English section instead cites \"Friends,\" \"The Office,\" Michael Jordan's NBA finals, the 2006 FIFA World Cup, and Queen's 1985 Live Aid performance.",
+  "related_terms": null,
+  "tr_equivalent": "Archivetainment (Arşiv Eğlencesi)",
+  "tr_definition": "Geçmişe ait program, dizi, konser veya reklamların günümüz dijital platformlarında yeniden izlenerek kitlesel eğlenceye dönüşmesidir.",
+  "blog_language": "TR/EN",
+  "notes": "Turkish and English sections cite different, non-overlapping examples of archived content (Turkish local TV vs. Western pop culture); both attribute the 58% Gen Z statistic to production agency 'Organs', which the editor should verify."
+ },
+ {
+  "term": "Augmented Intelligence",
+  "folder": "Augmented Intelligence",
+  "short_definition": "A collaboration model where AI speeds up human marketers' work and data analysis while humans keep judgment, creativity, and final decisions.",
+  "long_explanation": "In this model AI does not decide or create on its own; it supports, suggests, and accelerates, while brand voice, context, and intuition remain human responsibilities. It matters because campaigns now form in hours rather than weeks, consumer behavior is more fluid, and cross-platform coordination is harder, so marketers need AI to shorten insight generation and deepen personalization without giving up final judgment.",
+  "usage_context": null,
+  "related_terms": null,
+  "tr_equivalent": "Artırılmış Zeka",
+  "tr_definition": "Yapay zekanın insan zekâsını tamamladığı, hız ve veri analizini insan sezgisi ve yaratıcılığıyla birleştiren bir iş birliği modelidir.",
+  "blog_language": "TR/EN",
+  "notes": null
+ }
+]

@@ -1,0 +1,439 @@
+[
+ {
+  "term": "MAS (Multi-Agent System)",
+  "short_definition": "An AI architecture in which multiple specialized agents, such as researcher, writer, and editor agents, coordinate under a central orchestrator to complete a full workflow.",
+  "long_explanation": "MAS describes a system where several purpose-built AI agents work together rather than one general-purpose agent handling everything. Marketing teams are adopting MAS-style setups to run full campaign lifecycles, from brief to launch, content generation, and budget management, with a dedicated agent per function. Industry analysis found that independent, non-orchestrated multi-agent systems amplified errors roughly 17 times, while centrally orchestrated MAS cut that to about 4.4 times. Orchestration design is what separates a reliable MAS from one that compounds mistakes.",
+  "usage_context": "Industry analysis cited independent (non-orchestrated) multi-agent systems amplifying errors roughly 17x versus centrally orchestrated MAS reducing that to about 4.4x.",
+  "related_terms": "AgentOps, LAM, CUA",
+  "tr_equivalent": null,
+  "tr_definition": "MAS, araştırmacı, yazar ve editör gibi uzmanlaşmış yapay zeka ajanlarının merkezi bir orkestratör altında koordine olarak tam bir iş akışını tamamladığı bir mimaridir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://santageai.com/learn/concepts/multi-agent-systems",
+   "https://thesmarketers.com/ai-agents/multi-agents/",
+   "https://ultraweblabs.com/blog/multi-agent-ai-systems-transform-marketing-in-2026/"
+  ],
+  "notes": "MAS is a decades-old computer-science term; only its marketing-orchestration application is newly mainstream. Sourcing for the marketing angle is from marketing-agency/vendor blogs rather than a top-tier analyst report, hence medium confidence. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "CAPI (Conversions API)",
+  "short_definition": "A server-to-server method for sending conversion event data directly from an advertiser's server to ad platforms, bypassing browser pixels and cookies.",
+  "long_explanation": "CAPI covers Meta's Conversions API and equivalents at Google, TikTok, and Snap. It restores signal lost to iOS privacy changes, ad blockers, and cookie restrictions by sending event data server to server instead of relying on a browser pixel. As of 2026, marketers treat CAPI as a baseline requirement rather than an advanced optimization, since it improves match rates and automated bidding accuracy. The most common setup pairs Meta CAPI with the Meta Pixel for deduplicated event matching.",
+  "usage_context": "Meta Conversions API paired with the Meta Pixel for deduplicated, more accurate event matching, as widely documented in 2026 implementation guides.",
+  "related_terms": "First-Party Data, Deterministic Matching, Attribution",
+  "tr_equivalent": null,
+  "tr_definition": "CAPI, tarayıcı tabanlı pikseli atlayarak dönüşüm verisini reklamverenin sunucusundan doğrudan reklam platformlarına gönderen bir yöntemdir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.triplewhale.com/blog/facebook-capi",
+   "https://tealium.com/blog/marketing-strategy/a-marketers-guide-to-capi-and-first-party-data/"
+  ],
+  "notes": "Not newly coined, but its status shifted from optional to mandatory baseline within the Sept 2024-Sept 2026 window, which is why marketers now treat it as a must-know acronym. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AAK (AdAttributionKit)",
+  "short_definition": "Apple's successor to SKAdNetwork for privacy-preserving mobile ad attribution, introduced at WWDC 2024 and expanded at WWDC 2025.",
+  "long_explanation": "AAK adds configurable attribution windows, native re-engagement attribution, and a developer testing mode that SKAdNetwork lacked, changing how mobile user-acquisition marketers measure iOS campaigns. Both frameworks run side by side in 2026, and Apple Search Ads now supports SKAdNetwork and AdAttributionKit together. Despite heavy trade-press coverage, real-world adoption of AAK is still small compared with legacy SKAN as of mid-2026.",
+  "usage_context": "Apple Search Ads added support for both SKAdNetwork and AdAttributionKit, per Singular's 2026 coverage.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "AAK, Apple'ın SKAdNetwork'ün yerini alan ve gizliliği koruyarak mobil reklam atfı yapan yeni çerçevesidir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://admiral.media/adattributionkit-ios-measurement-playbook/",
+   "https://www.singular.net/blog/apple-search-ads-skadnetwork-adattributionkit/",
+   "https://dataseat.com/blog/adattributionkit-vs-skadnetwork-skan"
+  ],
+  "notes": "Note per Kochava (2026): actual adoption of AAK is still negligible versus legacy SKAN as of mid-2026, despite heavy trade-press coverage. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "GPP (Global Privacy Platform / Global Privacy Protocol)",
+  "short_definition": "An IAB Tech Lab standard that transmits consent and privacy signals from sites and apps to ad tech vendors in one standardized string.",
+  "long_explanation": "GPP covers multiple regulatory regimes, including GDPR and various US state laws, in a single format that ad tech vendors can read. IAB Tech Lab renamed it Global Privacy Protocol in 2025 to make clear it is a standard rather than a product, and it now covers new US state sections including Maryland, Indiana, Kentucky, and Rhode Island. Google began supporting GPP National v2 from September 2025, which makes the standard operationally required for compliant programmatic buying.",
+  "usage_context": "Google Ad Manager's support for the IAB's Global Privacy Platform, documented by Google in its Ad Manager Help Center.",
+  "related_terms": "CMP, TCF",
+  "tr_equivalent": null,
+  "tr_definition": "GPP, onay ve gizlilik sinyallerini sitelerden ve uygulamalardan reklam teknolojisi sağlayıcılarına tek bir standart dizeyle ileten IAB Tech Lab standardıdır.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://support.google.com/admanager/answer/14117049?hl=en",
+   "https://www.prnewswire.com/news-releases/iab-tech-lab-expands-global-privacy-frameworks-with-gpp-updates-and-ddrf-v2-release-302592077.html",
+   "https://usercentrics.com/knowledge-hub/global-privacy-platform/"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "TCF 2.3 (Transparency and Consent Framework 2.3)",
+  "short_definition": "IAB Europe's updated consent-signaling standard that makes proof of vendor disclosure a mandatory, technical part of the consent string.",
+  "long_explanation": "TCF 2.3 was released on 19 June 2025 and requires the Disclosed Vendors section of the TC string, giving technical rather than only policy-based proof that vendors were disclosed to users. The migration deadline is 28 February 2026; after that date, strings built on TCF 2.2 become technically invalid. Non-compliant ad requests then default to Google's Limited Ads mode, which industry estimates say can cut programmatic revenue by 40 to 60 percent.",
+  "usage_context": "Google Ads announced TCF 2.3 compliance becomes mandatory 28 Feb 2026 for all advertisers serving ads in Europe, per Dataslayer's 2026 briefing.",
+  "related_terms": "CMP",
+  "tr_equivalent": null,
+  "tr_definition": "TCF 2.3, satıcıların kullanıcılara gerçekten bildirildiğinin teknik kanıtını onay dizesine zorunlu kılan güncellenmiş bir onay standardıdır.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://secureprivacy.ai/blog/iab-tcf-2-3",
+   "https://www.dataslayer.ai/blog/google-ads-tcf-compliance-february-2026",
+   "https://iabeurope.eu/all-you-need-to-know-about-the-transition-to-tcf-v2-3/"
+  ],
+  "notes": "TCF itself is an older framework (since 2018); it is included here specifically because version 2.3 is the newly mainstream, deadline-driven update marketers must act on in this window. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "GPC (Global Privacy Control)",
+  "short_definition": "A browser-level signal that automatically tells websites not to sell or share a visitor's personal information for targeted advertising.",
+  "long_explanation": "GPC works as a universal opt-out mechanism built into the browser rather than a setting a user configures on each site. Twelve US states require GPC compliance by 1 January 2026, including California, Colorado, and Texas, and California's CPPA voted in August 2026 to formally name GPC inside CCPA regulations. Joint enforcement sweeps began in September 2025, when Connecticut, California, and Colorado Attorneys General sent enforcement letters to businesses not honoring the signal.",
+  "usage_context": "Connecticut, California, and Colorado Attorneys General jointly sent enforcement letters in September 2025 to businesses not honoring GPC opt-out signals.",
+  "related_terms": "Zero-Party Data, Third-Party Data",
+  "tr_equivalent": null,
+  "tr_definition": "GPC, bir ziyaretçinin kişisel verisinin hedefli reklam için satılmamasını veya paylaşılmamasını web sitelerine otomatik olarak bildiren tarayıcı düzeyinde bir sinyaldir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://seresa.io/blog/global-privacy-control/global-privacy-control-2026-the-signal-that-kills-your-retargeting",
+   "https://community.trustcloud.ai/article/global-privacy-control-gpc-what-it-means-for-your-business-in-2025/"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "VLOP (Very Large Online Platform)",
+  "short_definition": "An EU Digital Services Act designation for online platforms with at least 45 million monthly active users in the EU.",
+  "long_explanation": "VLOP status subjects a platform to the strictest transparency and advertising-disclosure obligations under the DSA. Marketers running campaigns on VLOPs, meaning major social and search platforms, must meet ad-transparency and targeting-disclosure rules under Article 46 codes of conduct. DSA fines for non-compliant VLOPs can reach 6 percent of global turnover. The separate Digital Markets Act, which applies to designated gatekeepers, allows fines up to 10 percent, rising to 20 percent for repeat violations.",
+  "usage_context": "DSA Article 46 codes of conduct for online advertising require platforms displaying ads and advertisers purchasing ads on VLOPs to participate in supply-chain transparency standards.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "VLOP, AB'de en az 45 milyon aylık aktif kullanıcısı olan çevrimiçi platformlar için Dijital Hizmetler Yasası kapsamında tanımlanan bir sınıflandırmadır.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.fasken.com/en/knowledge/2025/07/an-overview-of-the-digital-markets-act-and-digital-services-act",
+   "https://dsa-library.com/article/46/"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "DSA (Digital Services Act)",
+  "short_definition": "An EU regulation setting mandatory rules for online platforms on content moderation, ad transparency, and targeted-advertising disclosure.",
+  "long_explanation": "DSA entered force in 2022-2023, but its ad-specific codes of conduct and marketer compliance activity concentrated through 2024-2025. Article 46 requires ad-supply-chain traceability, so marketers targeting EU users must follow these rules or face fines. A German advertising federation response to the EDPB's October 2025 public consultation discussed the DSA's advertising transparency requirements in detail.",
+  "usage_context": "The DSA's advertising transparency requirements were discussed in an October 2025 EDPB public consultation response from ZAW (German advertising federation).",
+  "related_terms": "VLOP, DMA",
+  "tr_equivalent": null,
+  "tr_definition": "DSA, çevrimiçi platformlar için içerik denetimi, reklam şeffaflığı ve hedefli reklam bildirimi konusunda zorunlu kurallar getiren bir AB düzenlemesidir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.edpb.europa.eu/sites/default/files/webform/public_consultation_reply/zaw-response-to-edpb-consultation-on-dsa-gdpr-guidelines_2025_10_31.pdf",
+   "https://academic.oup.com/ijlit/article/doi/10.1093/ijlit/eaaf004/8133991"
+  ],
+  "notes": "Legislation predates the window, but marketer-facing operational obligations and enforcement are newly mainstream in 2024-2025. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "DMA (Digital Markets Act)",
+  "short_definition": "An EU regulation that limits the economic power of designated gatekeeper platforms, such as restricting self-preferencing and cross-service data combination.",
+  "long_explanation": "DMA entered force in 2022-2023, and gatekeeper compliance changes affecting marketer workflows landed through 2024-2025. Gatekeeper obligations affect how marketers can target and measure on platforms like Google and Meta in the EU. Repeat violations by gatekeepers can trigger fines up to 20 percent of global turnover, which reshapes the targeting options available to marketers.",
+  "usage_context": "Fasken's July 2025 overview explains how DMA gatekeeper rules interact with DSA advertising-transparency rules for EU-facing marketers.",
+  "related_terms": "DSA, VLOP",
+  "tr_equivalent": null,
+  "tr_definition": "DMA, örneğin kendi hizmetini kayırma veya hizmetler arası veri birleştirmeyi kısıtlayarak belirlenmiş bekçi platformların ekonomik gücünü sınırlayan bir AB düzenlemesidir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.fasken.com/en/knowledge/2025/07/an-overview-of-the-digital-markets-act-and-digital-services-act",
+   "https://www.gmfus.org/news/eus-digital-markets-act-and-digital-services-act"
+  ],
+  "notes": "Legislation predates the window; included because gatekeeper-driven changes to targeting/consent options became operationally relevant to marketers in 2024-2025. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "DDRF (Data Deletion Request Framework)",
+  "short_definition": "An IAB Tech Lab standard that structures and transmits consumer data-deletion requests across the ad-tech supply chain.",
+  "long_explanation": "DDRF reduces manual handling of erasure requests between advertisers, platforms, and vendors by standardizing how a deletion request moves through the chain. The UK's Information Commissioner's Office endorsed the framework in July 2025, and IAB Tech Lab upgraded it to V2 in October 2025 alongside GPP updates. It gives marketers and their ad-tech partners an auditable way to honor deletion rights across complex programmatic supply chains.",
+  "usage_context": "IAB Tech Lab's Data Deletion Request Framework was formally recognized in the UK ICO's Online Tracking Strategy Update, per PR Newswire, July 2025.",
+  "related_terms": "GPP",
+  "tr_equivalent": null,
+  "tr_definition": "DDRF, tüketici veri silme taleplerini reklam teknolojisi tedarik zinciri boyunca yapılandırıp ileten bir IAB Tech Lab standardıdır.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.prnewswire.com/news-releases/iab-tech-labs-data-deletion-request-framework-ddrf-endorsed-by-the-uk-information-commissioners-office-302504471.html",
+   "https://www.morningstar.com/news/pr-newswire/20251023ny05013/iab-tech-lab-expands-global-privacy-frameworks-with-gpp-updates-and-ddrf-v2-release"
+  ],
+  "notes": "Still in public-comment/early-adoption stage as of late 2025; watch for broader uptake through 2026. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AU (Attention Unit)",
+  "short_definition": "A standardized attention-measurement score from 0 to 100 that combines viewability, time-in-view, interaction, and contextual signals into one predictor of ad efficacy.",
+  "long_explanation": "AU was pioneered commercially by Adelaide, and the IAB and MRC published joint Attention Measurement Guidelines in November 2025 to standardize it. Google made AU a Custom Bidding signal in DV360 from mid-2026, and Amazon DSP launched Adelaide attention segments in June 2026 with a quality floor that excludes made-for-advertising sites and low-AU placements. Attention has moved from a research metric into an active bidding and buying lever in this window.",
+  "usage_context": "Nielsen and Adelaide launched a unified reach-and-attention measurement view in 2025, per Nielsen's own newsroom release.",
+  "related_terms": "Viewability, Reach",
+  "tr_equivalent": null,
+  "tr_definition": "AU, izlenebilirlik, ekranda kalma süresi, etkileşim ve bağlam sinyallerini tek bir reklam etkinliği puanında birleştiren 0 ile 100 arası standart bir dikkat ölçüm skorudur.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.nielsen.com/news-center/2025/nielsen-and-adelaide-launch-the-industrys-first-unified-view-of-reach-and-media-attention/",
+   "https://www.emarketer.com/industry-kpis/attention-metric-au",
+   "https://www.prado.co/post/measuring-what-matters-how-attention-units-au-are-transforming-digital-advertising"
+  ],
+  "notes": "Fact-checked 2026-09-23."
+ },
+ {
+  "term": "ACR (Automatic Content Recognition)",
+  "short_definition": "Smart-TV technology that identifies exactly what content a viewer is watching, generating data used for CTV and linear TV ad targeting.",
+  "long_explanation": "ACR has been used since around 2015, but its role as a core, marketer-facing building block for CTV measurement stacks intensified through 2024-2026 as CTV ad spend grew. It lets marketers de-duplicate CTV and linear TV exposure and target based on actual viewing behavior. Viant's advertiser guide explains how the resulting data supports cross-screen targeting and de-duplication.",
+  "usage_context": "Viant's advertiser guide explains how TV ACR data is used for cross-screen targeting and de-duplication.",
+  "related_terms": "Connected TV (CTV) for Retail Media, Viewability",
+  "tr_equivalent": null,
+  "tr_definition": "ACR, bir izleyicinin tam olarak neyi izlediğini tanıyan ve bu veriyi CTV ile doğrusal TV reklam hedeflemesinde kullanılan akıllı TV teknolojisidir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.viantinc.com/insights/blog/what-every-advertiser-needs-to-know-about-tv-acr/",
+   "https://deepintent.com/deepdive/all-about-acr-data"
+  ],
+  "notes": "Technology predates the window; flagged because its marketer-facing prominence in CTV buying/measurement stacks is a 2024-2026 development. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "İYS (İleti Yönetim Sistemi)",
+  "short_definition": "Turkey's national database where businesses store and manage consumer consents for commercial electronic messages such as SMS, email, and calls.",
+  "long_explanation": "İYS operates separately from, and alongside, KVKK consent for processing personal data. The system was established under Turkey's e-commerce law between roughly 2015 and 2020. Since 31 March 2025, approval and rejection operations can only be carried out through Official İYS Integrators, which tightens compliance requirements for CRM and lifecycle marketing teams. Turkish marketers must obtain İYS approval before sending any commercial message, on top of KVKK consent.",
+  "usage_context": "DSR Belgelendirme's 2026 guide documents current İYS application steps via MERSİS number and e-signature.",
+  "related_terms": null,
+  "tr_equivalent": "İleti Yönetim Sistemi",
+  "tr_definition": "İYS, işletmelerin SMS, e-posta ve arama gibi ticari elektronik iletiler için tüketici onaylarını sakladığı ve yönettiği ulusal bir veri tabanı sistemidir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://dsrbelgelendirme.com.tr/ileti-yonetim-sistemi-iys-nedir-2026-guncel-uygulama-rehberi/",
+   "https://www.gunespartners.com/makale/iys-nedir"
+  ],
+  "notes": "System itself predates the window; included because operational rule changes (Integrator-only approvals, 2026 penalties) are newly relevant to Turkish marketers in this period. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AI Max (AI Max for Search)",
+  "short_definition": "A Google Ads Search campaign feature that combines broad-match query matching, AI-generated headline and description customization, and Final URL Expansion.",
+  "long_explanation": "AI Max launched in 2025 after an earlier private beta called Search Max, and rolled out fully by the third quarter of that year. It expanded into Dynamic Search Ads upgrades through 2026. Google's own data reports roughly 14 percent more conversions at a similar cost per acquisition, which is why PPC marketers now need to know the term when planning Search budgets.",
+  "usage_context": "Google's own blog post 'Unlock next-level performance with AI Max for Search campaigns' documents the feature's rollout.",
+  "related_terms": "SEM (Search Engine Marketing)",
+  "tr_equivalent": null,
+  "tr_definition": "AI Max, geniş eşlemeli sorgu eşleştirmeyi, yapay zeka ile oluşturulan başlık ve açıklama uyarlamasını ve Final URL Expansion'ı birleştiren bir Google Ads Arama kampanyası özelliğidir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://blog.google/products/ads-commerce/google-ai-max-for-search-campaigns/",
+   "https://support.google.com/google-ads/answer/15910366?hl=en",
+   "https://searchengineland.com/ai-max-for-search-everything-you-need-to-know-462923"
+  ],
+  "notes": "Not a classic acronym (it's a product name), included as a short acronym-style term per task scope. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "MFA (Made-for-Advertising)",
+  "short_definition": "Low-quality websites built mainly to generate ad impressions through paid or clickbait traffic rather than to offer genuine editorial value.",
+  "long_explanation": "No single industry-agreed definition of MFA exists, and the term intensified from 2023, when GroupM began excluding such sites from programmatic buys. Major buyers now maintain exclusion lists, and attention-scoring vendors such as Adelaide build MFA-exclusion quality floors directly into DSP segments as of 2026. MFA avoidance has become a standard line item in media plans as a result.",
+  "usage_context": "Digiday's oral history 'MFA should stand for made-for-arbitrage' traces the industry debate over the term's definition.",
+  "related_terms": "Ad Inventory, Inventory Yield",
+  "tr_equivalent": null,
+  "tr_definition": "MFA, gerçek editoryal değer sunmak yerine ücretli veya tıklama tuzağı trafiğiyle reklam gösterimi üretmek için kurulan düşük kaliteli web siteleridir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://digiday.com/media/mfa-should-stand-for-made-for-arbitrage-an-oral-history-of-the-murky-made-for-advertising-crusade/",
+   "https://www.adexchanger.com/the-big-story/mfa-the-a-is-for-arbitrage-and-adalytics/"
+  ],
+  "notes": "Origin of the term predates Sept 2024, but industry-wide operationalization (exclusion lists, quality floors) is concentrated in 2024-2026; borderline inclusion. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "PPA (Privacy-Preserving Attribution)",
+  "short_definition": "A browser-based, cookieless attribution proposal that uses differential privacy and secure aggregation to measure ad effectiveness without tracking individuals.",
+  "long_explanation": "PPA originated with Meta and Mozilla and is now a draft under the W3C Private Advertising Technology Working Group. It is one of several competing post-cookie measurement standards, alongside Google's Attribution Reporting API and Apple's Private Ads Measurement. The W3C published a First Public Working Draft in late 2025, signaling where cross-browser privacy-safe attribution standards may converge. A Firefox implementation was tested and later removed, so real-world adoption remains very low despite the standards-track progress.",
+  "usage_context": "Mozilla's blog 'Privacy Preserving Attribution for Advertising' documents the original Meta/Mozilla proposal and its evolution into a W3C standard.",
+  "related_terms": "PETs",
+  "tr_equivalent": null,
+  "tr_definition": "PPA, bireyleri izlemeden reklam etkinliğini ölçmek için diferansiyel gizlilik ve güvenli toplulaştırma kullanan, tarayıcı tabanlı ve çerezsiz bir atıf önerisidir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://blog.mozilla.org/netpolicy/2024/08/22/ppa-update/",
+   "https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"
+  ],
+  "notes": "Experimental; a Firefox implementation was tested and later removed, so real-world adoption is very low despite standards-track progress. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "CMN (Commerce Media Network)",
+  "short_definition": "An advertising network run by a company with first-party shopper or transaction data, such as a retailer or marketplace, that sells ad space to brands; the term extends the retail media idea beyond the largest retailers.",
+  "long_explanation": "CMN widens the retail media network model beyond players like Amazon and Walmart to other retailers and marketplaces that hold direct shopper data. The term circulated among ad tech vendors from around 2023 and became common in marketer trade press in 2025-2026. Marketers now evaluate a wider set of CMN partners as first-party-data ad inventory, and financial platforms run a related variant, FMN.",
+  "usage_context": "A Forbes Agency Council article (April 2026), \"Commerce Media Networks: The Next Frontier In Brand Advertising,\" describes CMNs as retailer and e-commerce platforms such as Amazon, Walmart, Target and Instacart that sell ads based on direct shopper data.",
+  "related_terms": "Retail Media Network (RMN), Retail Media Platform (RMP), Commerce Media, First-Party Data",
+  "tr_equivalent": null,
+  "tr_definition": "CMN, perakendeci veya pazaryeri gibi birinci taraf alışverişçi verisine sahip bir şirketin markalara reklam alanı sattığı ticaret medyası ağıdır; retail media fikrini en büyük perakendecilerin ötesine taşır.",
+  "category": "Retail Media",
+  "sources": [
+   "https://www.forbes.com/councils/forbesagencycouncil/2026/04/30/commerce-media-networks-the-next-frontier-in-brand-advertising/",
+   "https://agilebrandguide.com/wiki/agentic-commerce/commerce-media-network-cmn/",
+   "https://www.emarketer.com/chart/c/359035"
+  ],
+  "notes": "No em-dashes used. Distinguish from RMN/RMP already in dictionary; CMN is the broader umbrella term. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "FMN (Financial Media Network)",
+  "short_definition": "A commerce media network built by a bank, card network, payment platform, or fintech that monetizes its transaction-level consumer data by selling advertising to brands.",
+  "long_explanation": "FMN became a distinct, named category in trade press through 2025, with eMarketer publishing a dedicated explainer and forecast. It gives advertisers access to purchase-behavior data that can be richer than retailer data, including income signals and cross-category spend. eMarketer projects FMN ad spend growing at roughly 107 percent CAGR in the US from 2024 to 2026, and Mastercard Commerce Media launched on 1 October 2025 citing reach across more than 160 billion transactions processed in 2024.",
+  "usage_context": "Mastercard Commerce Media launched on 1 October 2025, citing reach across more than 160 billion transactions processed in 2024 and 500 million enrolled consumers (Digiday, eMarketer coverage).",
+  "related_terms": "Commerce Media, Retail Media Network (RMN), First-Party Data, Data Clean Room",
+  "tr_equivalent": null,
+  "tr_definition": "FMN, bir banka, kart ağı, ödeme platformu veya fintekin işlem düzeyindeki tüketici verisini markalara reklam satarak gelire dönüştürdüğü bir ticaret medyası ağıdır.",
+  "category": "Retail Media",
+  "sources": [
+   "https://www.emarketer.com/content/financial-media-networks-forecast-2025",
+   "https://digiday.com/marketing/wtf-is-a-financial-media-network/",
+   "https://www.emarketer.com/content/financial-media-networks-explainer"
+  ],
+  "notes": "Directly answers the brief's request for commerce media acronyms beyond RMN/RMP. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "GPM (GMV Per Mille)",
+  "short_definition": "A TikTok Shop live-commerce metric that measures total sales value generated per 1,000 livestream views.",
+  "long_explanation": "GPM works as TikTok's equivalent of CPM, but it measures sales output rather than ad cost. It became standard shorthand among TikTok Shop sellers and agencies through 2024-2025 as TikTok Shop LIVE commerce scaled in the US and Southeast Asia. Sellers and agencies use it to judge whether a livestream is actually converting, and TikTok's algorithm uses GPM signals to decide how much extra reach to give a session. Benchmark ranges cited by TikTok Shop analytics guides run roughly $80 to $250 GPM for most consumer categories, and $300 or more for beauty.",
+  "usage_context": "TikTok Shop Seller Academy course \"GPM Video Guide\" and multiple TikTok Shop analytics guides cite benchmark ranges of roughly $80-250 GPM for most consumer categories, $300+ for beauty.",
+  "related_terms": "GMV Max, Cost Per Mille (CPM), Smart Carts / Smart Trolleys",
+  "tr_equivalent": null,
+  "tr_definition": "GPM, TikTok Shop canlı yayınlarında her 1000 izlenme başına üretilen toplam satış değerini ölçen bir metriktir.",
+  "category": "Retail Media",
+  "sources": [
+   "https://www.dashboardly.io/post/track-tiktok-shop-performance",
+   "https://www.superfiliate.com/field-guide/chapter/tiktok-shop-performance-metrics",
+   "https://seller-my.tiktok.com/university/course?learning_id=3349677979715330&content_id=3039716266624770&default_language=en"
+  ],
+  "notes": "TikTok Shop primary source (Seller Academy) confirms the metric exists but did not return the full definition text in the fetch; definition corroborated by two independent marketing sources. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "GTM Engineer (Go-To-Market Engineer)",
+  "short_definition": "A hybrid technical role that blends revenue operations, marketing operations, data engineering, and AI or prompt engineering to build and automate a company's marketing and sales systems.",
+  "long_explanation": "GTM Engineer covers building the systems behind enrichment, outbound, lead routing, and AI agents that power a company's marketing and sales motion. The title emerged in 2024 and went mainstream on LinkedIn and in B2B hiring through 2025-2026. ZoomInfo reports the title first appeared on Google Trends in April 2025, with GTM engineer job listings up roughly 205 percent between 2024 and 2025, and over 3,000 open LinkedIn roles by January 2026. It signals a structural shift, as technical GTM builders now sit alongside marketers in B2B organizations.",
+  "usage_context": "ZoomInfo (\"What Is GTM Engineering? The Complete 2026 Guide\") reports the title first appeared on Google Trends in April 2025, with GTM engineer job listings up roughly 205% between 2024 and 2025 and over 3,000 open LinkedIn roles by January 2026.",
+  "related_terms": "MOSTT (Marketing Organization Structure Think Tank), MATT (Marketing Attribution Think Tank)",
+  "tr_equivalent": null,
+  "tr_definition": "GTM Engineer, gelir operasyonları, pazarlama operasyonları, veri mühendisliği ve yapay zeka mühendisliğini birleştirerek bir şirketin pazarlama ve satış sistemlerini kuran ve otomatikleştiren hibrit bir teknik roldür.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://pipeline.zoominfo.com/sales/what-is-gtm-engineering",
+   "https://www.clay.com/blog/gtm-engineering",
+   "https://www.apollo.io/insights/what-does-a-gtm-engineer-do-and-why-is-the-role-emerging-now"
+  ],
+  "notes": "GTM itself is not a new acronym, but its use as a standalone role/title (GTM Engineer, GTM Engineering) is the newly mainstream unit here. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "EGC (Employee-Generated Content)",
+  "short_definition": "Organic content such as LinkedIn posts and short-form video that a company's own employees create, rather than its marketing team or paid influencers.",
+  "long_explanation": "EGC was named and tracked as a distinct content category through 2025 trade press. As user-generated content and influencer costs rise, and audiences distrust polished brand content, marketers are formalizing employee advocacy and EGC programs. Forbes and other 2025 sources argue that EGC reads as more authentic than branded content.",
+  "usage_context": "Forbes Agency Council (Feb 2025), \"The Hidden Power Of Employee-Generated Content,\" and multiple 2025 agency guides positioning EGC as a named content category alongside UGC.",
+  "related_terms": "UGC (User-Generated Content), CGC",
+  "tr_equivalent": null,
+  "tr_definition": "EGC, pazarlama ekibi veya ücretli içerik üreticileri yerine bir şirketin kendi çalışanlarının oluşturduğu LinkedIn gönderileri ve kısa video gibi organik içeriktir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://www.forbes.com/councils/forbesagencycouncil/2025/02/20/the-hidden-power-of-employee-generated-content/",
+   "https://metricool.com/employee-generated-content/",
+   "https://dsmn8.com/blog/what-is-employee-generated-content/"
+  ],
+  "notes": "CGC already exists in dictionary (likely Creator-Generated Content); EGC is distinct (employees, not creators). Fact-checked 2026-09-23."
+ },
+ {
+  "term": "CGO (Chief Growth Officer)",
+  "short_definition": "A C-suite role that owns growth across the funnel, acquisition, conversion, and retention, by combining marketing, product, and data functions.",
+  "long_explanation": "CGO is distinct from a CMO, who focuses on brand and demand, and a CRO, who focuses on near-term revenue execution. Adoption accelerated markedly in 2024-2025, and secondary sources citing a Gartner report state nearly 40 percent of Fortune 500 companies now have a CGO, up from about 15 percent two years earlier. It reshapes marketing org charts, since in many companies the CMO now reports into, or is replaced by, a CGO.",
+  "usage_context": "Cowen Partners, \"All About Chief Growth Officers (CGOs)\"; multiple 2025 executive-search articles document CGO appointments replacing or absorbing CMO scope.",
+  "related_terms": "CAIO",
+  "tr_equivalent": null,
+  "tr_definition": "CGO, pazarlama, ürün ve veri fonksiyonlarını birleştirerek edinim, dönüşüm ve elde tutma dahil tüm huniden sorumlu bir üst düzey yönetim roludür.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://cowenpartners.com/all-you-need-to-know-about-a-chief-growth-officer/",
+   "https://www.influencers-time.com/the-role-of-chief-growth-officer-in-2025-business-strategy/",
+   "https://www.revenueoperationsalliance.com/chief-growth-officer-vs-chief-revenue-officer-whats-the-difference/"
+  ],
+  "notes": "The 40%/15% Gartner figure is cited by secondary sources, not verified against a primary Gartner document; treat the precise numbers as reported-not-confirmed. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "RevOps (Revenue Operations)",
+  "short_definition": "A unified operations function that aligns marketing, sales, and customer success processes, data, and systems around shared revenue goals.",
+  "long_explanation": "RevOps replaces siloed MarketingOps, SalesOps, and CS Ops teams with one function. The term was coined around 2019-2021 but crossed into majority adoption and routine marketing-org vocabulary in 2024-2025. Secondary reporting citing 2025 data states 60.2 percent of companies now have an officially defined RevOps function, up from about 7 percent a year earlier, which directly changes who marketing reports to and how marketing gets measured.",
+  "usage_context": "Gartner's original 2021 prediction (75% of high-growth companies deploying RevOps by 2025/2026) is now widely cited as having materially played out, per multiple 2025 RevOps trend reports.",
+  "related_terms": "ROEX (Return on Omnichannel Experience)",
+  "tr_equivalent": null,
+  "tr_definition": "RevOps, pazarlama, satış ve müşteri başarısı süreçlerini, verilerini ve sistemlerini ortak gelir hedefleri etrafında birleştiren tek bir operasyon fonksiyonudur.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.gartner.com/en/newsroom/press-releases/2021-05-17-gartner-predicts-75--of-the-highest-growth-companies-",
+   "https://www.cetdigit.com/blog/future-of-revops-2025-trends-to-watch-cetdigit",
+   "https://www.outreach.ai/resources/blog/revenue-operations"
+  ],
+  "notes": "The 7%-to-60.2% adoption jump is reported by a secondary source (CETDIGIT/other blogs), not a primary Gartner or research-firm publication; flagged as reported-not-independently-confirmed. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "CSRD (Corporate Sustainability Reporting Directive)",
+  "short_definition": "An EU directive that requires large companies to publish detailed, audited sustainability data, which in turn pushes marketing teams to back environmental claims with evidence.",
+  "long_explanation": "CSRD was adopted in 2022, and its reporting obligations began phasing in from 2024, which pushed marketing and communications teams to back sustainability claims with audit-ready data. In 2025-2026 the EU's Omnibus simplification narrowed its scope to companies with more than 1,000 employees and over 450 million euros in turnover, and exempted listed SMEs. Separate anti-greenwashing rules, such as the UK's Green Claims Code, also constrain what brands can say in sustainability advertising.",
+  "usage_context": "KPMG Ireland, \"Top Sustainability Themes\" briefings and multiple 2025 marketing-compliance guides tie CSRD directly to what brands can claim in advertising.",
+  "related_terms": null,
+  "tr_equivalent": null,
+  "tr_definition": "CSRD, büyük şirketlerin ayrıntılı ve denetlenmiş sürdürülebilirlik verisi yayınlamasını zorunlu kılan ve bu yolla pazarlama ekiplerini çevresel iddialarını kanıtla desteklemeye iten bir AB direktifidir.",
+  "category": "Digital Marketing Acronyms",
+  "sources": [
+   "https://ecoskills.academy/europes-recalibration-on-sustainability-csrd/",
+   "https://www.influencers-time.com/sustainable-marketing-navigating-2025-green-claim-regulations/",
+   "https://driftime.com/latest/upcoming-greenwashing-regulations-every-brand-should-monitor-in-2026",
+   "https://www.gibsondunn.com/eu-omnibus-simplification-update-long-awaited-eu-deal-paves-the-way-for-simplified-sustainability-rules/"
+  ],
+  "notes": "Directive predates the window (adopted 2022) but its marketer-facing enforcement/compliance mainstreaming is squarely 2024-2026. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "AMC (Amazon Marketing Cloud)",
+  "short_definition": "Amazon's privacy-safe data clean room where advertisers analyze ad performance, build audience segments, and track customer journeys using Amazon and their own data.",
+  "long_explanation": "AMC launched in 2021, but its access expansion in 2025 made it broadly mainstream for mid-market marketers. Amazon opened AMC access that year to any advertiser running Sponsored Products, Sponsored Display, Sponsored Brands, or Sponsored TV, without requiring a DSP relationship or separate registration. That change sharply widened who can use clean-room measurement inside Amazon's ecosystem.",
+  "usage_context": "Adweek, \"Any Seller Buying Sponsored Product Ads on Amazon Can Now Use Amazon's Clean Room\" (2025).",
+  "related_terms": "Data Clean Room, Sponsored Products, Sponsored Display, Sponsored Brands",
+  "tr_equivalent": null,
+  "tr_definition": "AMC, reklamverenlerin Amazon'a ait ve kendi verilerini kullanarak reklam performansını analiz ettiği, kitle segmentleri oluşturduğu gizlilik dostu bir veri odasıdır.",
+  "category": "Retail Media",
+  "sources": [
+   "https://www.adweek.com/commerce/any-seller-buying-sponsored-product-ads-on-amazon-can-now-use-amazons-clean-room/",
+   "https://www.marketingdive.com/news/amazon-grants-marketing-cloud-access-to-any-sponsored-ad-campaigns/760678/",
+   "https://www.retaildive.com/news/amazon-unboxed-advertising-data-clean-room-ai-image-generator/697919/"
+  ],
+  "notes": "Product itself predates the window (2021); flagged because the acronym's mainstream reach among marketers is the 2025 access expansion, not the product launch. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "KOL (Key Opinion Leader)",
+  "short_definition": "An influencer with recognized authority in a category, such as beauty, tech, or lifestyle, distinguished from a KOC, an everyday user whose reviews read as authentic.",
+  "long_explanation": "KOL terminology originated in medical and scientific fields and is long established in Chinese social commerce platforms such as Xiaohongshu and Douyin. It is now crossing into Western marketing vocabulary as TikTok Shop and cross-border commerce push agencies and brands outside China to adopt the same tiered creator strategy, using KOLs for reach and KOCs for social proof. This is directly relevant to Turkiye and MEA marketers running cross-border TikTok Shop campaigns.",
+  "usage_context": "Reacherapp and multiple TikTok Shop growth guides explicitly frame \"KOL\" as the term Western brands scaling on TikTok Shop need to learn, importing it from the China playbook.",
+  "related_terms": "KOC (Key Opinion Consumer)",
+  "tr_equivalent": null,
+  "tr_definition": "KOL, bir kategoride tanınmış otoriteye sahip bir influencer'dır ve incelemeleri daha samimi görünen sıradan bir kullanıcı olan KOC'tan ayrılır.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.reacherapp.com/blog/what-does-kol-stand-for-essential-marketing-guide",
+   "https://wpic.co/blog/mastering-kol-koc-influencer-marketing-china/",
+   "https://www.arfadia.com/glossary/key-opinion-leader-kol"
+  ],
+  "notes": "KOC already exists in the dictionary as \"Key Opinion Consumer\" (#257); KOL is its natural, closely related, and currently missing counterpart term. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "CPAS (Collaborative Ads)",
+  "short_definition": "Meta's ad product, publicly rebranded Collaborative Ads, that lets a brand and a retail or marketplace partner co-run Facebook and Instagram ads using the retailer's catalog and audience data.",
+  "long_explanation": "CPAS directs ad clicks to the retailer's own product pages rather than the brand's site. The product launched around 2019-2020 but expanded materially into quick-commerce and additional regional marketplace partnerships in 2025. It acts as a direct bridge between social advertising and commerce or retail media, and its retailer network keeps growing into markets relevant to Turkiye and MEA; Trendyol lists CPAS as one of its four core ad models.",
+  "usage_context": "Meta, \"How Meta's Collaborative Ads Are Fueling Quick Commerce Boom In India\" (about.fb.com, December 2025); Trendyol seller guides list CPAS (Facebook/Instagram) alongside product and store ads as a core advertising model.",
+  "related_terms": "Marketplace, Sponsored Products",
+  "tr_equivalent": null,
+  "tr_definition": "CPAS, bir markanın perakende veya pazaryeri ortağıyla, ortağın katalogunu ve kitle verisini kullanarak Facebook ve Instagram reklamlarını birlikte yürütmesini sağlayan Meta reklam ürünüdür.",
+  "category": "Retail Media",
+  "sources": [
+   "https://about.fb.com/news/2025/12/how-metas-collaborative-ads-are-fueling-quick-commerce-boom-in-india/",
+   "https://cmlabs.co/en/blog/meta-cpas",
+   "https://www.dopigo.com/trendyolda-reklam-nasil-verilir/"
+  ],
+  "notes": "Product predates the window; included because its retailer footprint and marketer relevance (including Trendyol in the Turkiye market) expanded materially within 2024-2026. Fact-checked 2026-09-23."
+ },
+ {
+  "term": "RMaaS (Retail Media as a Service)",
+  "short_definition": "A managed, modular technology and services model that lets a retailer launch a full retail media business, including ad serving, campaign management, and reporting, without building it in-house.",
+  "long_explanation": "RMaaS is a label that vendors began using in 2024-2025; as of 2026 it is documented mainly by vendor announcements rather than independent trade coverage. The model targets mid-size and regional retailers, including those in Türkiye and MEA, that want to launch a retail media network without building the technology themselves. Marketers evaluating new retail media partners may see it used to describe fully managed setups.",
+  "usage_context": "Adhese, \"Adhese launches Retail Media as a Service (RMaaS), strengthening leadership team with two key hires\" (2025).",
+  "related_terms": "Retail Media Network (RMN), Self-Service Platform, Managed Service",
+  "tr_equivalent": null,
+  "tr_definition": "RMaaS, bir perakendecinin reklam sunumu, kampanya yönetimi ve raporlamayı kendi bünyesinde kurmadan tam bir ticaret medyası işi başlatmasını sağlayan yönetilen ve modüler bir hizmet modelidir.",
+  "category": "Retail Media",
+  "sources": [
+   "https://adhese.eu/article/adhese-launches-retail-media-as-a-service-rmaas-strengthening-leadership-team-with-two-key-hires/"
+  ],
+  "notes": "Weakest-sourced item in this set: primarily documented via one vendor's own announcement (Adhese) plus a competing RMAAS.net product name; not yet confirmed as an industry-standard term via independent trade press (Digiday/eMarketer searches did not surface independent RMaaS coverage). Flag for editor to verify with a second independent source before publishing, or downgrade to notes-only. Fact-checked 2026-09-23."
+ }
+]

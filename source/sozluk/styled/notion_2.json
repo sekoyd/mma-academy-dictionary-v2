@@ -1,0 +1,452 @@
+[
+ {
+  "notion_title": "AI Washing",
+  "term": "AI Washing",
+  "short_definition": "The practice of exaggerating or falsely claiming a product's or company's use of artificial intelligence to appear more innovative than it actually is.",
+  "long_explanation": "AI washing describes marketing and investor communications that overstate a company's actual AI capabilities, similar to how greenwashing overstates environmental credentials. US regulators, including the SEC, adopted the term around 2023-2024 after bringing enforcement actions against firms that misrepresented their AI use to investors. Marketers face real exposure here: describing ordinary automation or rules-based software as AI-powered, without substance behind the claim, creates legal and reputational risk.",
+  "usage_context": "In 2024 the SEC settled its first AI washing charges against investment advisers Delphia and Global Predictions for making false claims about their use of artificial intelligence in client materials.",
+  "related_terms": "Greenwashing, AI Hype, Ethical AI Marketing",
+  "tr_equivalent": null,
+  "tr_definition": "Bir şirketin ya da ürünün yapay zeka kullanımını gerçekte olduğundan daha ileri düzeyde göstererek abartılı veya yanıltıcı iddialarda bulunmasıdır.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.hklaw.com/en/insights/publications/2024/04/beyond-the-hype-the-secs-intensified-focus-on-ai-washing-practices",
+   "https://builtin.com/artificial-intelligence/ai-washing"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Etkili İyilik - Efective Alturism",
+  "term": "Effective Altruism",
+  "short_definition": "A philosophical and social movement that uses evidence and reasoning to determine the most effective ways to help others and allocate resources.",
+  "long_explanation": "Effective altruism emerged in the early 2010s, associated with philosophers William MacAskill and Toby Ord at Oxford and influenced by Peter Singer's writing on global poverty and ethics. It asks donors, volunteers, and organizations to prioritize actions by measurable impact per dollar or hour rather than by emotional appeal alone. Brands running cause campaigns or CSR programs feel this shift already: audiences, especially younger and more skeptical consumers, increasingly expect proof of measurable impact rather than feel-good messaging.",
+  "usage_context": "Effective altruism principles influenced the founding of GiveWell, a nonprofit that evaluates charities by cost-effectiveness so donors can direct money to the highest-impact causes.",
+  "related_terms": "Corporate Social Responsibility, Impact Measurement, Cause Marketing",
+  "tr_equivalent": "Etkili İyilik",
+  "tr_definition": "Kaynakların ve yardımın en somut ve ölçülebilir faydayı sağlayacak şekilde, kanıta dayalı olarak yönlendirilmesini savunan felsefi ve toplumsal harekettir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "FOMA",
+  "term": "FOMA (Fear Of Missing AI)",
+  "short_definition": "The anxiety that individuals or organizations feel about falling behind if they do not quickly adopt artificial intelligence tools.",
+  "long_explanation": "FOMA is a recent coinage that plays on the older FOMO (fear of missing out), applied specifically to pressure around AI adoption. It surfaced in marketing and workplace commentary as generative AI tools spread rapidly after 2023, and has since been studied by academics examining workplace anxiety about AI skill gaps and job security, sometimes labeled AI FOMO in that research. FOMA matters to marketers in two ways: it explains why clients and leadership push for AI-labeled products even without a clear use case, and it is itself a psychological trigger that some AI vendors intentionally use in their own marketing.",
+  "usage_context": "Recent workplace research on AI FOMO identifies distinct anxiety dimensions, including fear of skill obsolescence and fear of being excluded from AI-driven decisions, that echo the FOMA framing used in marketing commentary.",
+  "related_terms": "FOMO, AI Washing, Digital Anxiety",
+  "tr_equivalent": null,
+  "tr_definition": "Yapay zekayı hızla benimsemeyen kişi veya kurumların geride kalma korkusunu ifade eden bir terimdir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.linkedin.com/posts/jon4growth_foma-noun-fear-of-missing-ai-activity-7440140436066922496-yupI",
+   "https://www.sciencedirect.com/science/article/abs/pii/S0160791X25002428"
+  ],
+  "notes": "FOMA is an emerging, informally used term rather than a fully standardized one; some sources use AI FOMO instead. Confirm which spelling and usage the owner intends. Fact-check 2026-09-23: the LinkedIn source could not be confirmed by automated fetch; check it in a browser."
+ },
+ {
+  "notion_title": "The Fourth Industrial Revolution",
+  "term": "The Fourth Industrial Revolution",
+  "short_definition": "The current era of technological change in which digital, physical, and biological systems are merging through AI, robotics, and connected devices.",
+  "long_explanation": "The term was coined by Klaus Schwab, founder of the World Economic Forum, who introduced it at the 2016 Davos meeting and expanded on it in a book of the same name. It builds on the historical framing of three prior industrial revolutions, steam and mechanization, electricity and mass production, electronics and computing, to describe today's convergence of AI, IoT, biotechnology, and automation. The concept matters to marketing teams because it frames how consumer behavior, supply chains, and media consumption are being reshaped simultaneously by multiple overlapping technologies rather than by a single innovation.",
+  "usage_context": "Klaus Schwab used the World Economic Forum's annual Davos meeting to popularize the term, arguing it would change not only what people do but who they are.",
+  "related_terms": "Industry 4.0, Digital Transformation, Technological Convergence",
+  "tr_equivalent": "Dördüncü Sanayi Devrimi",
+  "tr_definition": "Yapay zeka, robotik ve bağlantılı cihazların dijital, fiziksel ve biyolojik sistemleri birleştirdiği günümüz teknolojik dönüşüm çağını tanımlayan terimdir.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.weforum.org/stories/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/",
+   "https://www.britannica.com/event/The-Fourth-Industrial-Revolution-2119734"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Uberisation",
+  "term": "Uberisation",
+  "short_definition": "The disruption of a traditional service industry by digital platforms that connect customers and providers directly, bypassing established intermediaries.",
+  "long_explanation": "The term derives from Uber, whose app-based, on-demand ride-hailing model became shorthand for a broader pattern: digital platforms matching supply and demand in real time without the fixed schedules, ownership structures, or intermediaries of the industry they replace. The word gained particular traction in France before spreading internationally. Uberisation matters to marketers because it signals which categories are vulnerable to platform disruption and reframes competitive strategy around access and convenience rather than ownership.",
+  "usage_context": "Beyond transportation, the term is commonly applied to sectors like food delivery, freelance labor platforms, and home services, where an app-based intermediary replaces the traditional agency or storefront model.",
+  "related_terms": "Platform Economy, Gig Economy, Disintermediation",
+  "tr_equivalent": "Uberleşme",
+  "tr_definition": "Dijital platformların, müşteri ve hizmet sağlayıcıyı doğrudan buluşturarak geleneksel aracıları devre dışı bırakmasıyla bir sektörün dönüşmesini ifade eder.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.collinsdictionary.com/us/dictionary/english/uberize",
+   "https://knowledge.essec.edu/en/innovation/video-uberization-and-rise-service-economy.html"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Human Cloud / Fluid Workforce",
+  "term": "Human Cloud / Fluid Workforce",
+  "short_definition": "A model of work in which organizations source labor on demand from a global pool of independent, digitally connected workers rather than fixed employees.",
+  "long_explanation": "The term human cloud was adopted by staffing industry analysts to describe digitally enabled work arrangements covering everything from sourcing a worker to paying them. It is a subset of the broader gig economy, encompassing online staffing, crowdsourcing, and online work services. Fluid workforce is used interchangeably to describe the same shift toward flexible, project-based talent. The model changes how marketing and brand leaders staff creative, analytics, and campaign work, often blending in-house teams with distributed freelance talent sourced through platforms.",
+  "usage_context": "HR and staffing platforms such as Business Talent Group and KellyOCG market human cloud solutions that let companies tap independent professionals for discrete projects instead of hiring full-time staff.",
+  "related_terms": "Gig Economy, Platform Economy, Contingent Workforce",
+  "tr_equivalent": "Esnek İşgücü",
+  "tr_definition": "Kurumların sabit çalışanlar yerine dijital platformlar aracılığıyla talebe göre bağımsız işgücünden yararlanmasını tanımlayan bir çalışma modelidir.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://resources.businesstalentgroup.com/btg-blog/what-is-the-human-cloud",
+   "https://www.kellyocg.com/solutions/human-cloud/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "\"the between times\" - a phase where the potential of AI is recognized but not fully harnessed or understood.",
+  "term": "The Between Times",
+  "short_definition": "A transitional phase in which the potential of a new technology, such as AI, is widely recognized but not yet fully understood or put to productive use.",
+  "long_explanation": "The between times is a descriptive phrase rather than a term with a single credited coiner; it is used in technology and marketing commentary to name the awkward middle period after a breakthrough technology is announced but before organizations have built the skills, processes, and trust to use it well. Applied to AI, it captures the current moment where most companies have access to generative AI tools but have not yet redesigned workflows or measurement around them. Naming this phase helps marketers explain the gap between AI hype and AI return on investment, and it sets realistic expectations for adoption timelines.",
+  "usage_context": "The phrase is commonly used in AI strategy discussions to caution leadership against over- or under-investing in AI while the organization is still in this in-between adoption stage.",
+  "related_terms": "AI Adoption Curve, Technology Hype Cycle, FOMA",
+  "tr_equivalent": null,
+  "tr_definition": "Yeni bir teknolojinin, örneğin yapay zekanın, potansiyelinin tanınmasına rağmen henüz tam olarak anlaşılıp verimli biçimde kullanılamadığı geçiş dönemini ifade eder.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": "Given in the Notion note as a descriptive phrase rather than a term tied to a single verifiable source or coiner. Confirm with the owner what specific source or context they had in mind."
+ },
+ {
+  "notion_title": "Many-Shot Jailbreaking:",
+  "term": "Many-Shot Jailbreaking",
+  "short_definition": "An AI safety vulnerability in which attackers use long prompts filled with many example dialogues to trick a large language model into bypassing its safety guardrails.",
+  "long_explanation": "Anthropic researchers disclosed many-shot jailbreaking in 2024, showing that expanded context windows, which let models process much longer prompts, can be exploited by inserting a large number of simulated question-and-answer exchanges that gradually lead the model toward producing harmful content. The technique works because it takes advantage of in-context learning, the same ability that makes long-context models more useful for legitimate tasks. Anthropic found that hardening models through fine-tuning only increased the number of shots needed, while modifying the prompt itself was more effective at reducing the attack's success rate. The finding matters to brands deploying AI chatbots or generative tools: longer context windows widen both capability and attack surface, making safety testing essential before public deployment.",
+  "usage_context": "Anthropic disclosed the technique to other AI labs and researchers ahead of publishing its findings, and has continued researching mitigations such as classifying and limiting suspicious long-context prompts before they reach the model.",
+  "related_terms": "Prompt Injection, LLM Jailbreak, In-Context Learning, AI Safety",
+  "tr_equivalent": null,
+  "tr_definition": "Saldırganların, çok sayıda örnek diyalog içeren uzun bir istemle büyük dil modellerinin güvenlik korumalarını atlatmaya çalıştığı bir yapay zeka güvenlik açığıdır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.anthropic.com/research/many-shot-jailbreaking"
+  ],
+  "notes": "The original Notion link is a tracking/redirect URL; the source listed here is Anthropic's own canonical research page on the topic."
+ },
+ {
+  "notion_title": "GAIO - Generative AI Optimisation",
+  "term": "GAIO (Generative AI Optimization)",
+  "short_definition": "The practice of structuring and optimizing brand content so that generative AI tools and chatbots cite, reference, or recommend it in their answers.",
+  "long_explanation": "GAIO extends the logic of search engine optimization to a world where consumers increasingly get answers from AI systems like ChatGPT, Gemini, and Bing Chat instead of a list of search results. Rather than optimizing for keyword rankings and backlinks, GAIO focuses on clarity, structure, and factual consistency so AI models are more likely to surface, paraphrase, or cite a brand's content as a trustworthy source. The discipline is still emerging and terminology is not fully settled, with related labels such as AEO (Answer Engine Optimization) and GEO (Generative Engine Optimization) used by different practitioners for similar practices. Being invisible to AI answer engines increasingly means being invisible to the customer at the point of decision, which is why GAIO matters to marketers.",
+  "usage_context": "Marketing agencies now audit brand content for GAIO readiness, checking whether product pages and articles are structured clearly enough for an AI model to extract and cite accurate information rather than an outdated or third-party source.",
+  "related_terms": "SEO, AEO (Answer Engine Optimization), GEO (Generative Engine Optimization), E-E-A-T",
+  "tr_equivalent": null,
+  "tr_definition": "Marka içeriğinin, üretken yapay zeka araçları tarafından yanıtlarda alıntılanacak veya önerilecek şekilde yapılandırılması ve optimize edilmesi pratiğidir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.hotwireglobal.com/blog/what-is-generative-ai-optimization-gaio/",
+   "https://www.ionos.com/digitalguide/online-marketing/search-engine-marketing/gaio-generative-ai-optimization/"
+  ],
+  "notes": "Terminology in this space is still unsettled; some sources use AEO or GEO for overlapping practices."
+ },
+ {
+  "notion_title": "SMARTIES COACH",
+  "term": "SMARTIES Coach",
+  "short_definition": "An AI-powered mentor tool from MMA Global (Marketing + Media Alliance) that helps marketers choose categories and prepare stronger entries for the SMARTIES Awards.",
+  "long_explanation": "The SMARTIES Awards are MMA Global's awards program recognizing innovation and effectiveness in mobile and digital marketing. SMARTIES Coach is a generative AI assistant, built as a custom GPT experience, that guides entrants through selecting the right award category, explains what judges look for, shares examples from past winners, and walks users through submission requirements and deadlines. The tool lowers the barrier to crafting a competitive submission for marketers preparing award entries, and reflects MMA's own use of AI to support its member community.",
+  "usage_context": "Marketers preparing a SMARTIES entry can consult SMARTIES Coach on mmaglobal.com to get category recommendations and guidance before submitting their campaign for judging.",
+  "related_terms": "SMARTIES Awards, MMA Global, Award Submission Strategy",
+  "tr_equivalent": null,
+  "tr_definition": "MMA Global'ın SMARTIES Ödülleri için hazırladığı, katılımcılara doğru kategoriyi seçme ve başvurularını güçlendirme konusunda rehberlik eden yapay zeka destekli bir asistan aracıdır.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://mmaglobal.com/smarties-coach",
+   "https://marketingtnt.org/smarties-coach-your-ai-powered-mentor-for-the-mma-smarties-awards/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Spokeshologram",
+  "term": "Spokeshologram",
+  "short_definition": "A brand character introduced by Best Buy in 2024, a holographic spokesperson named Gram used across its advertising in the AI era.",
+  "long_explanation": "Best Buy unveiled the spokeshologram as part of a July 2024 brand refresh that included a new tagline (\"imagine that\"), an updated color palette, and a partnership with Google Cloud on generative AI features. The hologram character Gram appeared in back-to-school commercials across TV, online, and social platforms, positioning Best Buy as a destination for discovering new technology rather than just buying it. The term is notable to marketers as an example of a retailer using an invented, AI-themed mascot format to signal technological relevance without claiming the brand itself runs on AI.",
+  "usage_context": "Best Buy's spokeshologram Gram appeared in the retailer's 2024 back-to-school advertising campaign, timed to its broader brand refresh and AI-assistant partnership with Google Cloud.",
+  "related_terms": "Brand Mascot, AI Washing, Brand Refresh",
+  "tr_equivalent": null,
+  "tr_definition": "Best Buy'ın 2024 marka yenileme çalışmasında tanıttığı, Gram adlı, yapay zeka çağına gönderme yapan hologram sözcü karakteridir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.adweek.com/commerce/best-buy-refreshes-brand-for-the-age-of-ai-introducing-spokeshologram/",
+   "https://www.marketingdive.com/news/best-buy-brand-refresh-gram-spokeshologram-back-to-school/722011/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Joever",
+  "term": "Joever",
+  "short_definition": "An internet slang blend of Joe and over, originally mocking Joe Biden's political prospects, now used broadly to declare that anything is definitively finished.",
+  "long_explanation": "The word originated on 4chan in October 2020, ahead of the US presidential election, as a caption on an image of a dejected Biden, itself inspired by a 2016 Huffington Post graphic declaring IT'S OVER for Donald Trump. The meme resurfaced heavily in July 2024 when Biden withdrew from the presidential race, spreading widely across social media. Its use has since broadened well beyond politics to casual, often humorous declarations that a situation, game, or storyline has reached an irreversible end. The term is a useful marker for marketers of how quickly political memes get absorbed into general internet vocabulary and social content.",
+  "usage_context": "Following Biden's July 2024 withdrawal from the presidential race, Joever trended heavily across X and TikTok as users declared the moment definitively joever.",
+  "related_terms": "Internet Slang, Meme Culture, Political Meme",
+  "tr_equivalent": null,
+  "tr_definition": "Aslen Joe Biden'ın siyasi geleceğiyle alay etmek için türetilen, artık herhangi bir durumun kesin biçimde bittiğini ifade etmek için kullanılan internet argosu bir sözcüktür.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://knowyourmeme.com/editorials/guides/whats-the-its-joever-meme-why-does-joe-biden-look-so-sad-and-what-does-it-mean",
+   "https://www.forbes.com/sites/danidiplacido/2024/07/21/joe-bidens-its-joever-meme-explained/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Nightshade - Sanat eserlerini Yapay zekadan korumak mümkün mü?",
+  "term": "Nightshade",
+  "short_definition": "A free tool that lets artists subtly alter their digital images so that AI models trained on them produce corrupted or incorrect results, discouraging unauthorized use in AI training.",
+  "long_explanation": "Nightshade was developed by University of Chicago professor Ben Zhao and his team of PhD students, building on their earlier tool Glaze, which disrupts an AI's ability to mimic a specific artist's style. Nightshade goes further by poisoning the training data itself, making pixel-level changes invisible to the human eye that cause image-generating models such as Stable Diffusion, Midjourney, or DALL-E to misclassify the image, for example rendering a dog as a cat once a model has trained on enough poisoned samples. The goal is to give artists more negotiating power against companies scraping their work without permission or compensation. Nightshade signals a growing wave of technical resistance to unauthorized AI training on copyrighted creative work, a trend marketers in content, brand, and creative licensing are tracking closely.",
+  "usage_context": "Artists have applied Nightshade to portfolio images posted online as a way to discourage AI companies from using that work to train new image-generation models without consent.",
+  "related_terms": "Glaze, AI Training Data, Data Poisoning, Copyright and AI",
+  "tr_equivalent": null,
+  "tr_definition": "Sanatçıların dijital eserlerini, yapay zeka modelleri bu görsellerle eğitildiğinde hatalı sonuçlar üretecek şekilde ince biçimde değiştirmelerini sağlayan, izinsiz kullanımı caydırmayı amaçlayan bir araçtır.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/",
+   "https://www.fastcompany.com/91118983/nightshade-ai-artist-software-tool-copyright-university-chicago-glaze-shawn-shan"
+  ],
+  "notes": "The Notion entry contained only an embedded image, no text; definition is based on independent web research into the tool named in the title."
+ },
+ {
+  "notion_title": "Reğlence/Funvertising",
+  "term": "Funvertising",
+  "short_definition": "Advertising that emphasizes playfulness, humor, and entertainment value as its primary way of engaging an audience, rather than direct persuasion.",
+  "long_explanation": "Funvertising is an informal blend of fun and advertising, closely related to the more established concept of advertainment (advertising plus entertainment). It is not a term with a single credited coiner or a formal academic definition; it is used across agencies and campaigns to describe work built around jokes, games, or playful brand characters rather than conventional product claims. The underlying idea matters to marketers because entertaining content earns attention and sharing in ways that straightforward sales messaging often does not, particularly on social platforms.",
+  "usage_context": "Agencies describing their own style as funvertising typically point to campaigns built around comedic sketches, playful mascots, or interactive games rather than direct product messaging.",
+  "related_terms": "Advertainment, Branded Entertainment, Native Advertising",
+  "tr_equivalent": "Reğlence",
+  "tr_definition": "\"Reklam\" ve \"eğlence\" kelimelerinin birleşiminden türeyen, doğrudan satış mesajı yerine mizah ve eğlence unsuruyla izleyiciyi etkilemeyi amaçlayan reklamcılık yaklaşımıdır.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": "Funvertising is an informal blend term without a single standardized industry definition; treated here as descriptive rather than a formally coined concept. The Notion entry contained only an embedded image, no text."
+ },
+ {
+  "notion_title": "#CoffeeTok",
+  "term": "#CoffeeTok",
+  "short_definition": "A TikTok community and hashtag built around home coffee-making content, recipes, and product recommendations, especially popular with Gen Z.",
+  "long_explanation": "CoffeeTok has accumulated well over a million posts on TikTok and functions as a hub for DIY coffee tutorials, creative drink recipes, and my coffee order style videos. Its growth accelerated as rising coffee shop prices pushed more consumers, especially younger ones, to recreate cafe-style drinks at home. Research from Mintel found a large share of Gen Z consumers learn about coffee trends specifically through TikTok. The trend shows food, beverage, and CPG marketers how a hashtag community can shift real purchasing behavior toward at-home preparation and specific ingredient or equipment choices that go viral.",
+  "usage_context": "Coffee and dairy brands have used CoffeeTok trends, such as viral cloud coffee or flavored creamer recipes, to drive retail sales of specific products featured in creator videos.",
+  "related_terms": "TikTok Trend, Creator Economy, Food and Beverage Marketing",
+  "tr_equivalent": null,
+  "tr_definition": "Evde kahve yapımı, tarifler ve ürün önerileri etrafında şekillenen, özellikle Z kuşağı arasında popüler olan bir TikTok hashtag topluluğudur.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://coffeetalk.com/daily-dose/for-roasters-retailers/09-2026/110963/",
+   "https://sprudge.com/the-latest-tiktok-coffee-trend-is-weird-but-good-337898.html"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Kalabalik Yanlizlik",
+  "term": "Crowded Loneliness",
+  "short_definition": "The experience of feeling isolated or emotionally disconnected despite being constantly surrounded by people and digital connections.",
+  "long_explanation": "The Turkish phrase kalabalık yalnızlık (crowded loneliness) was named Turkey's word of the year for 2024 by the Turkish Language Association (TDK) working with Ankara University's communication research center, describing the paradox of feeling alone while surrounded by crowds and constant online contact. The concept echoes the argument of sociologist David Riesman's 1950 book The Lonely Crowd, which examined how modern, other-directed societies can produce conformity and social disconnection even amid dense social contact. The idea names a widespread emotional tension, hyperconnected yet isolated, that brands in wellness, social media, and community-building categories can speak to authentically.",
+  "usage_context": "Turkish media coverage of the 2024 word-of-the-year announcement linked kalabalık yalnızlık to rising social media use and its effect on face-to-face connection.",
+  "related_terms": "The Lonely Crowd, Social Isolation, Digital Loneliness",
+  "tr_equivalent": "Kalabalık Yalnızlık",
+  "tr_definition": "Sürekli kalabalık ve dijital bağlantı içinde olmasına rağmen kişinin kendini yalnız ve duygusal olarak kopuk hissetmesi durumunu ifade eder.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://dergipark.org.tr/tr/download/article-file/5023533",
+   "https://en.wikipedia.org/wiki/The_Lonely_Crowd"
+  ],
+  "notes": "The Notion link is an Instagram post that could not be fetched directly. English term chosen as a direct translation, Crowded Loneliness, with The Lonely Crowd (David Riesman, 1950) noted as the closest established English concept rather than a direct equivalent; confirm the Instagram post's framing matches this."
+ },
+ {
+  "notion_title": "Brain Rot",
+  "term": "Brain Rot",
+  "short_definition": "The perceived mental decline caused by consuming excessive amounts of low-quality, trivial online content, especially short-form social media video.",
+  "long_explanation": "Brain rot was named Oxford University Press's Word of the Year for 2024 after its usage frequency rose 230 percent in a single year, driven largely by Gen Z and Gen Alpha slang on TikTok. Oxford defines it as the supposed deterioration of a person's mental or intellectual state from overconsuming trivial or unchallenging material, and notes the phrase's first recorded use goes back to Henry David Thoreau's Walden in 1854, applied there to society's preference for simple ideas over complex ones. The term matters to marketers because it captures growing self-awareness, and even backlash, among younger audiences about the content ecosystems brands operate in, and this affects both content strategy and platform reputation.",
+  "usage_context": "Oxford University Press's 2024 announcement of brain rot as Word of the Year cited its surge in youth slang describing low-quality, algorithm-driven short video content.",
+  "related_terms": "Doomscrolling, Short-Form Video, Attention Economy",
+  "tr_equivalent": null,
+  "tr_definition": "Özellikle kısa video içeriklerinin aşırı tüketilmesi sonucu zihinsel veya entelektüel gerilemenin yaşandığını ifade eden bir terimdir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/",
+   "https://time.com/7199246/brain-rot-oxford-university-press-word-of-the-year-2024/"
+  ],
+  "notes": "The Notion link is an Instagram post that could not be fetched directly; definition is based on the verified Oxford Word of the Year 2024 usage. Confirm the Instagram post uses the term in this same sense."
+ },
+ {
+  "notion_title": "Consumer Ethnography (Virat Khullar – Hyundai India)Hedef kitlenin gerçek davranışlarını derinlemesine gözlemlemenin yeni pazarlama yöntemi.",
+  "term": "Consumer Ethnography",
+  "short_definition": "A research method that studies consumers by directly observing their real behavior in natural settings rather than relying only on surveys or self-reported answers.",
+  "long_explanation": "Ethnography originates in anthropology, where researchers embed themselves in a community to observe behavior firsthand rather than asking people to describe it after the fact. Applied to marketing, consumer ethnography means watching how people actually shop, use products, or make decisions in their homes, stores, or daily routines, which often reveals gaps between what consumers say they do and what they actually do. It matters for marketers because it surfaces unspoken needs, workarounds, and context that standard surveys and focus groups tend to miss; that gap informs product design and messaging that better fits real behavior.",
+  "usage_context": "Discussed by Virat Khullar of Hyundai India on MMA's Building Better CMOs podcast as a way to understand real customer behavior more deeply than traditional research methods.",
+  "related_terms": "Qualitative Research, Consumer Insights, Design Thinking",
+  "tr_equivalent": "Tüketici Etnografyası",
+  "tr_definition": "Tüketicilerin gerçek davranışlarını, anket veya grup görüşmesi yerine doğal ortamlarında doğrudan gözlemleyerek incelemeyi amaçlayan bir araştırma yöntemidir.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Enterprise-Wide Modeling (Charlotte Blank – Jaguar Land Rover)Kurum içi tüm fonksiyonları kapsayan modelleme/simülasyon kültürü.",
+  "term": "Enterprise-Wide Modeling",
+  "short_definition": "A management approach that spreads data modeling and simulation practices across every company function, beyond specialized technical or analytics teams.",
+  "long_explanation": "Data modeling and simulation are traditionally confined to finance, engineering, or analytics departments. Enterprise-wide modeling extends that discipline organization-wide, encouraging marketing, HR, operations, and other functions to build and test models of their own decisions before committing to them. The underlying premise is that if modeling improves decision quality in one function, spreading that capability broadly should improve decision quality everywhere. The concept matters to marketers and executives as part of a broader shift toward data-driven, testable decision-making at every level of an organization, not confined to specialized analytics teams.",
+  "usage_context": "Discussed by Charlotte Blank of Jaguar Land Rover on MMA's Building Better CMOs podcast as a culture where modeling and simulation extend across all business functions, not only technical teams.",
+  "related_terms": "Data-Driven Culture, Scenario Planning, Predictive Analytics",
+  "tr_equivalent": null,
+  "tr_definition": "Veri modelleme ve simülasyon uygulamalarının yalnızca teknik ekiplerle sınırlı kalmayıp şirketin tüm fonksiyonlarına yayılmasını ifade eden bir yönetim yaklaşımıdır.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Lead Like a Scientist (Charlotte Blank – Jaguar Land Rover, Doug Martin – General Mills)Deney, hipotez ve test kültürünü liderliğe entegre eden inovatif yaklaşım.",
+  "term": "Lead Like a Scientist",
+  "short_definition": "A leadership approach that applies the scientific method, forming hypotheses, testing them, and using evidence, to organizational and marketing decisions.",
+  "long_explanation": "Lead like a scientist reframes leadership as an iterative process of hypothesis and experiment rather than fixed conviction: a leader states an assumption clearly, designs a way to test it cheaply, and updates the decision based on what the data shows. It draws on the same logic behind A/B testing and lean experimentation in product and marketing teams, applied instead to broader strategic and people decisions. The approach builds a culture where campaigns, positioning, and strategy are treated as testable hypotheses rather than unquestioned assumptions from the most senior person in the room, which is why it matters to marketers.",
+  "usage_context": "Discussed by Charlotte Blank of Jaguar Land Rover on MMA's Building Better CMOs podcast, in an episode titled \"Lead Like a Scientist\", as a way to bring an experimental, evidence-based mindset into marketing leadership.",
+  "related_terms": "A/B Testing, Evidence-Based Leadership, Growth Mindset",
+  "tr_equivalent": null,
+  "tr_definition": "Liderlik kararlarını sabit inançlar yerine hipotez kurma, test etme ve kanıta dayalı sonuç çıkarma mantığıyla ele alan bir yaklaşımdır.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": "Fact-check 2026-09-23: Doug Martin (General Mills) removed; his episode transcript does not cover this theme."
+ },
+ {
+  "notion_title": "Breaking the Rules / Take Risks (Alex Craddock – Citi, Bob Sherwin – Zoe)Kuralları yıkmak, cesur ve konfor alanı dışı inovasyon yaratma.",
+  "term": "Breaking the Rules / Take Risks",
+  "short_definition": "A leadership stance that deliberately challenges established norms and accepts calculated risk to create differentiated, breakthrough marketing or business outcomes.",
+  "long_explanation": "This is a leadership posture rather than a formally named framework: it describes leaders who treat existing conventions, whether internal process, category norms, or safe creative choices, as a starting point to challenge rather than a fixed constraint. The logic is that incremental, low-risk decisions tend to produce incremental, low-impact results, so meaningful differentiation often requires leaders to accept the discomfort of being wrong to be genuinely different. The idea matters to marketers because it names the tension every brand leader faces between protecting what is safe and pursuing what is distinctive.",
+  "usage_context": "Discussed by Alex Craddock of Citi on MMA's Building Better CMOs podcast as a leadership philosophy of challenging conventions and taking risks.",
+  "related_terms": "Calculated Risk, Innovation Culture, Disruptive Marketing",
+  "tr_equivalent": null,
+  "tr_definition": "Mevcut kuralları ve normları bilinçli biçimde sorgulayarak, çığır açan sonuçlar elde etmek için hesaplı risk almayı öne çıkaran bir liderlik tutumudur.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": "Descriptive leadership theme from the podcast rather than a formally named industry framework; kept general per the Notion hint. Fact-check 2026-09-23: Bob Sherwin (Zoe) removed; his episode frames initiatives as tests rather than rule-breaking."
+ },
+ {
+  "notion_title": "Vulnerability in Leadership (Micky Onvural – TIAA)Liderlikte şeffaflık ve insani kırılganlığın yeni önem kazanması.",
+  "term": "Vulnerability in Leadership",
+  "short_definition": "A leadership style that values openness about uncertainty, mistakes, and personal limitations as a way to build trust and stronger teams.",
+  "long_explanation": "Vulnerability in leadership draws on research popularized by writers such as Brene Brown, arguing that leaders who acknowledge uncertainty or admit mistakes build more trust and psychological safety than leaders who project constant confidence. Applied to corporate leadership, it means being transparent about what a leader does not know, inviting challenge, and treating setbacks as shared learning rather than something to hide. Teams led with more openness tend to surface problems earlier and take more creative risks, since employees are less afraid of being blamed for honest failure, which is why the concept matters to marketers and executives.",
+  "usage_context": "Discussed by Micky Onvural of TIAA on MMA's Building Better CMOs podcast as a growing priority for leaders navigating uncertain, fast-changing marketing environments.",
+  "related_terms": "Psychological Safety, Authentic Leadership, Trust Building",
+  "tr_equivalent": null,
+  "tr_definition": "Liderlerin belirsizlik, hata ve kişisel sınırlar konusunda açık olmasının güven ve daha güçlü ekipler oluşturduğunu savunan bir liderlik yaklaşımıdır.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Anchoring Brand Value (Lauren Beckstedt – Brunswick)Marka değerinin müşteri algısında kalıcı biçimde sabitlenmesi.",
+  "term": "Anchoring Brand Value",
+  "short_definition": "The practice of fixing a clear, consistent perception of what a brand is worth or stands for in customers' minds over time.",
+  "long_explanation": "Anchoring in this context borrows from the cognitive bias concept in behavioral economics, where the first piece of information a person encounters becomes a reference point for later judgments. Applied to brand strategy, anchoring brand value means deliberately establishing a strong, specific association, on quality, price, purpose, or experience, early and consistently enough that it becomes the customer's automatic reference point for the brand, resisting dilution from competitor noise or short-term promotions. Marketers care about this discipline because a brand's long-term pricing power and loyalty depend heavily on how firmly that value perception is anchored rather than constantly renegotiated.",
+  "usage_context": "Discussed by Lauren Beckstedt of Brunswick on MMA's Building Better CMOs podcast in the context of maintaining consistent brand value perception among customers over time.",
+  "related_terms": "Brand Equity, Anchoring Bias, Price Perception",
+  "tr_equivalent": null,
+  "tr_definition": "Bir markanın değerine dair algının müşteri zihninde tutarlı ve kalıcı biçimde sabitlenmesini ifade eden bir marka stratejisi uygulamasıdır.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Navigating Media Shifts (Bob Sherwin – Zoe)Medya ekosisteminde esneklik ve yeni medyaya hızlı adaptasyon.",
+  "term": "Navigating Media Shifts",
+  "short_definition": "The ability of marketing organizations to adapt quickly and effectively as audiences move between media channels and consumption habits change.",
+  "long_explanation": "Media shifts refer to the ongoing movement of audience attention, from linear TV to streaming, from search to social, from established platforms to emerging ones, that has accelerated with each new platform generation. Navigating these shifts well requires marketing organizations to rebalance budgets, measurement, and creative formats faster than media habits change underneath them, rather than reacting only after a channel's effectiveness has already declined. Organizations that treat media planning as a fixed annual exercise consistently underperform those that treat it as a continuous, adaptive process, a gap marketers cannot ignore.",
+  "usage_context": "Discussed by Bob Sherwin of Zoe on MMA's Building Better CMOs podcast in the context of staying flexible as media consumption patterns and platforms evolve.",
+  "related_terms": "Media Planning, Channel Fragmentation, Omnichannel Strategy",
+  "tr_equivalent": null,
+  "tr_definition": "Pazarlama organizasyonlarının, hedef kitlenin medya tüketim alışkanlıkları değiştikçe hızlı ve etkin biçimde adapte olabilme becerisini ifade eder.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Strategic Storytelling (Lisa Caputo – Travelers, Doug Martin – General Mills)Teknolojiyle birleşen dijital anlatı ve hikaye geliştirme biçimi.",
+  "term": "Strategic Storytelling",
+  "short_definition": "The deliberate use of narrative structure, combined with data and technology, to communicate a brand's purpose or strategy in a way that is memorable and persuasive.",
+  "long_explanation": "Strategic storytelling treats narrative as a management discipline rather than only a creative one: it uses the classic elements of story, character, tension, resolution, to make complex strategy, data, or change initiatives easier for employees, customers, or investors to understand and act on. What distinguishes it from traditional brand storytelling is its integration with digital tools and data, using analytics to shape which stories are told and through which channels they will land most effectively. Audiences retain and act on stories far more reliably than they do on statistics or slide decks alone, and that is the discipline's core value to marketers.",
+  "usage_context": "Discussed by Lisa Caputo of Travelers and Doug Martin of General Mills on MMA's Building Better CMOs podcast as a way narrative and technology combine to communicate brand strategy.",
+  "related_terms": "Brand Narrative, Data Storytelling, Change Communication",
+  "tr_equivalent": null,
+  "tr_definition": "Marka stratejisini veya amacını, teknoloji ve veriyle birleştirilen anlatı teknikleriyle akılda kalıcı ve ikna edici biçimde iletme yaklaşımıdır.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Human-Centric Marketing / Human-Centricity (Brian Irving – Lyft, Micky Onvural – TIAA)Paydaş ve müşteri odaklı yeni jenerasyon pazarlama anlayışı.",
+  "term": "Human-Centric Marketing",
+  "short_definition": "A marketing approach that designs strategy, products, and messaging around genuine human needs and experience rather than around channels, technology, or internal processes first.",
+  "long_explanation": "Human-centric marketing prioritizes the actual person, their needs, context, and emotional experience, as the starting point for decisions, rather than starting from a media channel, a technology capability, or an internal organizational structure and fitting the customer into it. It shares roots with human-centered design in product development, applying the same empathy-first discipline to marketing strategy and customer experience. The approach counteracts a common failure mode where marketing organizes itself around what is easy to measure or execute internally instead of what actually matters to the customer, which is its main value for marketers.",
+  "usage_context": "Discussed by Brian Irving of Lyft and Micky Onvural of TIAA on MMA's Building Better CMOs podcast as a stakeholder- and customer-first approach to modern marketing.",
+  "related_terms": "Human-Centered Design, Customer Experience, Empathy-Driven Marketing",
+  "tr_equivalent": null,
+  "tr_definition": "Strateji, ürün ve mesajlaşmayı kanal veya teknoloji yerine gerçek insan ihtiyaçları ve deneyimi merkeze alarak tasarlayan bir pazarlama yaklaşımıdır.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Content Innovation (Lauren Beckstedt – Brunswick, Brian Irving – Lyft)İçerik formatı ve dağıtımında sürekli inovasyon.",
+  "term": "Content Innovation",
+  "short_definition": "The continuous development of new content formats, distribution methods, or storytelling approaches to keep a brand's communication relevant as media habits evolve.",
+  "long_explanation": "Content innovation describes an organizational commitment to experimenting with how content is made and distributed, new formats like short-form video or interactive media, new production workflows, or new distribution partnerships, rather than repeating the same content playbook as audience attention shifts. It sits at the intersection of creative strategy and operational process, since sustaining innovation requires both creative risk-taking and the internal systems to test and scale new formats quickly. Content that worked well on yesterday's platforms and formats tends to underperform as audience attention and platform algorithms change, and that is why marketers keep pushing on this discipline.",
+  "usage_context": null,
+  "related_terms": "Content Strategy, Format Innovation, Distribution Strategy",
+  "tr_equivalent": null,
+  "tr_definition": "Marka iletişiminin medya alışkanlıkları değiştikçe güncel kalabilmesi için içerik format, üretim ve dağıtım yöntemlerinde sürekli yenilik yapılmasını ifade eder.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": "Fact-check 2026-09-23: the Notion note attributed this theme to Lauren Beckstedt (Brunswick) and Brian Irving (Lyft), but their transcripts do not show substantive discussion of it; attribution removed."
+ },
+ {
+  "notion_title": "GenZ Mindset / Gen Z Engagement (Doug Martin – General Mills, Brian Irving – Lyft)Genç kuşağa uygun davranış haritası ve iletişim.",
+  "term": "Gen Z Mindset",
+  "short_definition": "The distinct values, media habits, and expectations of Generation Z consumers that marketers must understand to engage them effectively.",
+  "long_explanation": "Generation Z, generally defined as people born from the late 1990s through the early 2010s, grew up as digital natives with constant access to smartphones and social platforms, which shapes their expectations around authenticity, speed, and two-way brand interaction differently from prior generations. Marketing to this cohort effectively requires more than adjusting media channels; it requires understanding their skepticism toward traditional advertising, preference for creator-driven and peer-validated content, and higher expectations around brand values and transparency. Messaging and formats calibrated for millennial or older audiences frequently fail to land with Gen Z without deliberate adaptation, which is why understanding this mindset matters to marketers.",
+  "usage_context": null,
+  "related_terms": "Generation Z, Digital Natives, Creator Economy",
+  "tr_equivalent": null,
+  "tr_definition": "Z kuşağı tüketicilerin pazarlamacıların etkili iletişim kurabilmesi için anlaması gereken kendine özgü değerlerini, medya alışkanlıklarını ve beklentilerini ifade eder.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": "Fact-check 2026-09-23: the Notion note attributed this theme to Doug Martin (General Mills) and Brian Irving (Lyft) on Building Better CMOs, but neither episode transcript discusses Gen Z; attribution removed. Confirm the right episode or keep unattributed."
+ },
+ {
+  "notion_title": "AI Roadmap / AI Readiness in Marketing (Virat Khullar – Hyundai India, Brian Irving – Lyft)Yapay zekanın pazarlamaya entegrasyonuna ve organizasyonun hazırbulunuşluğuna vurgu.",
+  "term": "AI Readiness in Marketing",
+  "short_definition": "The degree to which a marketing organization has the skills, data, processes, and leadership support needed to adopt AI tools effectively.",
+  "long_explanation": "AI readiness assesses an organization across several dimensions at once, data quality and access, employee skills and training, clear use cases, and leadership commitment, rather than treating AI adoption as simply buying a tool. A marketing team can have access to powerful generative AI tools and still fail to see value if workflows, measurement, and governance have not been redesigned to use them well. The concept reframes AI adoption as an organizational capability to build deliberately, not a one-time purchase or announcement, and that reframing is what matters to marketers and CMOs.",
+  "usage_context": "Discussed by Virat Khullar of Hyundai India and Brian Irving of Lyft on MMA's Building Better CMOs podcast in the context of integrating AI into marketing and assessing organizational preparedness for it.",
+  "related_terms": "AI Adoption Curve, Digital Transformation, The Between Times",
+  "tr_equivalent": null,
+  "tr_definition": "Bir pazarlama organizasyonunun yapay zeka araçlarını etkin biçimde benimseyebilmesi için gereken beceri, veri, süreç ve liderlik desteğine sahip olma düzeyini ifade eder.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Quiet Thriving",
+  "term": "Quiet Thriving",
+  "short_definition": "A workplace approach in which employees make small, deliberate changes within their own control to find more meaning and satisfaction at work, rather than making a big change like quitting.",
+  "long_explanation": "Quiet thriving emerged as a counterpoint to quiet quitting, describing employees who respond to burnout or disengagement not by withdrawing effort but by actively reshaping small parts of their role, a concept related to job crafting in organizational psychology, to increase a sense of purpose and control. It gained visibility through workplace commentary following the post-pandemic shift toward hybrid work, where employees increasingly expect their jobs to provide meaning rather than only a paycheck. The concept offers a low-cost, employee-driven path to reducing burnout and turnover without requiring large organizational restructuring, which is its appeal for marketers and employers.",
+  "usage_context": "HBR Türkiye described \"sessiz gelişim\" (quiet thriving) in August 2025 as a quiet but powerful cultural shift in which employees find meaning through small, controllable steps rather than large decisions.",
+  "related_terms": "Quiet Quitting, Job Crafting, Employee Engagement",
+  "tr_equivalent": "Sessiz gelişim",
+  "tr_definition": "Çalışanların büyük kararlar almak yerine kendi kontrol alanlarında küçük ve etkili adımlarla işlerinde anlam ve tatmin bulmasını ifade eden bir yaklaşımdır.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://hbrturkiye.com/blog/sessiz-gelisim-sirket-kulturunuzde-sessiz-ama-guclu-bir-donusum",
+   "https://www.testgorilla.com/blog/quiet-thriving/"
+  ],
+  "notes": "Fact-check 2026-09-23: the original HBR Türkiye link returned 404; replaced with the live article URL."
+ },
+ {
+  "notion_title": "Micro Drama /Vertical Drama",
+  "term": "Micro Drama / Vertical Drama",
+  "short_definition": "A serialized short-video format, filmed vertically for mobile viewing, that tells a story across brief cliffhanger episodes typically one to three minutes long.",
+  "long_explanation": "Micro dramas combine the brevity of short-form social video with the episodic structure of traditional television drama, using a vertical 9:16 frame built for apps like TikTok and Reels as well as dedicated platforms such as ReelShort. Each episode ends on a cliffhanger designed to pull viewers into the next installment, trading the quick, standalone payoff of typical short-form content for sustained narrative tension across a season. Brands including Crocs, Procter & Gamble, and JCPenney have begun weaving product placement into micro dramas rather than running conventional ads, attracted by the format's high completion and rewatch rates. The format matters to marketers as a new branded entertainment channel that behaves more like serialized content marketing than traditional advertising.",
+  "usage_context": "Crocs partnered with the platform ReelShort to produce a micro drama based on the real-life love story of one of its employees, integrating the brand into the narrative rather than running a standalone ad.",
+  "related_terms": "Vertical Video, Branded Entertainment, Short-Form Video",
+  "tr_equivalent": "Dikey Dizi",
+  "tr_definition": "Mobil izleme için dikey formatta çekilen, kısa ve heyecanlı bölümlerle ilerleyen dizi tarzı bir kısa video formatıdır.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://digiday.com/marketing/in-graphic-detail-the-rise-of-micro-dramas-that-are-attracting-big-ad-dollars/",
+   "https://nogood.io/blog/micro-drama/"
+  ],
+  "notes": "The Notion link is an Instagram post that could not be fetched directly; definition is based on verified general coverage of the micro-drama and vertical-drama format."
+ }
+]

@@ -1,0 +1,348 @@
+# MMA Academy Dictionary
+
+> A marketing dictionary published by MMA Academy (Marketing + Media Alliance, MEA region) with 321 terms, each defined in English and Turkish. Categories: AI and marketing concepts, consumer and culture trends, leadership and organization, technology trends, MMA programs and frameworks, digital marketing acronyms, and retail media.
+
+MMA here means Marketing + Media Alliance (formerly Mobile Marketing Association), not mixed martial arts.
+
+## Digital Marketing Acronyms
+
+- [İYS (İleti Yönetim Sistemi)](https://mma-academy-dictionary.vercel.app/term/iys-ileti-yonetim-sistemi/): Turkey's national database where businesses store and manage consumer consents for commercial electronic messages such as SMS, email, and calls.
+- [A/B Testing (Split Testing)](https://mma-academy-dictionary.vercel.app/term/a-b-testing-split-testing/): Comparing two versions of content to determine the most effective one.
+- [AI Max (AI Max for Search)](https://mma-academy-dictionary.vercel.app/term/ai-max-ai-max-for-search/): A Google Ads Search campaign feature that combines broad-match query matching, AI-generated headline and description customization, and Final URL Expansion.
+- [BI (Business Intelligence)](https://mma-academy-dictionary.vercel.app/term/bi-business-intelligence/): Systems analyzing business data for better decisions.
+- [BOFU (Bottom of Funnel)](https://mma-academy-dictionary.vercel.app/term/bofu-bottom-of-funnel/): Conversion-focused content (offers, discounts, demos).
+- [BR (Bounce Rate)](https://mma-academy-dictionary.vercel.app/term/br-bounce-rate/): Rate at which visitors leave the site without interaction.
+- [CAC (Customer Acquisition Cost)](https://mma-academy-dictionary.vercel.app/term/cac-customer-acquisition-cost/): Cost of gaining a new customer.
+- [CAPI (Conversions API)](https://mma-academy-dictionary.vercel.app/term/capi-conversions-api/): A server-to-server method for sending conversion event data directly from an advertiser's server to ad platforms, bypassing browser pixels and cookies.
+- [CGC (Creator-Generated Content)](https://mma-academy-dictionary.vercel.app/term/cgc-creator-generated-content/): Content a brand commissions from a social media creator, blending the creator's voice with brand messaging while the brand owns and controls it.
+- [CPL (Cost Per Lead)](https://mma-academy-dictionary.vercel.app/term/cpl-cost-per-lead/): Cost of acquiring a new lead.
+- [CPV (Cost Per View)](https://mma-academy-dictionary.vercel.app/term/cpv-cost-per-view/): Cost paid per view in video ads.
+- [CR (Conversion Rate)](https://mma-academy-dictionary.vercel.app/term/cr-conversion-rate/): Rate of conversion from ads or campaigns.
+- [CTA (Call to Action)](https://mma-academy-dictionary.vercel.app/term/cta-call-to-action/): Calls directing users to specific actions (e.g., "Buy Now", "Register").
+- [CTR (Content Traffic Rate)](https://mma-academy-dictionary.vercel.app/term/ctr-content-traffic-rate/): Measures the traffic driven by social media content to websites or landing pages.
+- [CX (Customer Experience)](https://mma-academy-dictionary.vercel.app/term/cx-customer-experience/): Overall interaction experience between customer and brand.
+- [DA (Domain Authority)](https://mma-academy-dictionary.vercel.app/term/da-domain-authority/): Score indicating website strength in search engines.
+- [DMA (Digital Markets Act)](https://mma-academy-dictionary.vercel.app/term/dma-digital-markets-act/): An EU regulation that limits the economic power of designated gatekeeper platforms, such as restricting self-preferencing and cross-service data combination.
+- [DSA (Digital Services Act)](https://mma-academy-dictionary.vercel.app/term/dsa-digital-services-act/): An EU regulation setting mandatory rules for online platforms on content moderation, ad transparency, and targeted-advertising disclosure.
+- [DSP (Demand-Side Platform)](https://mma-academy-dictionary.vercel.app/term/dsp-demand-side-platform/): Platform for buying digital ad inventory.
+- [DTC (Direct-to-Consumer)](https://mma-academy-dictionary.vercel.app/term/dtc-direct-to-consumer/): Business model selling directly to consumers without intermediaries.
+- [EGC (Employee-Generated Content)](https://mma-academy-dictionary.vercel.app/term/egc-employee-generated-content/): Organic content such as LinkedIn posts and short-form video that a company's own employees create, rather than its marketing team or paid influencers.
+- [ENG% (Engagement Rate)](https://mma-academy-dictionary.vercel.app/term/eng-engagement-rate/): Measures post likes, comments, shares, and saves.
+- [EPM (Engagement Per Mille)](https://mma-academy-dictionary.vercel.app/term/epm-engagement-per-mille/): Interaction rate per 1,000 impressions.
+- [GA (Google Analytics)](https://mma-academy-dictionary.vercel.app/term/ga-google-analytics/): Web analytics service by Google.
+- [GA4 (Google Analytics 4)](https://mma-academy-dictionary.vercel.app/term/ga4-google-analytics-4/): Google’s advanced analytics platform for tracking user interactions.
+- [GPC (Global Privacy Control)](https://mma-academy-dictionary.vercel.app/term/gpc-global-privacy-control/): A browser-level signal that automatically tells websites not to sell or share a visitor's personal information for targeted advertising.
+- [KOC (Key Opinion Consumer)](https://mma-academy-dictionary.vercel.app/term/koc-key-opinion-consumer/): Influential individuals whose opinions affect consumer decisions.
+- [LTV (Customer Lifetime Value)](https://mma-academy-dictionary.vercel.app/term/ltv-customer-lifetime-value/): Total revenue value of a customer to a brand.
+- [MMM (Marketing Mix Modeling)](https://mma-academy-dictionary.vercel.app/term/mmm-marketing-mix-modeling/): A statistical measurement method that correlates aggregate spend by channel with aggregate business outcomes using regression, without cookies or user-level tracking.
+- [MOFU (Middle of Funnel)](https://mma-academy-dictionary.vercel.app/term/mofu-middle-of-funnel/): Content aimed at increasing interest of potential customers.
+- [MQL (Marketing Qualified Lead)](https://mma-academy-dictionary.vercel.app/term/mql-marketing-qualified-lead/): A potential customer ready for sales engagement.
+- [ORM (Online Reputation Management)](https://mma-academy-dictionary.vercel.app/term/orm-online-reputation-management/): Process of managing a brand's online reputation.
+- [RO (Reach & Overlap)](https://mma-academy-dictionary.vercel.app/term/ro-reach-overlap/): Measures audience overlap across platforms.
+- [RTM (Real-Time Marketing)](https://mma-academy-dictionary.vercel.app/term/rtm-real-time-marketing/): Instant marketing responding to current events.
+- [SEM (Search Engine Marketing)](https://mma-academy-dictionary.vercel.app/term/sem-search-engine-marketing/): Advertising through paid search results.
+- [SEO (Search Engine Optimization)](https://mma-academy-dictionary.vercel.app/term/seo-search-engine-optimization/): Techniques to improve visibility in organic search results.
+- [SERP (Search Engine Results Page)](https://mma-academy-dictionary.vercel.app/term/serp-search-engine-results-page/): Page shown by a search engine in response to a query.
+- [SMO (Social Media Optimization)](https://mma-academy-dictionary.vercel.app/term/smo-social-media-optimization/): Techniques to enhance visibility and interaction on social media.
+- [SQL (Sales Qualified Lead)](https://mma-academy-dictionary.vercel.app/term/sql-sales-qualified-lead/): Lead evaluated by sales team ready for direct engagement.
+- [SSP (Supply-Side Platform)](https://mma-academy-dictionary.vercel.app/term/ssp-supply-side-platform/): Platform for publishers to manage and sell ad inventory.
+- [TAT (Turnaround Time)](https://mma-academy-dictionary.vercel.app/term/tat-turnaround-time/): Response time to customer queries.
+- [TCF 2.3 (Transparency and Consent Framework 2.3)](https://mma-academy-dictionary.vercel.app/term/tcf-2-3-transparency-and-consent-framework-2-3/): IAB Europe's updated consent-signaling standard that makes proof of vendor disclosure a mandatory, technical part of the consent string.
+- [TOFU (Top of Funnel)](https://mma-academy-dictionary.vercel.app/term/tofu-top-of-funnel/): Content aimed at awareness for new customers.
+- [UGC (User-Generated Content)](https://mma-academy-dictionary.vercel.app/term/ugc-user-generated-content/): Content created by users (comments, posts, videos).
+- [UGR (User-Generated Reviews)](https://mma-academy-dictionary.vercel.app/term/ugr-user-generated-reviews/): Reviews created by users that build trust in brands.
+- [UGS (User-Generated Stories)](https://mma-academy-dictionary.vercel.app/term/ugs-user-generated-stories/): Stories created by users enhancing brand authenticity.
+- [UID2 (Unified ID 2.0)](https://mma-academy-dictionary.vercel.app/term/uid2-unified-id-2-0/): An open-source, privacy-first identity framework that turns first-party data such as an email into a hashed identifier for targeted advertising without third-party cookies.
+- [UX (User Experience)](https://mma-academy-dictionary.vercel.app/term/ux-user-experience/): Overall experience of a user with a product or service.
+- [VTR (View-Through Rate)](https://mma-academy-dictionary.vercel.app/term/vtr-view-through-rate/): Users who convert later after viewing ads without immediate clicking.
+
+## Technology Trends
+
+- [A2A (Agent2Agent Protocol)](https://mma-academy-dictionary.vercel.app/term/a2a-agent2agent-protocol/): An open standard that lets AI agents built by different vendors discover each other, delegate tasks, and coordinate work across company boundaries.
+- [AI-Powered Personalization](https://mma-academy-dictionary.vercel.app/term/ai-powered-personalization/): A machine-learning approach that tailors content, product recommendations, or messaging to individual users at scale.
+- [AIO (AI Overviews)](https://mma-academy-dictionary.vercel.app/term/aio-ai-overviews/): A shorthand with two competing meanings: Google's AI Overviews summary block in search results, or AI Optimization, structuring content for both readers and AI platforms.
+- [Amara's Law](https://mma-academy-dictionary.vercel.app/term/amara-s-law/): The observation that people tend to overestimate the short-term impact of a new technology and underestimate its long-term impact.
+- [Autonomous Everything](https://mma-academy-dictionary.vercel.app/term/autonomous-everything/): A trend term describing the spread of self-operating, minimally supervised systems, such as vehicles and software agents, across many industries at once.
+- [Biometric Authentication 3.0](https://mma-academy-dictionary.vercel.app/term/biometric-authentication-3-0/): A newer generation of identity verification using more advanced biometric signals, such as behavioral patterns, alongside older methods like fingerprint or face scans.
+- [Carbon Credit Marketplace](https://mma-academy-dictionary.vercel.app/term/carbon-credit-marketplace/): A platform where organizations buy and sell tradable credits that represent a reduction or removal of a set amount of carbon emissions.
+- [Dark Social](https://mma-academy-dictionary.vercel.app/term/dark-social/): Content sharing that happens through private channels like messaging apps and email, which standard web analytics cannot attribute to its true source.
+- [Digital Maturity](https://mma-academy-dictionary.vercel.app/term/digital-maturity/): The degree to which an organization can effectively use digital technologies and processes to create value and respond to change.
+- [Digital Twin Technology](https://mma-academy-dictionary.vercel.app/term/digital-twin-technology/): A virtual, continuously updated model of a real physical object, process, or system, used to simulate and predict its behavior.
+- [Extended Reality (XR)](https://mma-academy-dictionary.vercel.app/term/extended-reality-xr/): An umbrella term covering virtual reality (VR), augmented reality (AR), and mixed reality (MR) technologies.
+- [Frankenstack](https://mma-academy-dictionary.vercel.app/term/frankenstack/): A marketing or advertising technology stack assembled from many separately bought tools that were bolted together over time and do not work as one system.
+- [Immersive Storytelling](https://mma-academy-dictionary.vercel.app/term/immersive-storytelling/): A narrative technique that places the audience inside the story using technologies like VR, AR, or 360-degree video rather than having them observe from outside.
+- [llms.txt](https://mma-academy-dictionary.vercel.app/term/llms-txt/): llms.txt is a proposed plain-text file, similar in spirit to robots.txt or an XML sitemap, meant to help large language models find and prioritize a site's most important content.
+- [Many-Shot Jailbreaking](https://mma-academy-dictionary.vercel.app/term/many-shot-jailbreaking/): An AI safety vulnerability in which attackers use long prompts filled with many example dialogues to trick a large language model into bypassing its safety guardrails.
+- [MCP (Model Context Protocol)](https://mma-academy-dictionary.vercel.app/term/mcp-model-context-protocol/): An open standard that lets AI models and agents connect to external tools, data sources, and platforms through one consistent interface.
+- [Metaverse Economy](https://mma-academy-dictionary.vercel.app/term/metaverse-economy/): Economic activity, buying, selling, and earning, that takes place inside persistent virtual worlds and platforms.
+- [Multiexperience](https://mma-academy-dictionary.vercel.app/term/multiexperience/): A design and technology approach that delivers a consistent brand experience across many devices, senses, and interaction modes, such as touch, voice, and gesture.
+- [Neuromarketing 2.0](https://mma-academy-dictionary.vercel.app/term/neuromarketing-2-0/): A newer wave of neuromarketing that combines traditional biometric and neuroscience methods with AI-driven analysis of consumer behavior.
+- [Nightshade](https://mma-academy-dictionary.vercel.app/term/nightshade/): A free tool that lets artists subtly alter their digital images so that AI models trained on them produce corrupted or incorrect results, discouraging unauthorized use in AI tra…
+- [P(doom)](https://mma-academy-dictionary.vercel.app/term/p-doom/): Shorthand in AI safety discussions for a person's estimated probability that advanced AI causes human extinction or civilizational collapse.
+- [Quantum Computing](https://mma-academy-dictionary.vercel.app/term/quantum-computing/): A computing approach that uses quantum mechanical states (qubits) instead of ordinary bits to perform certain calculations far faster than classical computers.
+- [RAG (Retrieval-Augmented Generation)](https://mma-academy-dictionary.vercel.app/term/rag-retrieval-augmented-generation/): An AI architecture in which a model retrieves relevant information from a knowledge base or the live web before generating its response.
+- [Regenerative Agriculture Tech](https://mma-academy-dictionary.vercel.app/term/regenerative-agriculture-tech/): Technology, such as soil sensors and data platforms, used to support farming practices that restore soil health and biodiversity rather than depleting them.
+- [Smart City Infrastructure](https://mma-academy-dictionary.vercel.app/term/smart-city-infrastructure/): Connected sensors, data systems, and networks used to manage city services like traffic, utilities, and public safety more efficiently.
+- [SoLoMo](https://mma-academy-dictionary.vercel.app/term/solomo/): A marketing acronym for Social, Local, and Mobile, describing strategies that combine these three elements to reach consumers.
+- [The Fourth Industrial Revolution](https://mma-academy-dictionary.vercel.app/term/the-fourth-industrial-revolution/): The current era of technological change in which digital, physical, and biological systems are merging through AI, robotics, and connected devices.
+- [Uberisation](https://mma-academy-dictionary.vercel.app/term/uberisation/): The disruption of a traditional service industry by digital platforms that connect customers and providers directly, bypassing established intermediaries.
+
+## AI & Marketing Concepts
+
+- [ACP (Agentic Commerce Protocol)](https://mma-academy-dictionary.vercel.app/term/acp-agentic-commerce-protocol/): An open standard that lets an AI agent complete a purchase on a buyer's behalf while the merchant stays the system of record for payment and tax.
+- [Addictive Intelligence](https://mma-academy-dictionary.vercel.app/term/addictive-intelligence/): AI systems, such as voice assistants and chatbot companions, that are engaging and personalized enough to create compulsive user attachment.
+- [AEO (Answer Engine Optimization)](https://mma-academy-dictionary.vercel.app/term/aeo-answer-engine-optimization/): A content practice that gets AI answer engines such as ChatGPT Search, Google AI Overviews, and Gemini to cite or summarize a page directly, rather than only rank it in a link l…
+- [Agentic Learner](https://mma-academy-dictionary.vercel.app/term/agentic-learner/): An AI learning agent assigned to one user that learns from every interaction and continuously builds a personalized model of that person.
+- [Aggregate Attention](https://mma-academy-dictionary.vercel.app/term/aggregate-attention/): A measurement approach that tracks the cumulative depth and duration of user engagement with a brand or content, not just single impressions or clicks.
+- [AI Empathy Illusion](https://mma-academy-dictionary.vercel.app/term/ai-empathy-illusion/): A false impression that an AI system feels genuine empathy, when it is only simulating human-like emotional responses.
+- [AI Ethics](https://mma-academy-dictionary.vercel.app/term/ai-ethics/): The set of principles and practices concerned with developing and using artificial intelligence in a safe, fair, and accountable way.
+- [AI Orchestrator](https://mma-academy-dictionary.vercel.app/term/ai-orchestrator/): A person who coordinates multiple AI tools with clear instructions to run complex workflows, rather than using one AI tool alone.
+- [AI Readiness in Marketing](https://mma-academy-dictionary.vercel.app/term/ai-readiness-in-marketing/): The degree to which a marketing organization has the skills, data, processes, and leadership support needed to adopt AI tools effectively.
+- [AI Sycophancy](https://mma-academy-dictionary.vercel.app/term/ai-sycophancy/): The tendency of AI systems, especially large language models, to give overly agreeable answers that flatter the user rather than tell the truth.
+- [AI Washing](https://mma-academy-dictionary.vercel.app/term/ai-washing/): The practice of exaggerating or falsely claiming a product's or company's use of artificial intelligence to appear more innovative than it actually is.
+- [AI Wrapper](https://mma-academy-dictionary.vercel.app/term/ai-wrapper/): A product that packages an existing large language model, accessed via API, behind a simple interface to deliver a specific, ready-to-use experience.
+- [AI-Native Consumer](https://mma-academy-dictionary.vercel.app/term/ai-native-consumer/): A consumer segment that has grown up with AI-driven experiences and relies heavily on AI assistants and recommendations in daily decisions.
+- [AP2 (Agent Payments Protocol)](https://mma-academy-dictionary.vercel.app/term/ap2-agent-payments-protocol/): An open protocol that gives an AI agent a cryptographically signed permission slip from a human before it can spend money on that person's behalf.
+- [Archivetainment](https://mma-academy-dictionary.vercel.app/term/archivetainment/): A content consumption trend where old shows, concerts, or ads are rediscovered and mass-consumed as entertainment on today's digital platforms.
+- [Augmented Intelligence](https://mma-academy-dictionary.vercel.app/term/augmented-intelligence/): A collaboration model where AI speeds up human marketers' work and data analysis while humans keep judgment, creativity, and final decisions.
+- [Automation Boundary](https://mma-academy-dictionary.vercel.app/term/automation-boundary/): The practical line, in a given task or purchase journey, between what a brand lets AI agents handle on their own and what it keeps in human hands.
+- [AX (Agent Experience)](https://mma-academy-dictionary.vercel.app/term/ax-agent-experience/): Agent Experience is the discipline of designing a brand's site, docs, product feeds, pricing and schema so AI agents, not only human users, can discover, read and act on them ac…
+- [Backpropagation](https://mma-academy-dictionary.vercel.app/term/backpropagation/): The core algorithm used to train neural networks by calculating how much each connection contributed to an error and adjusting it accordingly.
+- [Brand Stickiness Modeling](https://mma-academy-dictionary.vercel.app/term/brand-stickiness-modeling/): Using AI to measure and predict the depth of a consumer's ongoing emotional and behavioral connection to a brand, beyond repeat purchases.
+- [BYOAI (Bring Your Own AI)](https://mma-academy-dictionary.vercel.app/term/byoai-bring-your-own-ai/): The practice of employees using their own, personally chosen AI tools at work without waiting for employer-provided or approved solutions.
+- [Cognitive Offloading](https://mma-academy-dictionary.vercel.app/term/cognitive-offloading/): A strategy of using a physical action or external tool, instead of pure mental effort, to reduce a task's mental demand.
+- [Conversational AI Commerce](https://mma-academy-dictionary.vercel.app/term/conversational-ai-commerce/): Commerce conducted through conversational AI tools like chatbots and voice assistants instead of traditional click-based shopping.
+- [Creative Intelligence](https://mma-academy-dictionary.vercel.app/term/creative-intelligence/): Using AI to score and predict creative asset performance before campaign launch rather than after.
+- [E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)](https://mma-academy-dictionary.vercel.app/term/e-e-a-t-experience-expertise-authoritativeness-trustworthiness/): E-E-A-T is Google's content quality framework, used in its Search Quality Rater Guidelines, that now also functions as a de facto AI-citation quality signal.
+- [Early Bird](https://mma-academy-dictionary.vercel.app/term/early-bird/): A discounted price or special offer given to customers who buy or register before a set deadline, used to drive early demand.
+- [Edutainment](https://mma-academy-dictionary.vercel.app/term/edutainment/): Content that blends education and entertainment, designed to teach while also engaging and amusing the audience.
+- [Feedforward](https://mma-academy-dictionary.vercel.app/term/feedforward/): A future-focused alternative to feedback that offers constructive suggestions for what to do better next time instead of critiquing what already happened.
+- [FOMA (Fear Of Missing AI)](https://mma-academy-dictionary.vercel.app/term/foma-fear-of-missing-ai/): The anxiety that individuals or organizations feel about falling behind if they do not quickly adopt artificial intelligence tools.
+- [GAIO (Generative AI Optimization)](https://mma-academy-dictionary.vercel.app/term/gaio-generative-ai-optimization/): The practice of structuring and optimizing brand content so that generative AI tools and chatbots cite, reference, or recommend it in their answers.
+- [GEO (Generative Engine Optimization)](https://mma-academy-dictionary.vercel.app/term/geo-generative-engine-optimization/): The practice of shaping content so AI answer engines such as ChatGPT and Perplexity cite or recommend it, instead of ranking it as a plain search link.
+- [Gibberlink](https://mma-academy-dictionary.vercel.app/term/gibberlink/): A machine-optimized communication protocol allowing AI systems to exchange data through audio signals incomprehensible to humans.
+- [Hallucinate (AI)](https://mma-academy-dictionary.vercel.app/term/hallucinate-ai/): When an AI system, especially a language model, confidently generates false or fabricated information that is not grounded in its training data or reality.
+- [Humanwashing](https://mma-academy-dictionary.vercel.app/term/humanwashing/): The practice of making AI-assisted work look fully human-made, through handcrafted styling, named creators or behind-the-scenes stories, while hiding how much AI actually did.
+- [Hypertail](https://mma-academy-dictionary.vercel.app/term/hypertail/): A new class of modular, configurable SaaS tools that integrate with AI agents to reduce IT dependency and enable rapid experimentation.
+- [Information Product](https://mma-academy-dictionary.vercel.app/term/information-product/): A packaged piece of knowledge, such as an online course, ebook, or template, sold or reused repeatedly instead of being created fresh each time.
+- [Intent (NLP)](https://mma-academy-dictionary.vercel.app/term/intent-nlp/): In natural language processing, a label that identifies the goal behind a user's message, such as a chatbot request to check an order or ask for a refund.
+- [Learning Architect](https://mma-academy-dictionary.vercel.app/term/learning-architect/): A professional who designs learning or experience environments rather than simply transmitting information.
+- [LLM Share of Voice](https://mma-academy-dictionary.vercel.app/term/llm-share-of-voice/): A brand's visibility and favorability within responses generated by large language models like ChatGPT and Claude.
+- [LLMO (LLM Optimization)](https://mma-academy-dictionary.vercel.app/term/llmo-llm-optimization/): The discipline of building brand authority and structured content so large language models recognize a brand and surface it in conversational answers.
+- [Memevertising](https://mma-academy-dictionary.vercel.app/term/memevertising/): A marketing technique that uses popular internet memes and humor to promote a brand and connect with online audiences.
+- [Micro-Moments](https://mma-academy-dictionary.vercel.app/term/micro-moments/): Brief, intent-driven moments when a person reaches for a device to know, go, do, or buy something, coined by Google in 2015.
+- [Neural Storytelling](https://mma-academy-dictionary.vercel.app/term/neural-storytelling/): Using AI and neural networks to create emotionally resonant narratives tailored to trigger specific audience responses.
+- [Newsjacking](https://mma-academy-dictionary.vercel.app/term/newsjacking/): The practice of injecting a brand's message or perspective into a breaking news story to gain attention and media coverage.
+- [Perpetual Optimism](https://mma-academy-dictionary.vercel.app/term/perpetual-optimism/): A leadership mindset that keeps belief and solution-focused energy alive through challenges, which strengthens team performance.
+- [Predictive Copy Performance](https://mma-academy-dictionary.vercel.app/term/predictive-copy-performance/): Using AI to estimate how marketing copy will perform for specific audience segments before launch.
+- [Predictive Loyalty](https://mma-academy-dictionary.vercel.app/term/predictive-loyalty/): Using AI to identify high-potential future loyal customers and proactively engage them before loyalty solidifies.
+- [Principal Media](https://mma-academy-dictionary.vercel.app/term/principal-media/): A media-buying model where an agency purchases ad inventory as the buyer of record and resells it to clients, often at an undisclosed markup.
+- [Silver Spenders](https://mma-academy-dictionary.vercel.app/term/silver-spenders/): Consumers aged 50 and above who form a fast-growing, financially powerful, and digitally active market segment.
+- [SMARTIES Coach](https://mma-academy-dictionary.vercel.app/term/smarties-coach/): An AI-powered mentor tool from MMA Global (Marketing + Media Alliance) that helps marketers choose categories and prepare stronger entries for the SMARTIES Awards.
+- [SoM (Share of Model)](https://mma-academy-dictionary.vercel.app/term/som-share-of-model/): Share of Model is an AI visibility metric that measures how often a brand is mentioned or cited by one or more LLMs as a share of total category brand mentions.
+- [Storyselling](https://mma-academy-dictionary.vercel.app/term/storyselling/): A marketing approach that uses narrative techniques, rather than direct pitches, to sell products or services by building emotional connection.
+- [Structural Chaos](https://mma-academy-dictionary.vercel.app/term/structural-chaos/): The state in which an organization's complexity grows faster than its coordination, so activity rises while impact falls.
+- [Supermarketer](https://mma-academy-dictionary.vercel.app/term/supermarketer/): A multi-skilled marketer who uses AI to unify strategy, content, media planning, and analytics into one workflow.
+- [Synthetic Influence](https://mma-academy-dictionary.vercel.app/term/synthetic-influence/): The persuasive impact of AI-generated or AI-managed digital personas, virtual influencers, and algorithmically optimized content on consumer behavior.
+- [Synthetic Trust](https://mma-academy-dictionary.vercel.app/term/synthetic-trust/): Trust signals (reviews, testimonials, faces, voices) that are artificially generated by AI rather than coming from real people or experiences.
+- [Textpectation](https://mma-academy-dictionary.vercel.app/term/textpectation/): The impatience, excitement, or anxiety people feel while waiting for a reply to a digital message.
+- [The Algorithm Generation](https://mma-academy-dictionary.vercel.app/term/the-algorithm-generation/): A consumer cohort defined not by age but by having its preferences and decisions actively guided by AI recommendation systems.
+- [The Between Times](https://mma-academy-dictionary.vercel.app/term/the-between-times/): A transitional phase in which the potential of a new technology, such as AI, is widely recognized but not yet fully understood or put to productive use.
+- [Trust Dividend](https://mma-academy-dictionary.vercel.app/term/trust-dividend/): The long-term business return, in loyalty, wallet share, and lifetime value, that comes from a brand deliberately building consumer trust.
+- [Vibe Marketing](https://mma-academy-dictionary.vercel.app/term/vibe-marketing/): A marketing workflow in which a marketer describes the desired outcome, tone and audience in plain language, and AI tools handle the execution: copy, landing pages, ad variants …
+- [Webtoon](https://mma-academy-dictionary.vercel.app/term/webtoon/): A mobile-native, vertically scrolled digital comic format, originating in South Korea, published in short serialized episodes.
+- [Workflow-First AI](https://mma-academy-dictionary.vercel.app/term/workflow-first-ai/): An approach where AI capabilities are integrated into a single end-to-end workflow instead of being used as separate, manually connected point tools.
+- [Workslop](https://mma-academy-dictionary.vercel.app/term/workslop/): AI-generated work output that looks polished and professional but is incomplete, irrelevant, or lacks real value, and creates hidden extra work for others.
+
+## Retail Media
+
+- [Ad Inventory](https://mma-academy-dictionary.vercel.app/term/ad-inventory/): The advertising opportunities a retailer has available to sell (e.g. homepage banners, sponsored products, email placements, offsite audiences).
+- [Ad Load](https://mma-academy-dictionary.vercel.app/term/ad-load/): The number of ads shown within a given shopper experience. Example: Too much ad load can hurt conversion.
+- [Ad Serving](https://mma-academy-dictionary.vercel.app/term/ad-serving/): The technology process that delivers an ad to the shopper at the right time/place.
+- [Ad Slot / Placement](https://mma-academy-dictionary.vercel.app/term/ad-slot-placement/): A specific location where an ad can appear. Examples:
+- [Advertiser](https://mma-academy-dictionary.vercel.app/term/advertiser/): The brand paying to run campaigns.
+- [Advertising Cost of Sales (ACoS)](https://mma-academy-dictionary.vercel.app/term/advertising-cost-of-sales-acos/): A metric that measures the ad spend generated by advertising in relation to the overall sales value, calculated by dividing ad spend by sales value, expressed as a percentage.
+- [Algorithmic / Dynamic Bidding](https://mma-academy-dictionary.vercel.app/term/algorithmic-dynamic-bidding/): Automated auction bidding where ad tech adjusts bids in real time based on shopper signals, real-time inventory availability, conversion likelihood, or target ROAS.
+- [Anonymised Data](https://mma-academy-dictionary.vercel.app/term/anonymised-data/): Non-PII data relevant to privacy-safe audience and insight use
+- [Attribution](https://mma-academy-dictionary.vercel.app/term/attribution/): The methodology and ruleset used to determine which marketing touchpoints drove a conversion or purchase.
+- [Attribution Window](https://mma-academy-dictionary.vercel.app/term/attribution-window/): The defined timeframe (e.g., 7-day click, 14-day click, 1-day view) during which an ad interaction is eligible to receive credit for a resulting sale.
+- [Audience Activation](https://mma-academy-dictionary.vercel.app/term/audience-activation/): Using audience data to target campaigns.
+- [Audience Extension / “Off-site extension”](https://mma-academy-dictionary.vercel.app/term/audience-extension-off-site-extension/): Using retailer audiences used beyond owned properties (typically offsite).
+- [Baseline Sales (Organic Base)](https://mma-academy-dictionary.vercel.app/term/baseline-sales-organic-base/): The expected sales volume that would happen naturally without any paid advertising intervention; foundational for calculating true incrementality.
+- [Basket Analysis](https://mma-academy-dictionary.vercel.app/term/basket-analysis/): Analysis of what shoppers buy together.
+- [Brand Halo](https://mma-academy-dictionary.vercel.app/term/brand-halo/): Incremental uplift for a brand beyond the advertised SKU.
+- [Brand Lift Study](https://mma-academy-dictionary.vercel.app/term/brand-lift-study/): Survey- or test-vs-control-based measurement assessing upper-funnel impact (brand awareness, brand favorability, purchase intent) driven by retail campaigns.
+- [Brand Pages](https://mma-academy-dictionary.vercel.app/term/brand-pages/): Paired with display campaigns, brand pages offer an exclusive area to drive engagement and promote branded content. The brand page builder makes the process of activating simple.
+- [Buy Box](https://mma-academy-dictionary.vercel.app/term/buy-box/): The primary purchase call-to-action area on a product page.
+- [Category Exclusivity](https://mma-academy-dictionary.vercel.app/term/category-exclusivity/): A brand securing exclusive advertising presence within a category.
+- [CDP / Customer Data Platform](https://mma-academy-dictionary.vercel.app/term/cdp-customer-data-platform/): A platform that collects and unifies customer data from multiple sources to create customer profiles and usable audience segments.
+- [Click-Through Rate (CTR)](https://mma-academy-dictionary.vercel.app/term/click-through-rate-ctr/): The ratio of clicks to impressions delivered.
+- [Closed-Loop Measurement](https://mma-academy-dictionary.vercel.app/term/closed-loop-measurement/): Measurement connecting ad exposure (both online and in-store) directly to verified, deterministic transaction data (a major retail media differentiator) via loyalty cards, CRM r…
+- [CMN (Commerce Media Network)](https://mma-academy-dictionary.vercel.app/term/cmn-commerce-media-network/): An advertising network run by a company with first-party shopper or transaction data, such as a retailer or marketplace, that sells ad space to brands; the term extends the reta…
+- [Commerce Media](https://mma-academy-dictionary.vercel.app/term/commerce-media/): Commerce media is the monetisation of advertising across commerce ecosystems by using transaction, behavioural, and intent data from platforms where consumers shop or transact t…
+- [Commerce Signal](https://mma-academy-dictionary.vercel.app/term/commerce-signal/): Any shopper behaviour indicating intent.
+- [Connected TV (CTV) for Retail Media](https://mma-academy-dictionary.vercel.app/term/connected-tv-ctv-for-retail-media/): Offsite television streaming ad units targeted and measured using deterministic 1st-party retailer shopping data and closed-loop attribution.
+- [Conversion Rate (CVR)](https://mma-academy-dictionary.vercel.app/term/conversion-rate-cvr/): The percentage of ad clicks or visits that result in an order.
+- [Cost Per Acquisition (CPA)](https://mma-academy-dictionary.vercel.app/term/cost-per-acquisition-cpa/): The advertising cost incurred to drive one conversion/action.
+- [Cost Per Click (CPC)](https://mma-academy-dictionary.vercel.app/term/cost-per-click-cpc/): The cost an advertiser pays each time a user clicks on an ad.
+- [Cost Per Mille (CPM)](https://mma-academy-dictionary.vercel.app/term/cost-per-mille-cpm/): The cost to purchase 1,000 ad impressions.
+- [Cost Per Transaction (CPT)](https://mma-academy-dictionary.vercel.app/term/cost-per-transaction-cpt/): The cost paid per individual sales order generated.
+- [Data Clean Room](https://mma-academy-dictionary.vercel.app/term/data-clean-room/): Privacy-safe environment for combining advertiser and retailer datasets.
+- [Deterministic Matching](https://mma-academy-dictionary.vercel.app/term/deterministic-matching/): Linking consumer records across channels using verified, unique identifiers such as their purchasing habits (e.g., hashed email address, phone number, loyalty ID, CRM record) ra…
+- [Digital Out-of-Home (DOOH / In-Store Screens)](https://mma-academy-dictionary.vercel.app/term/digital-out-of-home-dooh-in-store-screens/): Digitized video screens, interactive endcaps, and display panels located within physical retail aisles and checkouts.
+- [Digital Shelf Optimisation](https://mma-academy-dictionary.vercel.app/term/digital-shelf-optimisation/): Improving discoverability + conversion.
+- [Dynamic Creative Optimization (DCO)](https://mma-academy-dictionary.vercel.app/term/dynamic-creative-optimization-dco/): Ad technology that dynamically creates personalized ad variants at serving time by pulling in real-time retail signals such as stock level, localized pricing, and shopper affini…
+- [Effective CPM (eCPM)](https://mma-academy-dictionary.vercel.app/term/effective-cpm-ecpm/): The actual monetization yield earned per 1,000 delivered impressions.
+- [Endemic Advertiser](https://mma-academy-dictionary.vercel.app/term/endemic-advertiser/): Brand that sells products within the retailer.
+- [Fill Rate](https://mma-academy-dictionary.vercel.app/term/fill-rate/): The percentage of available advertising inventory successfully sold and rendered.
+- [First-Party Data](https://mma-academy-dictionary.vercel.app/term/first-party-data/): Data collected directly by the retailer.
+- [GMV Max (TikTok Shop)](https://mma-academy-dictionary.vercel.app/term/gmv-max-tiktok-shop/): TikTok Shop's automated advertising campaign type that controls bidding, targeting, and creative distribution across the whole platform in a single campaign.
+- [House Ads](https://mma-academy-dictionary.vercel.app/term/house-ads/): Internal promotions run by the retailer.
+- [Identity Graph (ID Graph)](https://mma-academy-dictionary.vercel.app/term/identity-graph-id-graph/): A unified database combining fragmented consumer identifiers (loyalty card numbers, app IDs, hashed emails, cookie data, mobile device IDs) into single distinct shopper profiles.
+- [In-Store Media](https://mma-academy-dictionary.vercel.app/term/in-store-media/): Retail media within physical stores.
+- [Incremental Return on Ad Spend (iROAS)](https://mma-academy-dictionary.vercel.app/term/incremental-return-on-ad-spend-iroas/): A performance metric isolating purely incremental sales driven per dollar of ad spend, calculated by subtracting organic baseline sales via test-vs-control experiments.
+- [Incrementality](https://mma-academy-dictionary.vercel.app/term/incrementality/): The net-new sales and revenue generated strictly as a causal result of ad exposure that would not have occurred organically.
+- [Inventory Yield](https://mma-academy-dictionary.vercel.app/term/inventory-yield/): Revenue efficiency of available ad inventory.
+- [KPI (Key Performance Indicator)](https://mma-academy-dictionary.vercel.app/term/kpi-key-performance-indicator/): A measurable value that shows how well a campaign, channel, or business is progressing toward a defined objective.
+- [Media KPIs](https://mma-academy-dictionary.vercel.app/term/media-kpis/): Core campaign metric attached to advertising delivery.
+- [Retail KPIs](https://mma-academy-dictionary.vercel.app/term/retail-kpis/): The commerce and sales measures used alongside traditional media KPIs
+- [Last Click Attribution](https://mma-academy-dictionary.vercel.app/term/last-click-attribution/): Credits the final interaction before purchase.
+- [Loyalty Data](https://mma-academy-dictionary.vercel.app/term/loyalty-data/): Shopper data from loyalty programmes.
+- [Managed Service](https://mma-academy-dictionary.vercel.app/term/managed-service/): Retail media campaigns executed by the network/provider.
+- [Marketplace](https://mma-academy-dictionary.vercel.app/term/marketplace/): Platform where multiple sellers transact.
+- [Merchandising](https://mma-academy-dictionary.vercel.app/term/merchandising/): How products are presented/sorted/promoted.
+- [Mid-Funnel](https://mma-academy-dictionary.vercel.app/term/mid-funnel/): Consideration-stage activity.
+- [Native Placement](https://mma-academy-dictionary.vercel.app/term/native-placement/): Ad matching surrounding experience - less disruptive than banners.
+- [New-to-Brand](https://mma-academy-dictionary.vercel.app/term/new-to-brand/): Customers who have not purchased the brand before - key acquisition metric.
+- [Non-Endemic Advertiser](https://mma-academy-dictionary.vercel.app/term/non-endemic-advertiser/): Advertiser not selling directly in retailer ecosystem.
+- [Offsite Retail Media](https://mma-academy-dictionary.vercel.app/term/offsite-retail-media/): Retail audience targeting beyond retailer-owned properties.
+- [Omnichannel Closed-Loop Attribution](https://mma-academy-dictionary.vercel.app/term/omnichannel-closed-loop-attribution/): Attribution methodology linking digital ad exposures (onsite or offsite) to in-store physical till transactions via unified loyalty cards or digital payments.
+- [Omnichannel Retail Media](https://mma-academy-dictionary.vercel.app/term/omnichannel-retail-media/): Integrated digital + in-store retail media.
+- [Onsite Display](https://mma-academy-dictionary.vercel.app/term/onsite-display/): Display ads available across Retailer digital properties, for brands to showcase their message
+- [Onsite Retail Media](https://mma-academy-dictionary.vercel.app/term/onsite-retail-media/): Advertising on retailer-owned digital properties.
+- [Owned & Operated Media](https://mma-academy-dictionary.vercel.app/term/owned-operated-media/): Advertising inventory located within properties directly owned and controlled by retailers, i.e web, app, stores, CRM.
+- [Digital](https://mma-academy-dictionary.vercel.app/term/digital/): In retail media, the online and screen-based channels where ads run, such as retailer websites, apps, emails, and in-store digital screens, as opposed to printed or physical media.
+- [PDP (Product Detail Page)](https://mma-academy-dictionary.vercel.app/term/pdp-product-detail-page/): Product-specific page.
+- [Performance Media](https://mma-academy-dictionary.vercel.app/term/performance-media/): Digital media planned and optimised towards measurable actions such as clicks, leads, conversions or sales.
+- [Point-of-Sale (POS) Media](https://mma-academy-dictionary.vercel.app/term/point-of-sale-pos-media/): Physical and digital advertising units situated at checkout points, including customer-facing payment terminals, digital screen carousels, and printed/digital receipt ads.
+- [Post-Click Attribution](https://mma-academy-dictionary.vercel.app/term/post-click-attribution/): Measurement after a click.
+- [Post-View Attribution](https://mma-academy-dictionary.vercel.app/term/post-view-attribution/): Measurement after exposure without click.
+- [Probabilistic Targeting / Matching](https://mma-academy-dictionary.vercel.app/term/probabilistic-targeting-matching/): A model-based approach that estimates whether behaviors relate to the same or likely audiences without relying solely on personal identifiable information.
+- [Query Intent](https://mma-academy-dictionary.vercel.app/term/query-intent/): Shopper intent inferred from search terms.
+- [Reach](https://mma-academy-dictionary.vercel.app/term/reach/): Number of unique shoppers exposed.
+- [Retail Media](https://mma-academy-dictionary.vercel.app/term/retail-media/): Advertising monetisation using retailer assets + shopper data.
+- [Retail Media Network (RMN)](https://mma-academy-dictionary.vercel.app/term/retail-media-network-rmn/): Organised retail advertising business.
+- [Retail Media Platform (RMP)](https://mma-academy-dictionary.vercel.app/term/retail-media-platform-rmp/): A technological solution or software system that facilitates the management, execution, and analysis of advertising campaigns" within retail networks.
+- [Return on Ad Spend (ROAS)](https://mma-academy-dictionary.vercel.app/term/return-on-ad-spend-roas/): The gross revenue generated for every dollar spent on media (includes both incremental and non-incremental organic sales).
+- [Revenue Share](https://mma-academy-dictionary.vercel.app/term/revenue-share/): Commercial model where provider takes % of media revenue.
+- [Run Rate](https://mma-academy-dictionary.vercel.app/term/run-rate/): Projected performance based on current pace.
+- [Second-Party (2P) Data](https://mma-academy-dictionary.vercel.app/term/second-party-2p-data/): First-party data shared directly and securely between two mutually agreeing parties (e.g., a CPG brand sharing CRM lists directly with a retailer inside a clean room) without go…
+- [Self-Service Platform](https://mma-academy-dictionary.vercel.app/term/self-service-platform/): Advertisers/agencies launch campaigns themselves
+- [Sell-Through Rate](https://mma-academy-dictionary.vercel.app/term/sell-through-rate/): The percentage of physical inventory sold relative to the amount received from suppliers over a set period.
+- [Share of Search (SoS)](https://mma-academy-dictionary.vercel.app/term/share-of-search-sos/): The percentage of total search queries a specific brand captures within a category taxonomy over a selected timeframe.
+- [Share of Voice (SOV)](https://mma-academy-dictionary.vercel.app/term/share-of-voice-sov/): Brand visibility versus competitors.
+- [Shelf Placement](https://mma-academy-dictionary.vercel.app/term/shelf-placement/): Product visibility position.
+- [Shopper Marketing](https://mma-academy-dictionary.vercel.app/term/shopper-marketing/): Brand activity influencing purchase decisions.
+- [Smart Carts / Smart Trolleys](https://mma-academy-dictionary.vercel.app/term/smart-carts-smart-trolleys/): In-store shopping carts outfitted with barcode scanners, weight sensors, and digital interactive screens that deliver contextual ads and wayfinding based on physical aisle locat…
+- [Sponsored Brands](https://mma-academy-dictionary.vercel.app/term/sponsored-brands/): Brand-led search/display units.
+- [Sponsored Display](https://mma-academy-dictionary.vercel.app/term/sponsored-display/): Audience- and product-targeted display units that appear throughout product detail pages, browse paths, and offsite networks to drive consideration or retargeting.
+- [Sponsored Products](https://mma-academy-dictionary.vercel.app/term/sponsored-products/): Auction-based product-listing ads that brands bid on to secure native ad placements in premium, top-row locations showcasing their products on the ecommerce site.
+- [Sponsored Search](https://mma-academy-dictionary.vercel.app/term/sponsored-search/): Auction-based keyword-targeted ads that brands bid on to secure native placements against relevant search queries on the ecommerce site.
+- [TAP (Trusted Agent Protocol)](https://mma-academy-dictionary.vercel.app/term/tap-trusted-agent-protocol/): Trusted Agent Protocol is an open specification, co-developed by Visa and Cloudflare, that attaches cryptographically signed identity headers to AI agent web requests so a merch…
+- [Targeting](https://mma-academy-dictionary.vercel.app/term/targeting/): Selecting audience criteria.
+- [Third-Party Data](https://mma-academy-dictionary.vercel.app/term/third-party-data/): Data collected by a party with no direct relationship to the shopper, typically aggregated across unrelated websites/apps and licensed via a data broker or exchange. Not the pre…
+- [Trade Marketing](https://mma-academy-dictionary.vercel.app/term/trade-marketing/): Retailer-brand promotional collaboration.
+- [UCP (Universal Commerce Protocol)](https://mma-academy-dictionary.vercel.app/term/ucp-universal-commerce-protocol/): An open-source standard that gives AI agents and merchant stores a shared language so shoppers can add items to cart from within Search, Gemini, YouTube, or Gmail.
+- [Unique Reach](https://mma-academy-dictionary.vercel.app/term/unique-reach/): Distinct individuals exposed.
+- [Upsell](https://mma-academy-dictionary.vercel.app/term/upsell/): Driving shoppers to higher-value products.
+- [View-Through Conversion](https://mma-academy-dictionary.vercel.app/term/view-through-conversion/): Conversion after seeing (but not clicking) an ad.
+- [Viewability](https://mma-academy-dictionary.vercel.app/term/viewability/): A metric tracking whether an ad unit was visibly rendered on a screen according to industry standards (whether an ad was actually visible). (e.g., MRC/IAB standard: at least 50%…
+- [Viewability](https://mma-academy-dictionary.vercel.app/term/viewability-2/): Whether an ad was actually visible.
+- [Walled Garden](https://mma-academy-dictionary.vercel.app/term/walled-garden/): Closed ecosystem with proprietary data.
+- [XML Product Feed](https://mma-academy-dictionary.vercel.app/term/xml-product-feed/): Structured product catalogue feed used in ad systems.
+- [Yield Management](https://mma-academy-dictionary.vercel.app/term/yield-management/): Optimising revenue from inventory.
+- [Zero-Party Data](https://mma-academy-dictionary.vercel.app/term/zero-party-data/): Data intentionally shared by consumers.
+
+## Consumer & Culture Trends
+
+- [Adulting](https://mma-academy-dictionary.vercel.app/term/adulting/): A verb, popularized mainly by millennials, describing the act of doing routine responsible tasks associated with being a grown-up.
+- [Brain Rot](https://mma-academy-dictionary.vercel.app/term/brain-rot/): The perceived mental decline caused by consuming excessive amounts of low-quality, trivial online content, especially short-form social media video.
+- [#CareerTok](https://mma-academy-dictionary.vercel.app/term/careertok/): A TikTok content community where mostly Gen Z users share job search advice, interview tips, and workplace stories.
+- [#CoffeeTok](https://mma-academy-dictionary.vercel.app/term/coffeetok/): A TikTok community and hashtag built around home coffee-making content, recipes, and product recommendations, especially popular with Gen Z.
+- [Consumer Ethnography](https://mma-academy-dictionary.vercel.app/term/consumer-ethnography/): A research method that studies consumers by directly observing their real behavior in natural settings rather than relying only on surveys or self-reported answers.
+- [Crowded Loneliness](https://mma-academy-dictionary.vercel.app/term/crowded-loneliness/): The experience of feeling isolated or emotionally disconnected despite being constantly surrounded by people and digital connections.
+- [Digital Detox Tourism](https://mma-academy-dictionary.vercel.app/term/digital-detox-tourism/): Travel experiences designed around unplugging from phones and the internet, offered by hotels and resorts as a wellness feature.
+- [Distorted Reality](https://mma-academy-dictionary.vercel.app/term/distorted-reality/): The gap between curated, filtered, or manipulated media content and actual reality, especially as shaped by social media and retouched marketing imagery.
+- [Doomscrolling](https://mma-academy-dictionary.vercel.app/term/doomscrolling/): The habit of continuously scrolling through distressing or negative news and social media content, even when it causes anxiety.
+- [Effective Altruism](https://mma-academy-dictionary.vercel.app/term/effective-altruism/): A philosophical and social movement that uses evidence and reasoning to determine the most effective ways to help others and allocate resources.
+- [Funvertising](https://mma-academy-dictionary.vercel.app/term/funvertising/): Advertising that emphasizes playfulness, humor, and entertainment value as its primary way of engaging an audience, rather than direct persuasion.
+- [Gen Z Mindset](https://mma-academy-dictionary.vercel.app/term/gen-z-mindset/): The distinct values, media habits, and expectations of Generation Z consumers that marketers must understand to engage them effectively.
+- [Gen Zalpha](https://mma-academy-dictionary.vercel.app/term/gen-zalpha/): An informal micro-generation label for people born around the cusp of Generation Z and Generation Alpha, blending traits of both cohorts.
+- [Inclusive Exclusivity](https://mma-academy-dictionary.vercel.app/term/inclusive-exclusivity/): A brand strategy that creates a sense of exclusive, insider access while still keeping the experience open to a broad and diverse audience.
+- [Infodemic](https://mma-academy-dictionary.vercel.app/term/infodemic/): An excessive, fast-spreading flow of information, including misinformation and rumors, that makes a crisis harder to manage.
+- [Joever](https://mma-academy-dictionary.vercel.app/term/joever/): An internet slang blend of Joe and over, originally mocking Joe Biden's political prospects, now used broadly to declare that anything is definitively finished.
+- [JOMO](https://mma-academy-dictionary.vercel.app/term/jomo/): "Joy of Missing Out," the contentment that comes from opting out of social obligations or constant online activity, in contrast to FOMO.
+- [Kidult Consumer](https://mma-academy-dictionary.vercel.app/term/kidult-consumer/): An adult consumer who buys toys, games, or collectibles for personal enjoyment rather than for a child, driven by nostalgia and hobbyist interest.
+- [KOL (Key Opinion Leader)](https://mma-academy-dictionary.vercel.app/term/kol-key-opinion-leader/): An influencer with recognized authority in a category, such as beauty, tech, or lifestyle, distinguished from a KOC, an everyday user whose reviews read as authentic.
+- [Lazy Girl Job](https://mma-academy-dictionary.vercel.app/term/lazy-girl-job/): A well-paid, low-stress job with strong work-life balance, popularized on TikTok as a rejection of hustle culture rather than literal laziness.
+- [Metamodernism](https://mma-academy-dictionary.vercel.app/term/metamodernism/): A cultural sensibility positioned between modernism's sincerity and postmodernism's irony, now applied in marketing to describe brand tones that mix earnestness with self-aware …
+- [Micro Drama / Vertical Drama](https://mma-academy-dictionary.vercel.app/term/micro-drama-vertical-drama/): A serialized short-video format, filmed vertically for mobile viewing, that tells a story across brief cliffhanger episodes typically one to three minutes long.
+- [NSFW (Not Safe For Work)](https://mma-academy-dictionary.vercel.app/term/nsfw-not-safe-for-work/): An internet label warning that content, usually sexual, violent, or explicit, is inappropriate to view in a workplace or public setting.
+- [Queenager](https://mma-academy-dictionary.vercel.app/term/queenager/): A blend of "queen" and "teenager" used for confident, stylish, middle-aged and older women who embrace their age rather than hide it.
+- [ROBO (Research Online, Buy Offline)](https://mma-academy-dictionary.vercel.app/term/robo-research-online-buy-offline/): A buying pattern where consumers research products online, then complete the purchase in a physical store.
+- [Scroll Burnout](https://mma-academy-dictionary.vercel.app/term/scroll-burnout/): Mental and emotional exhaustion from prolonged, often mindless scrolling through social media feeds.
+- [Seenager](https://mma-academy-dictionary.vercel.app/term/seenager/): A blend of "senior" and "teenager" describing older adults, generally past traditional retirement age, who stay active, curious, and open to new trends.
+- [Spokeshologram](https://mma-academy-dictionary.vercel.app/term/spokeshologram/): A brand character introduced by Best Buy in 2024, a holographic spokesperson named Gram used across its advertising in the AI era.
+- [Sustainable Fashion Tech](https://mma-academy-dictionary.vercel.app/term/sustainable-fashion-tech/): Technologies, such as recycled materials, digital sampling, and supply chain tracking, aimed at reducing fashion's environmental impact.
+- [Zoom Fatigue](https://mma-academy-dictionary.vercel.app/term/zoom-fatigue/): The exhaustion and burnout caused by spending long periods on video calls, first widely reported during the COVID-19 pandemic.
+- [Zoombombing](https://mma-academy-dictionary.vercel.app/term/zoombombing/): The act of an uninvited person disrupting a video call, often by displaying offensive images or language, by exploiting weak meeting security.
+
+## MMA Programs & Frameworks
+
+- [ALC (AI Leadership Coalition)](https://mma-academy-dictionary.vercel.app/term/alc-ai-leadership-coalition/): A think tank focused on advancing the responsible use of AI in marketing.
+- [BaP (Brand as Performance)](https://mma-academy-dictionary.vercel.app/term/bap-brand-as-performance/): A research study that quantifies the direct impact of branding on business performance and customer acquisition.
+- [BII (Business Impact Index)](https://mma-academy-dictionary.vercel.app/term/bii-business-impact-index/): An index that evaluates the business performance of SMARTIES award-winning campaigns.
+- [CAP (Consortium for AI Personalization)](https://mma-academy-dictionary.vercel.app/term/cap-consortium-for-ai-personalization/): A collaborative initiative exploring the role of AI in personalizing marketing and customer interactions.
+- [DATT (Data in Marketing Think Tank)](https://mma-academy-dictionary.vercel.app/term/datt-data-in-marketing-think-tank/): A think tank dedicated to using data and AI to improve customer experiences and marketing efficiency.
+- [FSS (First Second Strategy)](https://mma-academy-dictionary.vercel.app/term/fss-first-second-strategy/): A neuroscience-based study analyzing how consumers react to advertising within the first second of exposure.
+- [MAdopt (Marketer Adoption Initiative)](https://mma-academy-dictionary.vercel.app/term/madopt-marketer-adoption-initiative/): An initiative to increase the adoption of MMA’s marketing tools and best practices among members.
+- [MARS (Mobile, Analytics, Real-Time, Social)](https://mma-academy-dictionary.vercel.app/term/mars-mobile-analytics-real-time-social/): A framework for marketing strategies that integrate mobile, analytics, real-time decision-making, and social media.
+- [MATT (Marketing Attribution Think Tank)](https://mma-academy-dictionary.vercel.app/term/matt-marketing-attribution-think-tank/): A think tank dedicated to improving marketing attribution and proving marketing’s impact on business growth.
+- [MCB (Marketing Capabilities Benchmark)](https://mma-academy-dictionary.vercel.app/term/mcb-marketing-capabilities-benchmark/): An assessment system that measures individual team members’ marketing capabilities.
+- [MM25 (Peer Group for Marketing Executives)](https://mma-academy-dictionary.vercel.app/term/mm25-peer-group-for-marketing-executives/): A networking and knowledge-sharing group for senior marketing leaders.
+- [MMGF (Movable Middles Growth Framework)](https://mma-academy-dictionary.vercel.app/term/mmgf-movable-middles-growth-framework/): A targeting framework that focuses marketing investments on consumer segments most likely to respond to advertising.
+- [MOSTT (Marketing Organization Structure Think Tank)](https://mma-academy-dictionary.vercel.app/term/mostt-marketing-organization-structure-think-tank/): A think tank focused on analyzing and optimizing marketing organization structures.
+- [MRA (MarCaps Readiness Assessment)](https://mma-academy-dictionary.vercel.app/term/mra-marcaps-readiness-assessment/): A diagnostic tool that evaluates an organization’s marketing capabilities and their alignment with business strategy.
+- [Project ROMI (Return on Marketing Investment)](https://mma-academy-dictionary.vercel.app/term/project-romi-return-on-marketing-investment/): A study connecting marketing investments to financial growth by demonstrating measurable returns.
+- [RAIL (Responsible AI Innovation Lab)](https://mma-academy-dictionary.vercel.app/term/rail-responsible-ai-innovation-lab/): A research group developing ethical and practical AI applications for marketing.
+- [ROEX (Return on Omnichannel Experience)](https://mma-academy-dictionary.vercel.app/term/roex-return-on-omnichannel-experience/): A study measuring the financial impact of omnichannel customer experiences.
+- [SAVE (Brand Safety Council Initiative)](https://mma-academy-dictionary.vercel.app/term/save-brand-safety-council-initiative/): An initiative to develop brand-safe advertising practices and reduce digital advertising risks.
+- [SMARTIES (Business Impact Awards)](https://mma-academy-dictionary.vercel.app/term/smarties-business-impact-awards/): A global award program recognizing marketing innovation and business impact in mobile and digital marketing.
+- [SMoX (Smart Marketing Cross-Effectiveness)](https://mma-academy-dictionary.vercel.app/term/smox-smart-marketing-cross-effectiveness/): A research initiative that measures the effectiveness of advertising across multiple media channels.
+
+## Leadership & Organization
+
+- [Anchoring Brand Value](https://mma-academy-dictionary.vercel.app/term/anchoring-brand-value/): The practice of fixing a clear, consistent perception of what a brand is worth or stands for in customers' minds over time.
+- [Breaking the Rules / Take Risks](https://mma-academy-dictionary.vercel.app/term/breaking-the-rules-take-risks/): A leadership stance that deliberately challenges established norms and accepts calculated risk to create differentiated, breakthrough marketing or business outcomes.
+- [CAIO (Chief AI Officer)](https://mma-academy-dictionary.vercel.app/term/caio-chief-ai-officer/): A C-suite executive responsible for an organization's AI roadmap, guardrails, cross-functional AI teams, and measurement of AI-driven outcomes.
+- [CGO (Chief Growth Officer)](https://mma-academy-dictionary.vercel.app/term/cgo-chief-growth-officer/): A C-suite role that owns growth across the funnel, acquisition, conversion, and retention, by combining marketing, product, and data functions.
+- [Change Agent](https://mma-academy-dictionary.vercel.app/term/change-agent/): A person who actively drives and supports the adoption of a new process, structure, or way of working inside an organization.
+- [Cognitive Inequality](https://mma-academy-dictionary.vercel.app/term/cognitive-inequality/): An unequal ability to control, understand, or benefit from AI systems, which leaves some people directing AI and others dependent on it.
+- [Content Innovation](https://mma-academy-dictionary.vercel.app/term/content-innovation/): The continuous development of new content formats, distribution methods, or storytelling approaches to keep a brand's communication relevant as media habits evolve.
+- [Enterprise-Wide Modeling](https://mma-academy-dictionary.vercel.app/term/enterprise-wide-modeling/): A management approach that spreads data modeling and simulation practices across every company function, beyond specialized technical or analytics teams.
+- [HITL (Human in the Loop)](https://mma-academy-dictionary.vercel.app/term/hitl-human-in-the-loop/): Human in the Loop is an operating principle where a trained person reviews or approves higher-risk AI agent actions, such as sends, payments, deletions or published content, bef…
+- [Human Cloud / Fluid Workforce](https://mma-academy-dictionary.vercel.app/term/human-cloud-fluid-workforce/): A model of work in which organizations source labor on demand from a global pool of independent, digitally connected workers rather than fixed employees.
+- [Human-Centric Marketing](https://mma-academy-dictionary.vercel.app/term/human-centric-marketing/): A marketing approach that designs strategy, products, and messaging around genuine human needs and experience rather than around channels, technology, or internal processes first.
+- [Jobpocalypse](https://mma-academy-dictionary.vercel.app/term/jobpocalypse/): A media shorthand for the feared large-scale displacement of jobs by AI and automation.
+- [Lead Like a Scientist](https://mma-academy-dictionary.vercel.app/term/lead-like-a-scientist/): A leadership approach that applies the scientific method, forming hypotheses, testing them, and using evidence, to organizational and marketing decisions.
+- [Lemonading](https://mma-academy-dictionary.vercel.app/term/lemonading/): The active, creative practice of reframing a setback or hardship into an opportunity, rather than passively staying positive.
+- [Move the Needle](https://mma-academy-dictionary.vercel.app/term/move-the-needle/): A business idiom meaning to make a noticeable, measurable, and usually positive impact toward a goal.
+- [Navigating Media Shifts](https://mma-academy-dictionary.vercel.app/term/navigating-media-shifts/): The ability of marketing organizations to adapt quickly and effectively as audiences move between media channels and consumption habits change.
+- [Perk-cession](https://mma-academy-dictionary.vercel.app/term/perk-cession/): The reduction or elimination of employee perks, like free meals or commuting benefits, as companies cut costs during an economic downturn.
+- [Quick Quitting vs. Quiet Quitting](https://mma-academy-dictionary.vercel.app/term/quick-quitting-vs-quiet-quitting/): Two distinct workplace trends: quick quitting means leaving a job within roughly a year, while quiet quitting means staying in a role but doing only the minimum required.
+- [Quiet Thriving](https://mma-academy-dictionary.vercel.app/term/quiet-thriving/): A workplace approach in which employees make small, deliberate changes within their own control to find more meaning and satisfaction at work, rather than making a big change li…
+- [Spitball](https://mma-academy-dictionary.vercel.app/term/spitball/): An informal, unpolished idea thrown out during brainstorming, offered for discussion rather than as a finished proposal.
+- [Strategic Storytelling](https://mma-academy-dictionary.vercel.app/term/strategic-storytelling/): The deliberate use of narrative structure, combined with data and technology, to communicate a brand's purpose or strategy in a way that is memorable and persuasive.
+- [Tech Shame](https://mma-academy-dictionary.vercel.app/term/tech-shame/): The feeling of embarrassment or judgment an employee experiences when they have a technical problem at work, such as a video call glitch.
+- [Vulnerability in Leadership](https://mma-academy-dictionary.vercel.app/term/vulnerability-in-leadership/): A leadership style that values openness about uncertainty, mistakes, and personal limitations as a way to build trust and stronger teams.
+

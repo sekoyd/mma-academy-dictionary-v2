@@ -1,0 +1,459 @@
+[
+ {
+  "notion_title": "Seenager:",
+  "term": "Seenager",
+  "short_definition": "A blend of \"senior\" and \"teenager\" describing older adults, generally past traditional retirement age, who stay active, curious, and open to new trends.",
+  "long_explanation": "Seenager describes people in their 60s, 70s, or beyond who reject the passive image often attached to old age and instead pursue travel, hobbies, fitness, and new experiences much as a teenager pursues novelty. The word began circulating online and in lifestyle press during the 2010s as a lighter, more positive alternative to labels like \"senior citizen\" or \"elderly.\" For marketers, the term matters because it signals a real shift in how this age group wants to be addressed: as active consumers with disposable income and time, not as a passive demographic to be talked down to. Brands in travel, wellness, fashion, and technology increasingly build campaigns around this reframed image of later life.",
+  "usage_context": null,
+  "related_terms": "Queenager, Kidult Consumer, Adulting",
+  "tr_equivalent": null,
+  "tr_definition": "Torun bakmak yerine yeni deneyimler arayan, aktif ve genç ruhlu yaşlı yetişkinleri tanımlamak için kullanılan \"senior\" ve \"teenager\" birleşiminden bir terim.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": "No single documented coiner was found for this term; treat the origin as informal/internet-popularized rather than attributable to one person or publication."
+ },
+ {
+  "notion_title": "QUEENAGER",
+  "term": "Queenager",
+  "short_definition": "A blend of \"queen\" and \"teenager\" used for confident, stylish, middle-aged and older women who embrace their age rather than hide it.",
+  "long_explanation": "Queenager was proposed by Alyson Walsh, journalist and founder of the style blog That's Not My Age, in a 2020 post arguing that older women deserve a more empowering label than \"pensioner\" or \"OAP.\" The term reframes midlife and later life as a period of self-assurance and personal style rather than decline. For marketers, it matters because it names a large, high-spending demographic that fashion, beauty, and wellness brands have historically underserved or stereotyped; campaigns built around the queenager idea position older women as aspirational rather than invisible.",
+  "usage_context": "That's Not My Age itself functions as a case study: Walsh built the blog and its \"Queen-Ager\" language into a recognized platform and community for stylish women over 50, which brands and retailers now reference when discussing this audience.",
+  "related_terms": "Seenager, Kidult Consumer, Adulting",
+  "tr_equivalent": null,
+  "tr_definition": "\"Queen\" (kraliçe) ve \"teenager\" kelimelerinin birleşiminden oluşan, yaşını saklamak yerine özgüvenle sahiplenen orta yaş ve üzeri kadınları tanımlayan terim.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://thatsnotmyage.com/style-at-any-age/why-older-women-should-be-known-as-queen-agers/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "change agent:",
+  "term": "Change Agent",
+  "short_definition": "A person who actively drives and supports the adoption of a new process, structure, or way of working inside an organization.",
+  "long_explanation": "A change agent is an individual, inside or outside a company, who takes responsibility for making organizational change happen and stick, whether that is a new tool, a restructured team, or a shift in business model. The term is standard in management and organizational-development literature and is closely related to \"change champion,\" though a change agent is generally seen as carrying more direct accountability for the change succeeding. It matters for marketing and business teams because digital transformation, new martech adoption, or rebranding efforts typically fail without someone in this role driving buy-in, training, and follow-through across departments.",
+  "usage_context": null,
+  "related_terms": "Digital Maturity, Change Champion",
+  "tr_equivalent": "Değişim elçisi",
+  "tr_definition": "Bir kuruluş içinde yeni bir süreç, yapı veya çalışma biçiminin benimsenmesini aktif olarak destekleyen ve yöneten kişi.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.techtarget.com/whatis/definition/business-process-transformation",
+   "https://www.techtarget.com/searchcio/tip/4-examples-of-digital-transformation-success-in-business"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "AI ethics:",
+  "term": "AI Ethics",
+  "short_definition": "The set of principles and practices concerned with developing and using artificial intelligence in a safe, fair, and accountable way.",
+  "long_explanation": "AI ethics addresses questions such as who is responsible for decisions an AI system makes, how to prevent bias and harm, and how to keep AI development aligned with human values. It has grown from an academic and policy discussion into a practical concern for any organization deploying AI, including marketers using generative tools, recommendation engines, or automated targeting. For marketing teams, AI ethics matters because misuse of customer data, biased personalization, or unchecked AI-generated content can create legal exposure and damage brand trust, making ethical review a normal part of AI adoption rather than an afterthought.",
+  "usage_context": null,
+  "related_terms": "Hallucinate, AI Ethics Guidelines",
+  "tr_equivalent": "Yapay zeka etiği",
+  "tr_definition": "Yapay zekanın güvenli, adil ve hesap verebilir bir şekilde geliştirilmesi ve kullanılmasıyla ilgilenen ilke ve uygulamalar bütünü.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "JOMO",
+  "term": "JOMO",
+  "short_definition": "\"Joy of Missing Out,\" the contentment that comes from opting out of social obligations or constant online activity, in contrast to FOMO.",
+  "long_explanation": "JOMO was coined by writer Anil Dash in a 2012 blog post as a deliberate counterpoint to FOMO (fear of missing out), a term Patrick McGinnis had introduced in 2004. Where FOMO describes anxiety about missing events or updates, JOMO describes the relief and satisfaction of stepping back from that pressure and choosing presence over constant connectivity. The concept matters for marketers because it reflects a real consumer shift toward digital wellbeing, slower travel, and mindful consumption, and it has shaped campaigns in wellness, hospitality, and lifestyle categories that sell disconnection as a benefit rather than a loss.",
+  "usage_context": null,
+  "related_terms": "FOMO, Doomscrolling, Digital Detox",
+  "tr_equivalent": null,
+  "tr_definition": "Sürekli bağlantıda olma baskısından uzaklaşmanın verdiği huzuru ifade eden, FOMO'nun (bir şeyi kaçırma korkusu) karşıtı olan terim.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://dictionaryblog.cambridge.org/2015/06/15/new-words-15-june-2015"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Doomscrolling: This refers to the habit of endlessly scrolling through negative news or social media feeds, even when it causes anxiety or distress.",
+  "term": "Doomscrolling",
+  "short_definition": "The habit of continuously scrolling through distressing or negative news and social media content, even when it causes anxiety.",
+  "long_explanation": "Doomscrolling describes compulsively consuming a stream of alarming or negative information, usually through a smartphone, well past the point where it stops being informative and starts causing emotional harm. Usage of the term surged during the COVID-19 pandemic and periods of major news events, when 24-hour news cycles and algorithm-driven feeds made it easy to stay locked into distressing content. For marketers and platforms, doomscrolling matters because it raises questions about content design, notification strategy, and audience wellbeing, and it has pushed some brands and apps toward messaging around digital breaks and healthier feed habits.",
+  "usage_context": null,
+  "related_terms": "JOMO, Tech Shame, Dark Social",
+  "tr_equivalent": null,
+  "tr_definition": "Kaygı veya sıkıntı yaratsa bile olumsuz haber ve sosyal medya içeriklerinde durmaksızın gezinme alışkanlığı.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Storyselling: Storyselling focuses on using storytelling techniques to sell products or services. It involves crafting narratives that evoke emotions, engage audiences, and create a connection between the brand and the consumer.",
+  "term": "Storyselling",
+  "short_definition": "A marketing approach that uses narrative techniques, rather than direct pitches, to sell products or services by building emotional connection.",
+  "long_explanation": "Storyselling combines storytelling craft with a sales objective: instead of listing features, a brand builds a narrative with characters, tension, and resolution that leads the audience toward wanting the product. It draws on older ideas from advertising and copywriting about emotional persuasion, packaged under a term used mainly in marketing and sales-training content since the 2010s. It matters for marketers because attention is scarce and consumers are skeptical of overt advertising, so a well-told story can carry a sales message further than a direct claim, particularly in video, social content, and brand campaigns.",
+  "usage_context": null,
+  "related_terms": "Newsjacking, Memevertising, Edutainment",
+  "tr_equivalent": null,
+  "tr_definition": "Ürün veya hizmeti doğrudan anlatmak yerine hikaye anlatım teknikleriyle duygusal bağ kurarak satmayı amaçlayan pazarlama yaklaşımı.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "ROBO",
+  "term": "ROBO (Research Online, Buy Offline)",
+  "short_definition": "A buying pattern where consumers research products online, then complete the purchase in a physical store.",
+  "long_explanation": "ROBO, also called ROPO (research online, purchase offline) or webrooming, describes shoppers who compare prices, read reviews, and gather information online before buying in person, often to see or handle the product first or to avoid shipping delays. It is the mirror image of showrooming, where shoppers check a product in-store and then buy it online. The pattern matters for marketers because it means online content, reviews, and search visibility directly influence in-store sales even when the final transaction leaves no online trail, which complicates attribution and makes omnichannel measurement important.",
+  "usage_context": null,
+  "related_terms": "Webrooming, Showrooming, Digital Maturity",
+  "tr_equivalent": null,
+  "tr_definition": "Tüketicilerin bir ürünü çevrimiçi araştırdıktan sonra fiziksel bir mağazadan satın aldığı alışveriş davranışı.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Research_online,_purchase_offline"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Spitball",
+  "term": "Spitball",
+  "short_definition": "An informal, unpolished idea thrown out during brainstorming, offered for discussion rather than as a finished proposal.",
+  "long_explanation": "To \"spitball\" is to suggest a rough idea without much preparation, typically in a casual or collaborative setting where the goal is to generate many possibilities rather than to present a fully developed plan. The term borrows from the literal meaning of a spitball as something quickly formed and thrown, used figuratively in business and creative jargon for informal idea generation. It matters in marketing and creative teams because it signals psychological safety in brainstorming: team members are explicitly invited to share half-formed concepts without the pressure of immediate polish, which can surface ideas that would otherwise go unsaid.",
+  "usage_context": null,
+  "related_terms": "Brainstorming, Change Agent",
+  "tr_equivalent": null,
+  "tr_definition": "Beyin fırtınası sırasında, henüz olgunlaşmamış ve tartışmaya açık olarak ortaya atılan gayriresmi bir fikir.",
+  "category": "Leadership & Organization",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Earlybird - Erkenci Kuş",
+  "term": "Early Bird",
+  "short_definition": "A discounted price or special offer given to customers who buy or register before a set deadline, used to drive early demand.",
+  "long_explanation": "The early bird offer is a standard pricing tactic across events, travel, retail, and subscription businesses: buyers who commit early get a lower price or added benefit, while the brand gains early cash flow and demand signal well before the main sales period. It works on loss aversion and urgency, since customers who wait risk paying more or missing the deal entirely. It matters for marketers because it is one of the most reliable levers for shaping the timing of demand, useful for events, product launches, and seasonal campaigns where predictable early sign-ups help with planning and cash flow.",
+  "usage_context": "Conference and event organizers commonly use early bird pricing tiers, for example offering a lower ticket price for registrations completed weeks before the event date, then raising the price as the date approaches.",
+  "related_terms": "Information Product, Move the Needle",
+  "tr_equivalent": "Erkenci Kuş",
+  "tr_definition": "Belirli bir son tarihten önce satın alan veya kaydolan müşterilere sunulan indirimli fiyat veya özel teklif.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Distorted Reality:",
+  "term": "Distorted Reality",
+  "short_definition": "The gap between curated, filtered, or manipulated media content and actual reality, especially as shaped by social media and retouched marketing imagery.",
+  "long_explanation": "Distorted reality describes how heavily edited photos, selectively curated feeds, and idealized marketing visuals can create a false or exaggerated impression of a product, lifestyle, or person. The concept is not tied to one coiner; it has been discussed for years in media literacy and marketing-ethics writing as digital editing tools and social platforms made manipulation cheap and widespread. It matters for marketers because consumers increasingly notice and react against unrealistic imagery, and brands that lean on authenticity and unretouched content often build more durable trust than those relying on idealized visuals.",
+  "usage_context": null,
+  "related_terms": "Dark Social, Memevertising",
+  "tr_equivalent": null,
+  "tr_definition": "Sosyal medya ve pazarlama görsellerindeki filtrelenmiş, rötuşlanmış içeriklerin gerçeklikle arasındaki farkı ifade eden kavram.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": "The only supplied link was an internal Notion page URL, not a public source, so it could not be used for verification."
+ },
+ {
+  "notion_title": "Micro-moments",
+  "term": "Micro-Moments",
+  "short_definition": "Brief, intent-driven moments when a person reaches for a device to know, go, do, or buy something, coined by Google in 2015.",
+  "long_explanation": "Google introduced micro-moments in 2015 to describe the many short instances throughout a day when someone picks up a smartphone with a specific, immediate intent, whether that is looking up a fact, finding a nearby store, learning how to do something, or deciding what to buy. Google grouped these into \"I-want-to-know,\" \"I-want-to-go,\" \"I-want-to-do,\" and \"I-want-to-buy\" moments. The concept matters for marketers because it shifted planning away from broad demographic targeting toward being present and useful at the exact instant a consumer has a need, which shaped mobile search, local SEO, and real-time content strategies.",
+  "usage_context": "Retailers optimize product pages and local listings for \"near me\" mobile searches specifically to capture I-want-to-go and I-want-to-buy micro-moments.",
+  "related_terms": "SoLoMo, ROBO, Digital Maturity",
+  "tr_equivalent": null,
+  "tr_definition": "Google tarafından 2015 yılında tanımlanan, bir kişinin bir ihtiyacı karşılamak için cihazına yöneldiği kısa ve niyet dolu anlar.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://medium.com/micro-marketing/defining-your-micro-moments-feb15a7e1664"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Inclusive Exclusivity",
+  "term": "Inclusive Exclusivity",
+  "short_definition": "A brand strategy that creates a sense of exclusive, insider access while still keeping the experience open to a broad and diverse audience.",
+  "long_explanation": "Inclusive exclusivity describes retail and brand experiences designed to feel special and limited to those \"in the know,\" while avoiding the elitism or narrowness of traditional exclusivity, by welcoming a diverse range of people who discover or opt into the experience. It is a marketing and retail-trend term rather than an academic one, used to describe things like invite-only drops, member communities, or pop-up experiences that use scarcity and insider language without excluding based on demographics. It matters for marketers because it lets brands generate desire and community loyalty through perceived exclusivity while still growing an inclusive customer base, avoiding the reputational risk of appearing elitist.",
+  "usage_context": null,
+  "related_terms": "Micro-Moments, Earlybird",
+  "tr_equivalent": null,
+  "tr_definition": "Markaların, ayrıcalık ve içeriden olma hissi yaratırken aynı zamanda geniş ve çeşitli bir kitleye açık kalan deneyimler kurgulaması.",
+  "category": "Consumer & Culture Trends",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Dark social: Dark social is a term used to describe the phenomenon of social sharing taking place within private communication channels, such as direct messaging or email. This type of sharing poses challenges for tracking and quantifying its extent. In the field of marketing, professionals actively seek to comprehend and leverage the potential of dark social as a means to gain deeper insights into consumer behavior and enhance their strategic approaches.",
+  "term": "Dark Social",
+  "short_definition": "Content sharing that happens through private channels like messaging apps and email, which standard web analytics cannot attribute to its true source.",
+  "long_explanation": "Journalist Alexis Madrigal coined the term in a 2012 article for The Atlantic, after noticing that a large share of the site's traffic was logged as \"direct\" in analytics tools even though those visitors had actually arrived via links shared in private messages, chat apps, or email rather than by typing the URL directly. Because these referrals carry no tracking parameters, the true source of the traffic is invisible, hence \"dark.\" It matters for marketers because a significant share of real sharing activity, often the most trusted kind, happens in these dark channels, meaning standard attribution models can undercount how content actually spreads and who is really driving conversions.",
+  "usage_context": null,
+  "related_terms": "Micro-Moments, Distorted Reality",
+  "tr_equivalent": null,
+  "tr_definition": "Doğrudan mesajlaşma veya e-posta gibi özel kanallar üzerinden yapılan, standart analitik araçlarla kaynağı tespit edilemeyen paylaşım biçimi.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://builtin.com/articles/dark-social",
+   "https://en.wikipedia.org/wiki/Dark_social_media"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Hallucinate:",
+  "term": "Hallucinate (AI)",
+  "short_definition": "When an AI system, especially a language model, confidently generates false or fabricated information that is not grounded in its training data or reality.",
+  "long_explanation": "In its AI sense, to hallucinate means a system like a chatbot produces plausible-sounding but incorrect or invented content, such as fake citations, wrong facts, or nonexistent events, stated with the same confidence as accurate output. Cambridge Dictionary named \"hallucinate\" its Word of the Year for 2023 specifically because of this new AI-related meaning, reflecting how central the issue had become as generative AI tools spread. It matters for marketers using AI for copy, research, or customer-facing chat because unchecked hallucinations can put false claims or made-up statistics into published content, creating legal and reputational risk unless outputs are fact-checked before use.",
+  "usage_context": "Cambridge Dictionary's selection of \"hallucinate\" as its 2023 Word of the Year, tied directly to tools like ChatGPT producing confident but false statements, is the clearest documented example of this usage entering mainstream reference.",
+  "related_terms": "AI Ethics",
+  "tr_equivalent": null,
+  "tr_definition": "Bir yapay zeka sisteminin, özellikle dil modellerinin, gerçek olmayan veya uydurma bilgiyi kendinden emin bir şekilde üretmesi.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.cambridge.org/news-and-insights/hallucinate-is-cambridge-word-of-the-year-2023",
+   "https://dictionary.cambridge.org/editorial/word-of-the-year/2023"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Memevertising:",
+  "term": "Memevertising",
+  "short_definition": "A marketing technique that uses popular internet memes and humor to promote a brand and connect with online audiences.",
+  "long_explanation": "Memevertising, also called memetic marketing, involves brands adapting or referencing viral memes in their content to feel current, relatable, and shareable rather than promotional. It grew alongside the rise of meme culture on social platforms in the 2010s and is used mainly in social media marketing, where humor and cultural relevance can spread a message further than a conventional ad. It matters for marketers because it can generate organic reach and audience goodwill cheaply, but it carries real risk: memes date quickly, and a brand using one poorly or too late can come across as forced or out of touch.",
+  "usage_context": null,
+  "related_terms": "Storyselling, Newsjacking",
+  "tr_equivalent": null,
+  "tr_definition": "Bir markanın hedef kitlesiyle bağ kurmak için popüler internet memlerini ve mizahı kullandığı pazarlama tekniği.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": null
+ },
+ {
+  "notion_title": "Tech shame",
+  "term": "Tech Shame",
+  "short_definition": "The feeling of embarrassment or judgment an employee experiences when they have a technical problem at work, such as a video call glitch.",
+  "long_explanation": "Tech shame describes the anxiety some employees feel about being seen as incompetent when they struggle with technology in front of colleagues, which can make them avoid speaking up in meetings or asking for help. A 2022 HP survey of 10,000 office workers, part of its \"Hybrid Work: Are We There Yet?\" report, found that one in five younger workers reported feeling this way, compared to about one in 25 older workers, roughly ten times the rate. It matters for workplace and internal-communications marketing because it points to a real barrier to participation and psychological safety, especially for younger employees in hybrid and remote-first teams.",
+  "usage_context": "HP's own \"Hybrid Work: Are We There Yet?\" survey report is the documented source of the one-in-five versus one-in-25 finding widely cited when the term is discussed.",
+  "related_terms": "Doomscrolling, Change Agent",
+  "tr_equivalent": null,
+  "tr_definition": "Bir çalışanın, işte teknik bir sorun yaşadığında yargılanma korkusuyla hissettiği utanma duygusu.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://www.techtarget.com/WhatIs/feature/Tech-shame-explained-Everything-you-need-to-know",
+   "https://cacm.acm.org/news/267911-gen-z-overwhelmed-by-tech-shame-at-work/fulltext"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Gen Zalpha:",
+  "term": "Gen Zalpha",
+  "short_definition": "An informal micro-generation label for people born around the cusp of Generation Z and Generation Alpha, blending traits of both cohorts.",
+  "long_explanation": "Gen Zalpha is used to describe individuals, roughly those born in the mid-to-late 2000s to early 2010s, who share Gen Z's formative experience of social media's rise and Gen Alpha's status as full digital natives raised with even more advanced technology from birth. It is a marketing and commentary term rather than a formally defined demographic cohort from a research body like Pew, and different sources place its edges differently. It matters for marketers targeting tweens and teens because this group blends behaviors from two adjacent generational frameworks, and some brands have specifically recruited \"Gen Zalpha\" influencer groups to reach both audiences at once.",
+  "usage_context": "Claire's, the accessories retailer, assembled a group of young influencers explicitly framed as \"Gen Zalpha\" brand ambassadors to guide creative direction aimed at both Gen Z and Gen Alpha shoppers.",
+  "related_terms": "Metamodernism, Kidult Consumer",
+  "tr_equivalent": null,
+  "tr_definition": "Z Kuşağı ile Alpha Kuşağı arasındaki dönemde doğan, her iki kuşağın özelliklerini taşıyan kişileri tanımlayan gayriresmi terim.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.marketingdive.com/news/claires-gen-alpha-influencer-marketing-collab/706968/",
+   "https://chainstoreage.com/claires-teams-young-gen-zalpha-influencers"
+  ],
+  "notes": "This is an informal marketing/commentary label, not a demographer-defined generation; treat its exact age boundaries as approximate."
+ },
+ {
+  "notion_title": "SoLoMo: An acronym for Social, Local, and Mobile; referring to a strategy that combines these elements to reach consumers effectively",
+  "term": "SoLoMo",
+  "short_definition": "A marketing acronym for Social, Local, and Mobile, describing strategies that combine these three elements to reach consumers.",
+  "long_explanation": "SoLoMo was coined by venture capitalist John Doerr of Kleiner Perkins in 2010 to describe the convergence of social platforms, location-based data, and mobile devices as a single, powerful marketing trend. The idea was that smartphones, always carried and always connected, let brands combine social proof, geographic relevance, and mobile delivery in one targeted message, for example a location-based offer shared through a social app. It matters historically for marketing because it named an early wave of mobile-first, geo-targeted advertising that anticipated much of today's location-based and app-driven marketing, even though the term itself has faded from everyday use.",
+  "usage_context": null,
+  "related_terms": "Micro-Moments, ROBO",
+  "tr_equivalent": null,
+  "tr_definition": "Sosyal, yerel ve mobil unsurları birleştirerek tüketiciye ulaşan pazarlama stratejilerini tanımlayan kısaltma.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://wordspy.com/words/solomo/",
+   "https://semilshah.com/2015/03/12/five-years-into-solomo/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "İmmersive Storytelling",
+  "term": "Immersive Storytelling",
+  "short_definition": "A narrative technique that places the audience inside the story using technologies like VR, AR, or 360-degree video rather than having them observe from outside.",
+  "long_explanation": "Immersive storytelling uses technologies such as virtual reality, augmented reality, 360-degree video, or interactive installations to make an audience feel present within a narrative instead of simply watching it unfold. It grew out of documentary and gaming experiments in the 2010s and has since been adopted in advertising, museum exhibits, and branded experiences. It matters for marketers because it can create stronger emotional engagement and memorability than a traditional ad, though it requires more production investment and works best when the format genuinely serves the story rather than being used as a novelty.",
+  "usage_context": null,
+  "related_terms": "Multiexperience, Storyselling",
+  "tr_equivalent": null,
+  "tr_definition": "Sanal gerçeklik, artırılmış gerçeklik veya 360 derece video gibi teknolojiler kullanarak izleyiciyi hikayenin içine dahil eden anlatım tekniği.",
+  "category": "Technology Trends",
+  "sources": [],
+  "notes": "The Notion entry for this term was empty; the definition above is written from general marketing/technology knowledge rather than from a Notion hint."
+ },
+ {
+  "notion_title": "QUICK QUITTING VS. QUITE QUITTING",
+  "term": "Quick Quitting vs. Quiet Quitting",
+  "short_definition": "Two distinct workplace trends: quick quitting means leaving a job within roughly a year, while quiet quitting means staying in a role but doing only the minimum required.",
+  "long_explanation": "Quick quitting refers to employees, often younger workers, leaving a job in under a year when it does not meet their expectations on pay, growth, or work-life balance, a pattern LinkedIn's Workforce Insights data showed rising in the early 2020s. Quiet quitting is a different behavior: staying employed but consciously stopping any effort beyond the defined job description, a term that went viral after engineer Zaid Khan posted a TikTok about it in July 2022, describing it as \"quitting the idea of going above and beyond.\" The two matter together for people-management and internal-communications marketing because they represent opposite responses to the same underlying dissatisfaction, one by physically leaving, the other by mentally disengaging while remaining on payroll.",
+  "usage_context": "Zaid Khan's July 2022 TikTok video, which popularized quiet quitting to a global audience and drew hundreds of millions of views under the #quietquitting hashtag, is the clearest documented origin point for that side of the comparison.",
+  "related_terms": "Change Agent, Tech Shame",
+  "tr_equivalent": "Sessiz istifa (quiet quitting için)",
+  "tr_definition": "\"Quick quitting\" bir yıldan kısa sürede işten ayrılmayı, \"quiet quitting\" ise işte kalıp yalnızca gerekli asgari işi yapmayı ifade eder.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://fortune.com/2023/07/11/zaid-khan-quiet-quitting-gen-z-quits-job"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Newsjacking:",
+  "term": "Newsjacking",
+  "short_definition": "The practice of injecting a brand's message or perspective into a breaking news story to gain attention and media coverage.",
+  "long_explanation": "Newsjacking was coined by marketer David Meerman Scott, who popularized it in his 2011 book of the same name, describing how brands can attach their own content or commentary to a trending news event to ride its existing attention. Done well, it means offering a genuinely relevant insight or reaction quickly while a story is still current; done poorly, it can look opportunistic or tone-deaf, especially around sensitive events. It matters for marketers because it is one of the fastest ways to gain visibility without paid media, but it requires speed, editorial judgment, and sensitivity to avoid backlash.",
+  "usage_context": null,
+  "related_terms": "Memevertising, Storyselling",
+  "tr_equivalent": null,
+  "tr_definition": "Bir markanın mesajını, gündemdeki bir haberin dikkatinden yararlanmak için o habere dahil etme pratiği.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.newsjacking.com/",
+   "https://www.adweek.com/digital/interview-david-meerman-scott-discusses-the-art-of-newsjacking/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Move the needle:",
+  "term": "Move the Needle",
+  "short_definition": "A business idiom meaning to make a noticeable, measurable, and usually positive impact toward a goal.",
+  "long_explanation": "The phrase comes from the image of a needle on a gauge or meter shifting position in response to a change, and it is used in business to describe an action significant enough to produce a measurable result, as in \"the new campaign moved the needle on sales.\" It functions as shorthand for meaningful progress as opposed to busywork or activity that looks productive but changes nothing measurable. It matters for marketers because it is often used to set expectations for a campaign or initiative: stakeholders asking whether something will \"move the needle\" are really asking whether it is worth the investment given the size of impact it can realistically produce.",
+  "usage_context": null,
+  "related_terms": "Digital Maturity, Change Agent",
+  "tr_equivalent": null,
+  "tr_definition": "Bir hedefe doğru fark edilir ve ölçülebilir bir ilerleme kaydetmek anlamına gelen iş dünyası deyimi.",
+  "category": "Leadership & Organization",
+  "sources": [
+   "https://grammarist.com/idiom/move-the-needle/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "digital maturity:",
+  "term": "Digital Maturity",
+  "short_definition": "The degree to which an organization can effectively use digital technologies and processes to create value and respond to change.",
+  "long_explanation": "Digital maturity measures how well a company has adopted the tools, skills, and culture needed to run digital-first processes, respond to market shifts, and pursue digital transformation, rather than treating digital as a bolt-on to existing operations. It is not a single achievement but an ongoing capability that consulting firms and technology vendors assess using various maturity models and frameworks. It matters for marketing leadership because digital maturity level directly affects how fast a marketing team can adopt new channels, personalization, and data practices, and low maturity is a common reason ambitious campaigns underdeliver.",
+  "usage_context": null,
+  "related_terms": "Change Agent, Multiexperience",
+  "tr_equivalent": null,
+  "tr_definition": "Bir kuruluşun dijital teknoloji ve süreçleri kullanarak değer yaratma ve değişime uyum sağlama kapasitesi.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.bcg.com/capabilities/digital-technology-data/digital-maturity",
+   "https://www.tmg.io/article/what-is-digital-maturity/"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Edutainment:",
+  "term": "Edutainment",
+  "short_definition": "Content that blends education and entertainment, designed to teach while also engaging and amusing the audience.",
+  "long_explanation": "Edutainment is a portmanteau of \"education\" and \"entertainment\" used for games, films, shows, or digital experiences built to make learning engaging rather than dry. Walt Disney used the term as early as 1954 to describe the True-Life Adventure nature documentary series, and it has since expanded to cover eLearning platforms, branded content, and classroom technology. It matters for marketers, especially in education, kids' products, and B2B thought leadership, because content framed as edutainment tends to hold attention longer than a straightforward pitch while still delivering a brand or product message.",
+  "usage_context": "Walt Disney's True-Life Adventure documentary series in the 1950s is the earliest well-documented use of the term to describe entertainment built around educational content.",
+  "related_terms": "Storyselling, Immersive Storytelling",
+  "tr_equivalent": null,
+  "tr_definition": "Eğitim ve eğlenceyi bir araya getirerek öğretirken aynı zamanda izleyiciyi eğlendirmeyi amaçlayan içerik türü.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://www.merriam-webster.com/dictionary/edutainment",
+   "https://en.wikipedia.org/wiki/Educational_entertainment"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Multiexperience:",
+  "term": "Multiexperience",
+  "short_definition": "A design and technology approach that delivers a consistent brand experience across many devices, senses, and interaction modes, such as touch, voice, and gesture.",
+  "long_explanation": "Gartner named multiexperience one of its Top 10 Strategic Technology Trends for 2020, defining it as the shift from single-device thinking to a multisensory, multidevice, multimodal way people interact with the digital world, spanning web, mobile, wearables, voice assistants, and immersive interfaces. Rather than building one experience per channel, organizations aim for a cohesive journey regardless of which touchpoint a customer uses. It matters for marketers because a fragmented experience across channels damages brand perception and conversion, while multiexperience thinking forces marketing and product teams to coordinate content and interaction design across every surface a customer might use.",
+  "usage_context": null,
+  "related_terms": "Digital Maturity, Immersive Storytelling",
+  "tr_equivalent": null,
+  "tr_definition": "Dokunma, ses ve hareket gibi birçok etkileşim biçimi ve cihaz üzerinden tutarlı bir marka deneyimi sunan tasarım ve teknoloji yaklaşımı.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://www.gartner.com/en/documents/3981950/top-10-strategic-technology-trends-for-2020-multiexperie",
+   "https://www.gartner.com/en/information-technology/glossary/multiexperience-development-platforms-mxdp"
+  ],
+  "notes": "The Notion note for this term described an unrelated topic (genre analysis in content marketing writing), so it was not usable as a hint; the definition here is based on Gartner's established use of the term instead."
+ },
+ {
+  "notion_title": "Metamodernizm",
+  "term": "Metamodernism",
+  "short_definition": "A cultural sensibility positioned between modernism's sincerity and postmodernism's irony, now applied in marketing to describe brand tones that mix earnestness with self-aware humor.",
+  "long_explanation": "Cultural theorists Timotheus Vermeulen and Robin van den Akker introduced metamodernism in their 2010 essay \"Notes on Metamodernism,\" describing a cultural mood that oscillates between modernist hope and postmodern irony rather than settling into either. In marketing commentary, the term has been adapted to describe campaigns that combine optimism, honesty, and humor, appealing especially to Gen Z and Gen Alpha audiences who are wary of both naive positivity and cynical detachment. It matters for marketers because it offers language for a tone that has become common in youth-focused advertising: sincere but self-aware, hopeful but not saccharine.",
+  "usage_context": null,
+  "related_terms": "Gen Zalpha, Memevertising",
+  "tr_equivalent": "Metamodernizm",
+  "tr_definition": "Modernizmin samimiyeti ile postmodernizmin ironisi arasında salınan, artık pazarlamada içtenlik ve mizahı birleştiren marka tonlarını tanımlamak için de kullanılan kültürel yaklaşım.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metamodernism",
+   "https://www.metamodernism.com/2015/01/12/metamodernism-a-brief-introduction/"
+  ],
+  "notes": "The marketing-specific claims in the Notion note (e.g. the TikTok #RomanticiseYourLife and McDonald's \"A Second of Happiness\" campaign examples) could not be independently verified and were left out of the definition; an editor should confirm those specific campaign examples before using them."
+ },
+ {
+  "notion_title": "Amara’s Law",
+  "term": "Amara's Law",
+  "short_definition": "The observation that people tend to overestimate the short-term impact of a new technology and underestimate its long-term impact.",
+  "long_explanation": "Amara's Law is attributed to Roy Amara, a researcher and futurist who served as president of the Institute for the Future, and is generally dated to around 1978. It captures a recurring pattern: a new technology generates a wave of hype and inflated short-term expectations, followed by a period of disappointment, before its real, often larger, impact plays out over a longer timeframe than initial excitement suggested. It matters for marketers and technology leaders because it is a useful check on campaign and product planning around emerging technology, such as AI or AR, warning against both overpromising immediate results and dismissing a technology too early because it has not yet delivered on hype.",
+  "usage_context": null,
+  "related_terms": "Digital Maturity, Multiexperience",
+  "tr_equivalent": null,
+  "tr_definition": "İnsanların yeni bir teknolojinin kısa vadeli etkisini abartıp uzun vadeli etkisini hafife alma eğilimini ifade eden gözlem.",
+  "category": "Technology Trends",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roy_Amara",
+   "https://www.computer.org/publications/tech-news/trends/amaras-law-and-tech-future"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "Kidult Consumer",
+  "term": "Kidult Consumer",
+  "short_definition": "An adult consumer who buys toys, games, or collectibles for personal enjoyment rather than for a child, driven by nostalgia and hobbyist interest.",
+  "long_explanation": "Kidult blends \"kid\" and \"adult\" and is used in the toy and collectibles industry for grown consumers, often collectors, who purchase items like construction sets, action figures, or trading cards for themselves. Industry reporting puts kidults at roughly a quarter of annual toy sales, with brands such as Lego expanding product lines specifically toward adult builders seeking complex, nostalgic sets. It matters for marketers in toys, entertainment, and licensed merchandise because this audience buys based on nostalgia, craftsmanship, and franchise attachment rather than child-appropriate play value, requiring different messaging and pricing than traditional toy marketing.",
+  "usage_context": "Lego's expansion into large, intricate adult-targeted sets tied to franchises like Star Wars is a widely cited example of a brand building a product line specifically for kidult consumers.",
+  "related_terms": "Seenager, Adulting",
+  "tr_equivalent": null,
+  "tr_definition": "Bir çocuk için değil kendi keyfi için oyuncak, koleksiyon parçası veya oyun satın alan yetişkin tüketici.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://www.marketingbrew.com/stories/2025/07/24/labubus-hot-wheels-kidults-market-growth",
+   "https://kadence.com/en-us/knowledge/how-kidults-are-driving-toy-sales/"
+  ],
+  "notes": "Sources describe the term's earliest use as dating back to the 1950s in reference to adult fans of superhero cartoons, but do not attribute it to a single named coiner; treat the exact origin as uncertain."
+ },
+ {
+  "notion_title": "ADULTING:",
+  "term": "Adulting",
+  "short_definition": "A verb, popularized mainly by millennials, describing the act of doing routine responsible tasks associated with being a grown-up.",
+  "long_explanation": "Adulting refers humorously to completing ordinary adult responsibilities, like paying bills or doing laundry, framed as an accomplishment worth acknowledging, often with the hashtag #adulting. The modern usage grew out of social media around 2008-2009 and was significantly boosted by Kelly Williams Brown's 2013 book \"Adulting: How to Become a Grown-Up in 468 Easy(ish) Steps,\" with the word entering Urban Dictionary in 2014 and seeing a major surge in use by 2016. It matters for marketers targeting millennial and Gen Z audiences because brands, including major companies, have used \"adulting\" language in campaigns to speak to young adults navigating delayed milestones like homeownership or marriage with self-aware humor rather than a serious, aspirational tone.",
+  "usage_context": "Kelly Williams Brown's 2013 book \"Adulting\" is the clearest documented driver of the word's mainstream spread beyond internet slang.",
+  "related_terms": "Kidult Consumer, Seenager",
+  "tr_equivalent": null,
+  "tr_definition": "Genellikle Y kuşağı tarafından yaygınlaştırılan, yetişkinliğe özgü sıradan sorumlulukları yerine getirmeyi ifade eden mizahi terim.",
+  "category": "Consumer & Culture Trends",
+  "sources": [
+   "https://time.com/4361866/adulting-definition-meaning/",
+   "https://www.dictionary.com/culture/slang/adulting"
+  ],
+  "notes": null
+ },
+ {
+  "notion_title": "information product",
+  "term": "Information Product",
+  "short_definition": "A packaged piece of knowledge, such as an online course, ebook, or template, sold or reused repeatedly instead of being created fresh each time.",
+  "long_explanation": "An information product is expertise or research turned into a reusable, sellable format, for example an online course, guide, template, or report, that can be delivered to many customers with little additional effort once created. In creator-economy and digital-marketing contexts, this model lets a person or company convert knowledge built for one purpose into a scalable offering, and it can also mean adapting an existing information product to a similar new request rather than starting from scratch. It matters for marketers and consultants because it turns expertise into a repeatable revenue stream, and it lowers the barrier for less experienced people to present themselves credibly once they have a well-packaged product to point to.",
+  "usage_context": null,
+  "related_terms": "Storyselling, Earlybird",
+  "tr_equivalent": "Malumat ürünü",
+  "tr_definition": "Bir bilgi veya uzmanlığın, tekrar tekrar satılabilecek veya kullanılabilecek bir çevrimiçi kurs, e-kitap ya da şablon gibi paketlenmiş haline verilen ad.",
+  "category": "AI & Marketing Concepts",
+  "sources": [],
+  "notes": "The Notion note for this term was brief and informal; the definition above reflects the general \"information product\" concept from digital marketing and creator-economy usage."
+ }
+]

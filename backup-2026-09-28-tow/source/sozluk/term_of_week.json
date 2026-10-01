@@ -1,0 +1,25 @@
+[
+ {
+  "week": "2026-W39",
+  "hook": "As the 2026 backlash against AI-made ads grows, brands are tempted to hide their AI use behind handmade, human-looking work. This week's coverage of the 'human moat' as the last brand differentiator puts that trade-off on the table.",
+  "term": "Humanwashing",
+  "short_definition": "The practice of making AI-assisted work look fully human-made, through handcrafted styling, named creators or behind-the-scenes stories, while hiding how much AI actually did.",
+  "long_explanation": "Humanwashing is the mirror image of AI washing: instead of overstating AI to borrow a tech halo, a brand understates AI to protect an authenticity halo. Business ethicist Peter Seele introduced 'humanwashing of machines' in a March 2021 post, and in 2022 formalized it with Andreea Scorici and Mario Schultz in AI & Society as the deceptive use of a machine's human-like appearance to mislead people about what it can really do. Marketing writers then took the word over for brand and creative work: the WHAT'S ANU newsletter in December 2025, followed by agencies such as Flux+Form in 2026, where it now means passing off AI-generated content as human craft. The risk for marketers is trust: when undisclosed AI use surfaces, the brand is judged less on the AI itself than on the concealment.",
+  "usage_context": "In August 2025 J.Crew posted AI-generated images styled as vintage catalog shots on Instagram without saying they were AI-made. After the newsletter Blackbird Spyplane exposed them on 26 August 2025, the brand edited its captions to credit an 'AI photographer' rather than stating plainly that the images were AI-generated.",
+  "mma_connection": "The question sits in the territory of MMA's AI Leadership Think Tank (ALTT, formerly the AI Leadership Coalition), which runs a Responsible AI working group and the Responsible AI Innovation Lab (RAIL), a source of guidelines, templates and checklists for ethical AI use in marketing. It is also the counterpart of AI Washing, already in this dictionary: one overclaims AI, the other hides it, and both erode the same asset, consumer trust.",
+  "related_terms": "AI Washing, Synthetic Trust, Synthetic Influence, Responsible AI, Greenwashing",
+  "tr_equivalent": null,
+  "tr_definition": "Humanwashing, yapay zeka ile üretilen bir işi el emeği görünümü, isimlendirilmiş yaratıcılar ya da kamera arkası hikâyelerle tamamen insan yapımı gibi sunarak yapay zekanın katkısını gizlemektir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://flux-form.com/what-is-humanwashing/",
+   "https://whatsanu.substack.com/p/2510-humanwashing",
+   "https://www.blackbirdspyplane.com/p/jcrew-used-ai-to-counterfeit-their-own-vibes",
+   "https://www.adweek.com/creativity/in-2026-brands-are-virtue-signaling-about-ai/",
+   "https://businessesgrow.com/2026/09/21/human-moat/",
+   "https://petapixel.com/2025/09/02/j-crews-ai-generated-fashion-images-look-a-lot-like-real-photos/",
+   "https://www.mmaglobal.com/rail"
+  ],
+  "notes": "Recency: no source dated in the last 14 days uses the exact word; the topic is current through adjacent coverage (Schaefer, 21 Sep 2026). Seele's original sense differs from the marketing sense; both are stated. Fact-checked 2026-09-23."
+ }
+]
