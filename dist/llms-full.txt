@@ -1,6 +1,6 @@
 # MMA Academy Dictionary
 
-> A marketing dictionary published by MMA Academy (Marketing + Media Alliance, MEA region) with 321 terms, each defined in English and Turkish. Categories: AI and marketing concepts, consumer and culture trends, leadership and organization, technology trends, MMA programs and frameworks, digital marketing acronyms, and retail media.
+> A marketing dictionary published by MMA Academy (Marketing + Media Alliance, MEA region) with 323 terms, each defined in English and Turkish. Categories: AI and marketing concepts, consumer and culture trends, leadership and organization, technology trends, MMA programs and frameworks, digital marketing acronyms, and retail media.
 
 MMA here means Marketing + Media Alliance (formerly Mobile Marketing Association), not mixed martial arts.
 
@@ -215,6 +215,17 @@ The degree to which a marketing organization has the skills, data, processes, an
 AI readiness assesses an organization across several dimensions at once, data quality and access, employee skills and training, clear use cases, and leadership commitment, rather than treating AI adoption as simply buying a tool. A marketing team can have access to powerful generative AI tools and still fail to see value if workflows, measurement, and governance have not been redesigned to use them well. The concept reframes AI adoption as an organizational capability to build deliberately, not a one-time purchase or announcement, and that reframing is what matters to marketers and CMOs.
 
 Bir pazarlama organizasyonunun yapay zeka araçlarını etkin biçimde benimseyebilmesi için gereken beceri, veri, süreç ve liderlik desteğine sahip olma düzeyini ifade eder.
+
+## AI Slop
+
+Category: AI & Marketing Concepts
+URL: https://mma-academy-dictionary.vercel.app/term/ai-slop/
+
+Low-quality content made in bulk with generative AI, published to fill feeds and collect views or ad money rather than to inform or entertain.
+
+AI slop is the flood of cheap AI-generated images, videos, articles and posts that now fills social feeds, video platforms and search results. It is usually made fast, at scale and with little human checking, so it tends to be repetitive, wrong or strange. The word 'slop' first meant liquid waste or scraps fed to pigs. Its use for low-grade AI output apparently began around 2022, after AI image generators were released, among commenters on 4chan, Hacker News and YouTube. British programmer Simon Willison was an early champion of the term: in a blog post on 8 May 2024 he argued for using it and credited a tweet that said 'slop' was becoming a term of art. Merriam-Webster and the American Dialect Society both named 'slop' their 2025 Word of the Year. It is a close relative of workslop: workslop is polished-looking AI output inside a company that leaves colleagues with extra work, while AI slop is published to public feeds and platforms. For advertisers the term matters in two ways: ads can run next to slop, and AI-made creative can be read as slop by audiences, so media plans need adjacency checks and creative needs a human quality bar.
+
+AI slop, bilgi vermek ya da eğlendirmek yerine akışları doldurup izlenme veya reklam geliri toplamak için yapay zeka ile toplu halde üretilen düşük kaliteli içeriktir.
 
 ## AI Sycophancy
 
@@ -1237,6 +1248,17 @@ An umbrella term covering virtual reality (VR), augmented reality (AR), and mixe
 Extended reality is a category label used to group virtual reality (fully immersive digital environments), augmented reality (digital elements overlaid on the real world, typically via a phone or headset), and mixed reality (digital objects that interact with the real environment) under one term, since many devices and platforms increasingly blend these modes. For marketers, it is practical vocabulary for briefing agencies or vendors on immersive experiences, virtual product try-ons, AR filters, branded VR experiences, without having to specify the exact underlying technology up front.
 
 Turkish: Genişletilmiş gerçeklik. Extended Reality (XR), sanal gerçeklik (VR), artırılmış gerçeklik (AR) ve karma gerçekliği (MR) kapsayan şemsiye bir terimdir.
+
+## Fashiontainment
+
+Category: Consumer & Culture Trends
+URL: https://mma-academy-dictionary.vercel.app/term/fashiontainment/
+
+A brand strategy in which a fashion company acts like an entertainment business, building fandom through content, music, live experiences and licensing instead of relying on ad campaigns alone.
+
+Fashiontainment treats a clothing brand as a source of stories and cultural moments, not only of products. The brand co-produces shows, partners with artists, runs live events and designs collections with the talent, so fans meet it inside the entertainment they already follow. The word blends fashion and entertainment. Gap Inc. CEO Richard Dickson uses the word to describe the company's strategy. In January 2026 Gap Inc. announced the hire of former Paramount executive Pam Kaufman (starting 2 February) in the newly created role of Chief Entertainment Officer; Retail Dive reported his view that 'fashion is entertainment', or 'fashiontainment'. Gap Inc. now uses Fashiontainment as the name of the platform Kaufman leads. Like edutainment and archivetainment, it is built by joining a field's name with 'entertainment'. For marketers, the test is whether a partnership builds a lasting fan relationship across content, stores and product, or is simply a celebrity campaign with a new name.
+
+Fashiontainment, bir moda markasının yalnızca reklam kampanyalarına dayanmak yerine içerik, müzik, canlı deneyim ve lisanslama ile hayran kitlesi oluşturarak bir eğlence şirketi gibi çalıştığı marka stratejisidir.
 
 ## Feedforward
 

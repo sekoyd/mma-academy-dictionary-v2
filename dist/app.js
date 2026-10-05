@@ -241,6 +241,30 @@ function detailBlock(label, value) {
   return block;
 }
 
+function relatedBlock(record) {
+  const value = record["Synonyms / Related Terms"];
+  if (!value) return null;
+  const block = document.createElement("div");
+  block.className = "detail-block";
+  addText(block, "h3", "Related terms");
+  const paragraph = addText(block, "p", "");
+  String(value).split(",").map((name) => name.trim()).filter(Boolean).forEach((name, index) => {
+    if (index) paragraph.append(", ");
+    const target = state.termIndex.get(slugify(name));
+    if (!target || target === record) {
+      paragraph.append(name);
+      return;
+    }
+    const link = addText(paragraph, "a", name);
+    link.href = `#${target.id}`;
+    link.addEventListener("click", (event) => {
+      event.preventDefault();
+      openEntry(target);
+    });
+  });
+  return block;
+}
+
 function openEntry(record, updateHash = true) {
   $("#dialog-index").textContent = `Entry ${String(record.sourceIndex).padStart(3, "0")} / ${state.records.length}`;
   $("#dialog-letter").textContent = record.Letter;
@@ -262,16 +286,17 @@ function openEntry(record, updateHash = true) {
     ["Explanation", record["Short Definition"] && record["Source Definition / Long Explanation"]],
     ["Usage context / examples", record["Usage Context / Examples"]],
     ["MMA connection", record["MMA Connection"]],
-    ["Related terms", record["Synonyms / Related Terms"]],
+    ["Related terms", record],
     ["Turkish equivalent", record["TR Equivalent"]],
     ["Turkish definition", record["TR Definition"]],
   ].forEach(([label, value]) => {
-    const block = detailBlock(label, value);
+    const block = label === "Related terms" ? relatedBlock(value) : detailBlock(label, value);
     if (block) details.append(block);
   });
   details.hidden = details.childElementCount === 0;
   $("#dialog-source").textContent = `Source: ${record["Source Document"] || "Master glossary"}`;
-  elements.dialog.showModal();
+  if (!elements.dialog.open) elements.dialog.showModal();
+  elements.dialog.scrollTop = 0;
   if (updateHash) history.replaceState(null, "", `#${record.id}`);
 }
 
@@ -291,6 +316,12 @@ async function init() {
   const response = await fetch("data/glossary-source.json?v=15");
   if (!response.ok) throw new Error(`Glossary source failed: ${response.status}`);
   state.records = normalizeRecords(await response.json());
+  state.termIndex = new Map();
+  state.records.forEach((record) => {
+    [record.Term, record.Term.split(" (")[0]].forEach((name) => {
+      if (!state.termIndex.has(slugify(name))) state.termIndex.set(slugify(name), record);
+    });
+  });
 
   const sources = new Set(state.records.flatMap((record) => String(record["Source Link"] || "").split(/\s+/).filter(Boolean)));
   $("#stat-terms").textContent = state.records.length;
