@@ -173,6 +173,21 @@ def detail(label, value):
     return f'<div class="detail-block"><h3>{label}</h3><p>{escape(value)}</p></div>' if value else ""
 
 
+TERM_LINKS = {}
+
+
+def related_detail(r):
+    """Related terms block; names that match a public entry link to its term page."""
+    value = r["Synonyms / Related Terms"]
+    if not value:
+        return ""
+    parts = []
+    for name in (n.strip() for n in value.split(",")):
+        target = TERM_LINKS.get(slugify(name))
+        parts.append(f'<a href="../{target}/">{escape(name)}</a>' if target and target != r["id"] else escape(name))
+    return f'<div class="detail-block"><h3>Related terms</h3><p>{", ".join(p for p in parts if p)}</p></div>'
+
+
 def term_page(r) -> str:
     url = f"{SITE_URL}/term/{r['id']}/"
     desc = preview(r["definition"])
@@ -202,7 +217,7 @@ def term_page(r) -> str:
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="icon" href="../../favicon.ico" sizes="any" />
     <link rel="apple-touch-icon" href="../../assets/icons/apple-touch-icon.png" />
-    <link rel="stylesheet" href="../../styles.css?v=15" />
+    <link rel="stylesheet" href="../../styles.css?v=16" />
     <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
   </head>
   <body>
@@ -222,7 +237,7 @@ def term_page(r) -> str:
         {detail("Explanation", long_text)}
         {detail("Usage context / examples", r["Usage Context / Examples"])}
         {detail("MMA connection", r.get("MMA Connection"))}
-        {detail("Related terms", r["Synonyms / Related Terms"])}
+        {related_detail(r)}
         {detail("Turkish equivalent", r["TR Equivalent"])}
         {detail("Turkish definition", r["TR Definition"])}
       </div>
@@ -285,6 +300,9 @@ def main():
     html = html.replace("<!--JSONLD-->", f'<script type="application/ld+json">{site_jsonld(records)}</script>')
     index.write_text(html, encoding="utf-8")
 
+    for r in records:
+        TERM_LINKS.setdefault(slugify(r["Term"]), r["id"])
+        TERM_LINKS.setdefault(slugify(r["Term"].split(" (")[0]), r["id"])
     for r in records:
         page = DIST / "term" / r["id"] / "index.html"
         page.parent.mkdir(parents=True, exist_ok=True)

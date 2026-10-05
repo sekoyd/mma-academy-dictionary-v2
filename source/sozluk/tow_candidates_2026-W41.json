@@ -1,0 +1,64 @@
+[
+ {
+  "term": "AI Slop",
+  "what_it_is": "Low-quality, mass-produced AI-generated content that floods feeds and platforms.",
+  "why_this_week": "Digiday 1 Oct 2026: Pixability launches Pixie to filter AI slop on YouTube for ad adjacency; Adweek Oct 2026: Red Antler's Fat Earth Studios pitches UGC against AI slop; Digiday 1 Oct 2026 on creators and YouTube removing AI slop accounts.",
+  "origin": "In-group slang from about 2022 (4chan, Hacker News, YouTube); championed by Simon Willison on his blog, May 2024; 'slop' named 2025 Word of the Year by Merriam-Webster and the American Dialect Society. Earlier meaning: liquid waste or animal feed.",
+  "brand_example": "Pixability Pixie (Digiday, 1 Oct 2026); Coca-Cola AI holiday ads backlash, Nov 2024.",
+  "sources": [
+   "https://digiday.com/media-buying/as-ai-slop-spreads-pixability-offers-a-way-to-root-it-out-on-youtube/",
+   "https://www.adweek.com/agencies/red-antler-owned-creator-studio-wants-to-fight-ai-slop-with-ugc/",
+   "https://digiday.com/marketing/the-creator-economys-stance-on-ai-is-shifting-again/",
+   "https://en.wikipedia.org/wiki/AI_slop"
+  ],
+  "recency_evidence": "Digiday 1 Oct 2026 (x2); Adweek October 2026.",
+  "catchiness": 4,
+  "relevance": "AI-generated content is spreading in Turkish and MEA feeds; brand safety and human-made positioning apply directly.",
+  "notes": "Not a fresh coinage; famous since 2024-2025. Picked."
+ },
+ {
+  "term": "Fashiontainment",
+  "what_it_is": "Gap Inc.'s label for treating fashion as entertainment through music, TV and creator partnerships.",
+  "why_this_week": "Marketing Dive 22 Sep 2026: Gap's first fashiontainment deal with boy band JYT.",
+  "origin": "Gap Inc. CEO Richard Dickson, with hire of Pam Kaufman as Chief Entertainment Officer (Retail Dive, 16 Jan 2026).",
+  "brand_example": "Gap x JYT docuseries, capsule, mall tour (Marketing Dive, 22 Sep 2026).",
+  "sources": [
+   "https://marketingdive.com/news/gap-rolls-out-fashiontainment-strategy-with-boy-band-collaboration/830984",
+   "https://www.retaildive.com/news/gap-inc-paramount-hollywood-exec-fashiontainment-role/809849/"
+  ],
+  "recency_evidence": "22 Sep 2026 (13 days).",
+  "catchiness": 5,
+  "relevance": "Fits entertainment-led branding in the region; pairs with Archivetainment.",
+  "notes": "Runner-up 1: a single company's label; in-window source at the edge of 14 days. Good monthly-update candidate."
+ },
+ {
+  "term": "Crocodile Effect",
+  "what_it_is": "Gap between rising search impressions and falling clicks under AI Overviews; 'reverse' variant for Shopping ads.",
+  "why_this_week": "Ignite Visibility weekly roundup 26 Sep to 2 Oct 2026.",
+  "origin": "Emerged in the SEO community, no single coiner; reverse variant credited to Mike Ryan (Smarter Ecommerce).",
+  "brand_example": "None found.",
+  "sources": [
+   "https://ignitevisibility.com/digital-marketing-news",
+   "https://seroundtable.com/google-shopping-ads-imp-ctr-42021.html",
+   "https://www.accuracast.com/newsletter/the-crocodile-mouth-effect-of-seo/"
+  ],
+  "recency_evidence": "Roundup only within 14 days.",
+  "catchiness": 4,
+  "relevance": "Same pattern visible for Turkish/MEA SEO teams.",
+  "notes": "Runner-up 2: no brand example, no coiner, base term from 2025."
+ },
+ {
+  "term": "Post-Feed World",
+  "what_it_is": "Idea that social is now broadcast and creator influence is proven by IRL events.",
+  "why_this_week": "Digiday 5 Oct 2026, James Kirkham (Iconic).",
+  "origin": "Attributed to James Kirkham; not verified as coinage.",
+  "brand_example": "Dude Perfect tours, White Claw x Unwell Tour (Digiday 5 Oct 2026).",
+  "sources": [
+   "https://digiday.com/marketing/the-future-is-going-to-be-in-real-life-irl-events-are-becoming-the-new-proof-point-for-creator-marketing/"
+  ],
+  "recency_evidence": "5 Oct 2026.",
+  "catchiness": 3,
+  "relevance": "Relevant to event-heavy MEA creator markets.",
+  "notes": "Runner-up 3: fails the 2-source rule."
+ }
+]

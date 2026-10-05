@@ -1,6 +1,6 @@
 # MMA Academy Dictionary
 
-> A marketing dictionary published by MMA Academy (Marketing + Media Alliance, MEA region) with 321 terms, each defined in English and Turkish. Categories: AI and marketing concepts, consumer and culture trends, leadership and organization, technology trends, MMA programs and frameworks, digital marketing acronyms, and retail media.
+> A marketing dictionary published by MMA Academy (Marketing + Media Alliance, MEA region) with 323 terms, each defined in English and Turkish. Categories: AI and marketing concepts, consumer and culture trends, leadership and organization, technology trends, MMA programs and frameworks, digital marketing acronyms, and retail media.
 
 MMA here means Marketing + Media Alliance (formerly Mobile Marketing Association), not mixed martial arts.
 
@@ -98,6 +98,7 @@ MMA here means Marketing + Media Alliance (formerly Mobile Marketing Association
 - [AI Ethics](https://mma-academy-dictionary.vercel.app/term/ai-ethics/): The set of principles and practices concerned with developing and using artificial intelligence in a safe, fair, and accountable way.
 - [AI Orchestrator](https://mma-academy-dictionary.vercel.app/term/ai-orchestrator/): A person who coordinates multiple AI tools with clear instructions to run complex workflows, rather than using one AI tool alone.
 - [AI Readiness in Marketing](https://mma-academy-dictionary.vercel.app/term/ai-readiness-in-marketing/): The degree to which a marketing organization has the skills, data, processes, and leadership support needed to adopt AI tools effectively.
+- [AI Slop](https://mma-academy-dictionary.vercel.app/term/ai-slop/): Low-quality content made in bulk with generative AI, published to fill feeds and collect views or ad money rather than to inform or entertain.
 - [AI Sycophancy](https://mma-academy-dictionary.vercel.app/term/ai-sycophancy/): The tendency of AI systems, especially large language models, to give overly agreeable answers that flatter the user rather than tell the truth.
 - [AI Washing](https://mma-academy-dictionary.vercel.app/term/ai-washing/): The practice of exaggerating or falsely claiming a product's or company's use of artificial intelligence to appear more innovative than it actually is.
 - [AI Wrapper](https://mma-academy-dictionary.vercel.app/term/ai-wrapper/): A product that packages an existing large language model, accessed via API, behind a simple interface to deliver a specific, ready-to-use experience.
@@ -275,6 +276,7 @@ MMA here means Marketing + Media Alliance (formerly Mobile Marketing Association
 - [Distorted Reality](https://mma-academy-dictionary.vercel.app/term/distorted-reality/): The gap between curated, filtered, or manipulated media content and actual reality, especially as shaped by social media and retouched marketing imagery.
 - [Doomscrolling](https://mma-academy-dictionary.vercel.app/term/doomscrolling/): The habit of continuously scrolling through distressing or negative news and social media content, even when it causes anxiety.
 - [Effective Altruism](https://mma-academy-dictionary.vercel.app/term/effective-altruism/): A philosophical and social movement that uses evidence and reasoning to determine the most effective ways to help others and allocate resources.
+- [Fashiontainment](https://mma-academy-dictionary.vercel.app/term/fashiontainment/): A brand strategy in which a fashion company acts like an entertainment business, building fandom through content, music, live experiences and licensing instead of relying on ad …
 - [Funvertising](https://mma-academy-dictionary.vercel.app/term/funvertising/): Advertising that emphasizes playfulness, humor, and entertainment value as its primary way of engaging an audience, rather than direct persuasion.
 - [Gen Z Mindset](https://mma-academy-dictionary.vercel.app/term/gen-z-mindset/): The distinct values, media habits, and expectations of Generation Z consumers that marketers must understand to engage them effectively.
 - [Gen Zalpha](https://mma-academy-dictionary.vercel.app/term/gen-zalpha/): An informal micro-generation label for people born around the cusp of Generation Z and Generation Alpha, blending traits of both cohorts.

@@ -1,0 +1,22 @@
+[
+ {
+  "term": "AI Slop",
+  "short_definition": "Low-quality content made in bulk with generative AI, published to fill feeds and collect views or ad money rather than to inform or entertain.",
+  "usage_context": "In November 2024, Coca-Cola released AI-generated holiday commercials that were met with backlash from viewers and artists. On 1 October 2026, Digiday reported that Pixability had launched Pixie, a tool that filters AI slop out of YouTube ad buys using a combination of human verification and AI. Pixability chief product officer Jackie Paulino said Pixie removes \"MFA content, nefarious content, things that are generated really as clickbait\".",
+  "tr_equivalent": null,
+  "tr_definition": "AI slop, bilgi vermek ya da eğlendirmek yerine akışları doldurup izlenme veya reklam geliri toplamak için yapay zeka ile toplu halde üretilen düşük kaliteli içeriktir.",
+  "category": "AI & Marketing Concepts",
+  "sources": [
+   "https://digiday.com/media-buying/as-ai-slop-spreads-pixability-offers-a-way-to-root-it-out-on-youtube/",
+   "https://www.adweek.com/agencies/red-antler-owned-creator-studio-wants-to-fight-ai-slop-with-ugc/",
+   "https://digiday.com/marketing/the-creator-economys-stance-on-ai-is-shifting-again/",
+   "https://en.wikipedia.org/wiki/AI_slop",
+   "https://simonwillison.net/2024/May/8/slop/",
+   "https://www.americandialect.org/2025-word-of-the-year-is-slop",
+   "https://en.wiktionary.org/wiki/slop"
+  ],
+  "long_explanation": "AI slop is the flood of cheap AI-generated images, videos, articles and posts that now fills social feeds, video platforms and search results. It is usually made fast, at scale and with little human checking, so it tends to be repetitive, wrong or strange. The word 'slop' first meant liquid waste or scraps fed to pigs. Its use for low-grade AI output apparently began around 2022, after AI image generators were released, among commenters on 4chan, Hacker News and YouTube. British programmer Simon Willison was an early champion of the term: in a blog post on 8 May 2024 he argued for using it and credited a tweet that said 'slop' was becoming a term of art. Merriam-Webster and the American Dialect Society both named 'slop' their 2025 Word of the Year. It is a close relative of workslop: workslop is polished-looking AI output inside a company that leaves colleagues with extra work, while AI slop is published to public feeds and platforms. For advertisers the term matters in two ways: ads can run next to slop, and AI-made creative can be read as slop by audiences, so media plans need adjacency checks and creative needs a human quality bar.",
+  "related_terms": "Workslop, Brain Rot, MFA (Made-for-Advertising), Humanwashing, Synthetic Trust",
+  "notes": "No single coiner; the 2022 early use is reported by Wikipedia as approximate, and Willison (May 2024) popularized the term rather than coined it. Merriam-Webster's Word of the Year page could not be opened (403); the pick is confirmed via the American Dialect Society page and Wikipedia. Adweek article dated only October 2026. Fact-checked 2026-10-05. Considered for Term of the Week 2026-W41 and added as a regular entry instead."
+ }
+]

@@ -126,3 +126,22 @@ Build a separate, brand-faithful MMA Academy glossary site from the supplied XLS
 - Build passed: leaks=[], 369 raw records (+2), 321 public records, every public record has a TR Definition, both new /term/ pages exist.
 - Deploy: approved by user 2026-10-01; first attempt hit "Not authorized" (scope mismatch), succeeded on retry with `--scope serkans-projects-a99e9e5f`. Live and verified: /term/vibe-marketing/, /term/automation-boundary/, and / all return 200.
 - Backup: `backup-2026-10-01-auto/`. Report: `reports/auto-update-2026-10-01.md`
+
+# 2026-10-01 (b): packaged as a git repo on GitHub
+
+- `git init`, `.gitignore` added (node_modules symlink, .claude/ session logs, .vercel link files, __pycache__, .env*, keys). 447 files committed.
+- Created private repo `sekoyd/mma-academy-dictionary-v2` via `gh repo create ... --push`. https://github.com/sekoyd/mma-academy-dictionary-v2
+- No secrets/credentials found during the pre-commit scan.
+
+# 2026-10-05: Term of the Week 2026-W41
+
+- Pick: AI Slop (Digiday 1 Oct 2026 Pixability Pixie YouTube slop filter; Adweek Oct 2026 Red Antler/Fat Earth UGC studio; Digiday 1 Oct 2026 creators). Runners-up: Fashiontainment (Gap, Marketing Dive 22 Sep), Crocodile Effect (SEO, no brand case), Post-Feed World (single source).
+- Podcasts: no new episodes in window (DAM last 8 Sep, Building Better CMOs last 22 Jul).
+- Fact-checked (mma-fact-checker): quote re-attributed to Jackie Paulino (CPO, Pixability); Willison wording fixed; Pixability description fixed; "MMA has not published a study" sentence removed; RAIL guide count dropped. Earlier meaning confirmed via Wiktionary.
+- Build passed: leaks=[], 322 public, /term/ai-slop/ exists, home shows W41, TR Definition present, no em-dash.
+- Deploy: NOT done; blocked by permission classifier in the scheduled run. Waiting for user.
+- Backup: backup-2026-10-05-tow/. Report: reports/term-of-week-2026-W41.md
+- Update (user): AI Slop is NOT the Term of the Week (too close to Workslop). Removed from term_of_week.json; added as a regular entry in `source/sozluk/acronyms_2026_terms_oct.json` with a Workslop cross-reference. W41 pick still open (home shows W40).
+- Related terms are now clickable when they match a public entry (tools/build_public.py related_detail + TERM_LINKS; site/app.js relatedBlock + state.termIndex; CSS .detail-block a; cache bust v=16). 91 term pages now carry internal links. Tested locally: AI Slop dialog -> Workslop link opens Workslop, no console errors.
+- W41 final pick: Fashiontainment (Gap Inc. x JYT, press release + Marketing Dive 22 Sep 2026; Retail Dive 16 Jan 2026 for Dickson/Kaufman). Fact-checked: Kaufman hire wording (announced Jan, start 2 Feb, newly created role), removed "put on the industry agenda", MMA hedge reworded. Runners-up: Crocodile Effect, Post-Feed World (AI Slop moved to regular entry).
+- Build passed (leaks=[], 323 public). Deployed with user approval 2026-10-05. Live: /, /term/fashiontainment/, /term/ai-slop/ all 200; home shows W41; AI Slop links to Workslop; app.js?v=16 served.
